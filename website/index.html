@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Inside Black Boxes — Supreme Court decisions on immigration, administrative law, and AI, explained for lawyers, academics, and policymakers."
+    />
+    <title>Inside Black Boxes — Supreme Court · Immigration · Admin Law · AI</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <p class="hero-eyebrow">A podcast for practitioners</p>
+            <h1>Open the <em>black boxes</em> that shape American law</h1>
+            <p class="hero-lede">
+              Timely analysis of Supreme Court decisions in immigration and administrative law —
+              plus the AI governance questions courts and agencies haven't fully answered yet.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="#featured">Featured episode</a>
+              <a class="btn btn-secondary" href="/episodes.html#tracked">Cases we're tracking</a>
+            </div>
+          </div>
+          <aside class="hero-panel" aria-label="Podcast mission">
+            <h2>What we cover</h2>
+            <p>
+              When the Court issues an opinion, practitioners need more than a headline.
+              Inside Black Boxes translates holdings into Monday-morning guidance.
+            </p>
+            <ul>
+              <li>Supreme Court opinions and oral arguments</li>
+              <li>Immigration and nationality law</li>
+              <li>Administrative procedure and judicial review</li>
+              <li>Generative AI and enterprise legal technology</li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <section class="section" id="mission">
+        <div class="container">
+          <div class="section-header">
+            <span class="section-label">Mission</span>
+            <h2>Clarity for lawyers, academics, and policymakers</h2>
+            <p class="section-desc">
+              The institutions that decide immigration cases and govern agency action are often opaque.
+              This podcast makes their outputs legible — with accuracy first, speed second, and hot takes never.
+            </p>
+          </div>
+          <div class="mission-grid">
+            <article class="mission-card card">
+              <div class="mission-icon" aria-hidden="true">§</div>
+              <h3>Holdings you can rely on</h3>
+              <p>
+                Every episode is built from official slip opinions and verified by an immigration
+                and administrative law attorney before publication.
+              </p>
+            </article>
+            <article class="mission-card card">
+              <div class="mission-icon" aria-hidden="true">⚖</div>
+              <h3>Practitioner-first framing</h3>
+              <p>
+                We focus on standards of review, remand issues, and client-impact checklists —
+                not punditry or political scorekeeping.
+              </p>
+            </article>
+            <article class="mission-card card">
+              <div class="mission-icon" aria-hidden="true">◈</div>
+              <h3>Law meets emerging tech</h3>
+              <p>
+                As courts and firms adopt AI, we track the legal questions that follow:
+                disclosure, governance, and the limits of automation in high-stakes practice.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="featured" style="background: var(--color-bg-alt);">
+        <div class="container">
+          <div class="section-header">
+            <span class="section-label">Featured</span>
+            <h2>Latest episode</h2>
+            <p class="section-desc">
+              Our most recent analysis — starting with a dry run of the opinion-drop workflow
+              on a March 2026 asylum decision.
+            </p>
+          </div>
+          <div id="featured-episode"></div>
+        </div>
+      </section>
+
+      <section class="section" id="tracked-preview">
+        <div class="container">
+          <div class="section-header">
+            <span class="section-label">On the docket</span>
+            <h2>Cases we're tracking</h2>
+            <p class="section-desc">
+              Three major immigration decisions expected before the October 2025 Term ends.
+              Episodes publish upon release of the slip opinion.
+            </p>
+          </div>
+          <div id="tracked-cases-preview" class="cases-grid"></div>
+          <p style="margin-top: 2rem; text-align: center;">
+            <a class="btn btn-secondary" href="/episodes.html#tracked">View full case tracker</a>
+          </p>
+        </div>
+      </section>
+
+      <section class="cta-band">
+        <div class="container">
+          <h2>Follow the Court. Skip the noise.</h2>
+          <p>
+            Subscribe for episode drops when major immigration and administrative law
+            decisions land — plus oral argument coverage when the new Term begins.
+          </p>
+          <a class="btn btn-primary" href="/about.html">Meet the host</a>
+        </div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script type="module">
+      import { initLayout } from '/src/js/layout.js';
+      import { renderFeaturedEpisode, renderTrackedCases } from '/src/js/render.js';
+
+      initLayout();
+      renderFeaturedEpisode(document.getElementById('featured-episode'));
+      renderTrackedCases(document.getElementById('tracked-cases-preview'));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="About Marty Robles-Avila, host of Inside Black Boxes — Supreme Court, immigration law, administrative law, and AI." />
+    <title>About — Inside Black Boxes</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main>
+      <section class="page-hero">
+        <div class="container">
+          <span class="section-label">About</span>
+          <h1>Marty Robles-Avila</h1>
+          <p class="lede">
+            Immigration and administrative law attorney. Host and creator of
+            <em>Inside Black Boxes</em>.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container about-grid">
+          <aside class="about-portrait" aria-label="Portrait placeholder">
+            <div class="about-portrait-inner">
+              <p>Marty Robles-Avila</p>
+              <span>Host · Inside Black Boxes</span>
+            </div>
+          </aside>
+          <div class="about-content" id="about-content"></div>
+        </div>
+      </section>
+
+      <section class="section" style="background: var(--color-bg-alt); padding-top: 0;">
+        <div class="container">
+          <div class="card-elevated" style="text-align: center; max-width: 640px; margin: 0 auto;">
+            <span class="section-label">The podcast</span>
+            <h2>Why Inside Black Boxes?</h2>
+            <p style="color: var(--color-ink-muted); margin-bottom: 0;">
+              Supreme Court decision-making, immigration enforcement, agency rulemaking, and
+              enterprise AI adoption all operate inside institutional black boxes — systems
+              whose inputs and outputs are public, but whose reasoning can be hard to parse
+              under deadline. This podcast is the key for practitioners who can't wait for
+              law review articles.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="cta-band">
+        <div class="container">
+          <h2>Start with the featured episode</h2>
+          <p>Our dry run walks through a unanimous March 2026 asylum decision — and the workflow we'll use when the major immigration opinions drop.</p>
+          <a class="btn btn-primary" href="/episodes/urias-orellana.html">Read episode notes</a>
+        </div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script type="module">
+      import { initLayout } from '/src/js/layout.js';
+      import { host } from '/src/data/site.js';
+
+      initLayout();
+
+      document.getElementById('about-content').innerHTML = `
+        <p class="section-label" style="margin-bottom: 0.5rem;">${host.title}</p>
+        <h2 style="margin-bottom: 1.5rem;">${host.name}</h2>
+        ${host.bio.map((p) => `<p>${p}</p>`).join('')}
+        <h3 style="margin-top: 2rem;">Areas of focus</h3>
+        <ul class="focus-list">
+          ${host.focus.map((item) => `<li>${item}</li>`).join('')}
+        </ul>
+      `;
+    </script>
+  </body>
+</html>

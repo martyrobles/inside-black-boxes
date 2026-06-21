@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Episode archive — Inside Black Boxes podcast on Supreme Court immigration and administrative law." />
+    <title>Episodes — Inside Black Boxes</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main>
+      <section class="page-hero">
+        <div class="container">
+          <span class="section-label">Archive</span>
+          <h1>Episodes</h1>
+          <p class="lede">
+            Opinion drops, oral argument debriefs, and term-wrap analysis —
+            organized for practitioners who need the holding and the checklist.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-header">
+            <h2>All episodes</h2>
+            <p class="section-desc">More episodes publish as Supreme Court decisions are released.</p>
+          </div>
+          <div id="episode-grid" class="episode-grid"></div>
+        </div>
+      </section>
+
+      <section class="section" id="tracked" style="background: var(--color-bg-alt);">
+        <div class="container">
+          <div class="section-header">
+            <span class="section-label">Watchlist</span>
+            <h2>Supreme Court cases tracked</h2>
+            <p class="section-desc">
+              Priority immigration cases pending decision. When the slip opinion posts,
+              a new episode and show notes will follow after attorney review.
+            </p>
+          </div>
+          <div id="tracked-cases" class="cases-grid"></div>
+        </div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script type="module">
+      import { initLayout } from '/src/js/layout.js';
+      import { renderEpisodeGrid, renderTrackedCases } from '/src/js/render.js';
+
+      initLayout();
+      renderEpisodeGrid(document.getElementById('episode-grid'));
+      renderTrackedCases(document.getElementById('tracked-cases'));
+    </script>
+  </body>
+</html>

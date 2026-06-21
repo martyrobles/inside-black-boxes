@@ -1,0 +1,14 @@
+{
+  "name": "inside-black-boxes-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Website for the Inside Black Boxes podcast",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

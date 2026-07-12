@@ -1,0 +1,33 @@
+---
+description: Inside Black Boxes podcast & website — project context, tone, and conventions
+alwaysApply: true
+---
+
+# Inside Black Boxes
+
+Supreme Court podcast + companion website. Smart, clever, opinionated commentary — not dry legal recap.
+
+## Voice
+
+Sharp analysis with personality. Like a smart friend explaining what happened and why it matters. Practitioner-aware but accessible.
+
+## Stack
+
+- Website: Vite static site in `website/`, deployed to Vercel (root dir: `website/`)
+- Content: markdown in `episodes/[slug]/`, site data in `website/src/data/site.js`
+- Podcast/RSS/media hosting: not yet decided — don't assume a platform
+
+## Content workflow
+
+`outline.md` → record → `show-notes.md` → `clips.md` → publish. Verify all quotes against official slip opinions. Note AI assistance; attorney reviews before publish.
+
+## Episode types
+
+Opinion drop · Oral argument debrief · Term wrap
+
+## Conventions
+
+- Case slugs: lowercase, hyphenated (e.g. `urias-orellana`)
+- Clips: 9:16 vertical, LinkedIn-first, approval checklist in `clips.md`
+- Prefer minimal, shippable changes over premature architecture
+- See `AGENTS.md` for full project context

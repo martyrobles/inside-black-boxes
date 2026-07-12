@@ -2,3 +2,9 @@
 node_modules/
 website/node_modules/
 website/dist/
+apps/lab/node_modules/
+apps/lab/.next/
+apps/lab/.env.local
+apps/lab/.env*.local
+.env
+.env.local

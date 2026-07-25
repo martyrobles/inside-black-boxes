@@ -24,39 +24,31 @@ Under the current legal framework only humans can exercise independent professio
 
 **Learned**
 
-- The project’s live problem is a **gap between assignment and practice**: law/ethics assign independent professional judgment and discretion to humans; generative AI increasingly performs that work.
-- Scope already includes at least two human roles: **professionals** (independent professional judgment) and **government adjudicators** deciding **benefits**.
-- The author’s own framing ends in a question, not a slogan: *how does this implicate ethical and legal standards?* The project is not only descriptive; it is about **standards under pressure**.
+- Gap between assignment and practice: law/ethics assign judgment to humans; genAI increasingly performs that work.
+- Scope includes professionals and government benefits adjudicators.
+- Central question is implications for ethical and legal standards.
 
-**Assumptions / inconsistencies to watch**
+**Assumptions / inconsistencies**
 
-- “Only humans can” may mean *normatively* (law requires it), *descriptively* (only humans are capable), or both. Those are different claims.
-- “Increasingly it’s not humans… it’s genAI” can mean (a) the machine decides, (b) the human rubber-stamps model output, or (c) the institution redesigns work so the model is the real locus of judgment. Machine Discretion may care about one of these more than the others.
-- Professional judgment and benefits adjudication share “human discretion” but sit in different ethical and legal regimes (professional responsibility vs. administrative law / due process). Treating them as one tension is powerful — and may later need splitting.
-- “Implicate ethical standards and legal standards” assumes those standards are currently written for a human-only world and may not yet speak clearly to genAI substitution.
+- “Only humans can” may be normative, descriptive, or both.
+- “It’s genAI” could mean machine decides, human rubber-stamps, or institutional redesign.
+- Professional responsibility and administrative adjudication are different regimes.
 
-**Unresolved after Q01**
+**Unresolved after Q01** — carried into Q02.
 
-- Exact failure mode: machine as decision-maker vs. human as legal fiction
-- Which professions / which adjudicative systems are in the primary frame
-- Whether the project’s aim is to **defend** human-only discretion, **redesign** standards for a hybrid world, **document** the breach, or something else
-- What “editorial operating system” means in a domain that sounds legal-ethical rather than publishing-editorial
+### Spec updates
 
-### Spec updates from this answer
-
-- Seeded `PHILOSOPHY.md` with the working core tension
-- Updated `MANIFESTO.md` and `STATUS.md`
-
-### Next document recommended
-
-**`EDITORIAL_JUDGMENT.md`** — once we clarify whether “editorial” here means publication judgment, professional/adjudicative judgment, or a broader theory of judgment that covers both. Until then, keep deepening `PHILOSOPHY.md`.
+- Seeded `PHILOSOPHY.md`
 
 ---
 
 ## Question 02 — Where the discretion actually sits
 
-**Status:** Awaiting answer  
-**Asked:** 2026-07-25
+**Status:** Answered  
+**Asked:** 2026-07-25  
+**Answered:** 2026-07-25
+
+### Question
 
 When you say it’s increasingly not humans who exercise judgment but genAI — which failure are you naming?
 
@@ -65,3 +57,59 @@ When you say it’s increasingly not humans who exercise judgment but genAI — 
 **C.** Something else (say what).
 
 Which of these is the live problem Machine Discretion is about — and why does that distinction matter for ethical and legal standards?
+
+### Answer (author)
+
+B. But also important to note that humans are deeply flawed and cannot contain much context. As LLMs have broader larger context windows they’ll have better access to information and knowledge and therefore can make better decisions or adjudications. What happens when machines are better than humans but the law requires humans make those calls?
+
+### Synthesis
+
+**Learned**
+
+- Primary failure mode is **B: legal fiction of human judgment** — human signature, machine-performed discretion.
+- The project is **not** a romance of human superiority. Humans are framed as deeply flawed and context-limited.
+- A second thesis is emerging: **competence may favor machines** (via broader context / information access) while **legal authority remains human**.
+- The author’s own culminating question — *what happens when machines are better but law requires humans?* — may be the book’s central problem, not a side note.
+
+**Assumptions / inconsistencies**
+
+- “Better access to information and knowledge” is being treated as grounds for “better decisions or adjudications.” That equates **context capacity** with **judgment quality**. Devil’s advocate: adjudication also turns on values, legitimacy, accountability, mercy, and institutional role — none of which follow automatically from a larger context window.
+- Q01 sounded like a standards crisis caused by AI doing human-reserved work. Q02 adds that AI may *deserve* the work epistemically. Those can coexist, but they change the moral center: from “stop the breach” to “the law and competence have divorced.”
+- Choosing B means the ethical problem may be **misrepresentation / hollow accountability** as much as **automation**. Choosing “machines better” means the ethical problem may eventually be **refusing the better adjudicator**. The project has not said which horn it grabs when they conflict.
+- “Deeply flawed” humans + required human calls could imply the law is protecting something other than accuracy (e.g. dignity, appealability, democratic control). Unstated.
+
+**Unresolved after Q02**
+
+- What “better” means (metric of superiority)
+- When competence and legal authority diverge, which should yield — or what third structure appears
+- Whether the human signature is a bug (fiction), a feature (responsibility anchor), or a temporary bridge
+- Aim of the project given this paradox
+
+### Spec updates from this answer
+
+- Expanded `PHILOSOPHY.md` with legal fiction + competence paradox
+- Updated `MANIFESTO.md` and `STATUS.md`
+
+### Next document recommended
+
+Still **`EDITORIAL_JUDGMENT.md`** once “better judgment” and the human’s remaining role are clearer. Optionally a later `LEGITIMACY.md` if the competence paradox becomes its own pillar. For now, keep deepening `PHILOSOPHY.md`.
+
+---
+
+## Question 03 — What “better” means
+
+**Status:** Awaiting answer  
+**Asked:** 2026-07-25
+
+You said machines may make better decisions or adjudications as context grows. **Better at what?**
+
+Pick the load-bearing sense — or rank them:
+
+- More accurate application of rules to facts  
+- More consistent across like cases  
+- Fairer outcomes  
+- More fully informed  
+- Faster / more complete consideration of the record  
+- Something else you mean by “better”
+
+And if a machine wins on your metric but still cannot own legal responsibility — is it still “better” at adjudication, or only better at a component of adjudication?

@@ -87,17 +87,19 @@ From the project’s opening statement:
 - The desired outcome of this phase is an **editorial operating system**
 - Software design waits on mutual agreement that the vision is coherent
 
-From Interview Q01 (see `PHILOSOPHY.md`):
+From Interview Q01–Q02 (see `PHILOSOPHY.md`):
 
 - Law assigns **independent professional judgment and discretion** to humans; government adjudicators also exercise judgment over **benefits**
-- In practice, **generative AI** increasingly performs that work
+- Primary failure mode: **legal fiction of human judgment** — human signs; genAI does the real discretionary work
+- Humans are **flawed and context-limited**; larger model context may yield **better** decisions/adjudications
+- Central paradox: **what happens when machines are better than humans, but the law requires humans to make the call?**
 - The project asks how this **implicates ethical and legal standards**
 
 ### Not yet known
 
-- Whether the core failure is machines deciding, or humans performing a fiction of judgment
+- What “better” means (the metric of machine superiority)
 - Who it is for (which professions, which agencies, which public)
-- Whether the aim is to defend human-only discretion, redesign standards for hybrid practice, or document the breach
+- Whether the aim is to expose the fiction, redesign law for competent machines, keep humans as responsibility anchors despite worse accuracy, or something else
 - Whether it is primarily a book, a practice, a product, a publication, or a doctrine that could take many forms
 - What “editorial” modifies in “editorial operating system”
 - What success looks like for this discovery phase
@@ -117,4 +119,4 @@ From Interview Q01 (see `PHILOSOPHY.md`):
 
 ## Open interview question
 
-See `INTERVIEW.md` — Question 02.
+See `INTERVIEW.md` — Question 03.

@@ -65,7 +65,7 @@ The AI collaborator serves as:
 
 Candidate future documents (not yet created):
 
-- `PHILOSOPHY.md` — core claims about machines, judgment, and discretion
+- `PHILOSOPHY.md` — core claims about machines, judgment, and discretion (**seeded**)
 - `EDITORIAL_JUDGMENT.md` — how decisions are made; what “good judgment” means here
 - `PRODUCT_VISION.md` — what gets built, for whom, and why — only after philosophy holds
 - `DECISIONS.md` — locked choices and rejected alternatives
@@ -87,13 +87,19 @@ From the project’s opening statement:
 - The desired outcome of this phase is an **editorial operating system**
 - Software design waits on mutual agreement that the vision is coherent
 
+From Interview Q01 (see `PHILOSOPHY.md`):
+
+- Law assigns **independent professional judgment and discretion** to humans; government adjudicators also exercise judgment over **benefits**
+- In practice, **generative AI** increasingly performs that work
+- The project asks how this **implicates ethical and legal standards**
+
 ### Not yet known
 
-- What “Machine Discretion” *means* as a thesis (beyond the name)
-- Who it is for
-- What problem or tension it names
+- Whether the core failure is machines deciding, or humans performing a fiction of judgment
+- Who it is for (which professions, which agencies, which public)
+- Whether the aim is to defend human-only discretion, redesign standards for hybrid practice, or document the breach
 - Whether it is primarily a book, a practice, a product, a publication, or a doctrine that could take many forms
-- What “editorial” modifies — human editors, machine behavior, institutional process, or all of these
+- What “editorial” modifies in “editorial operating system”
 - What success looks like for this discovery phase
 
 ---
@@ -109,6 +115,6 @@ From the project’s opening statement:
 
 ---
 
-## First open question
+## Open interview question
 
-See `INTERVIEW.md` — Question 01.
+See `INTERVIEW.md` — Question 02.

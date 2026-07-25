@@ -16,20 +16,35 @@ Last updated: 2026-07-25
 | Discovery method is structured interview (one question at a time) | Opening brief |
 | Governing file is `MANIFESTO.md` | Opening brief |
 | Desired discovery outcome: editorial operating system | Opening brief |
+| Core tension: human-assigned judgment/discretion vs. genAI performing that work | Interview Q01 |
+| At least two human roles in frame: professionals + government benefits adjudicators | Interview Q01 |
+| Central question includes implications for ethical and legal standards | Interview Q01 |
 
 ## Contested / undefined
 
-- The meaning of the name as a thesis
-- Audience
-- Form the project eventually takes
-- What “editorial operating system” must contain to be complete
+- Whether “only humans can” is normative, descriptive, or both
+- Failure mode: machine decides vs. human launders model judgment
+- Primary domains (which professions / which benefit systems)
+- Aim: defend human-only discretion, redesign hybrid standards, document the breach, other
+- What “editorial” means in “editorial operating system” given a legal-ethical frame
+- Audience and eventual form (book, doctrine, practice, product, etc.)
 
 ## Interview progress
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Why these two words — the core tension the name names | Open |
+| 01 | Why these two words — the core tension the name names | Answered |
+| 02 | Where discretion actually sits (machine vs. legal fiction) | Open |
+
+## Documents
+
+| Document | Status |
+|----------|--------|
+| `MANIFESTO.md` | Active charter |
+| `PHILOSOPHY.md` | Seeded from Q01 |
+| `INTERVIEW.md` | Active log |
+| `STATUS.md` | This file |
 
 ## Recommended next document
 
-After Question 01 is answered: likely `PHILOSOPHY.md` (if the answer yields a core claim) or deepen `MANIFESTO.md` (if the answer still concerns charter and scope).
+**`EDITORIAL_JUDGMENT.md`** — after we know whether “editorial” is metaphor, publishing practice, or a general theory of judgment. Until Q02–Q03 clarify the failure mode and aim, keep claims in `PHILOSOPHY.md`.

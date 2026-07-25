@@ -5,6 +5,7 @@ Philosophy, editorial judgment, and product vision — before software.
 | Document | Purpose |
 |----------|---------|
 | [MANIFESTO.md](./MANIFESTO.md) | Governing charter |
+| [PHILOSOPHY.md](./PHILOSOPHY.md) | Working theses on judgment and discretion |
 | [STATUS.md](./STATUS.md) | Settled vs open |
 | [INTERVIEW.md](./INTERVIEW.md) | Structured interview log |
 

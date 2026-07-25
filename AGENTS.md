@@ -88,6 +88,7 @@ Trump v. Barbara (birthright citizenship), Mullin v. Doe / Trump v. Miot (TPS), 
 inside-black-boxes/
 ├── AGENTS.md                 # This file — project context for AI agents
 ├── docs/                     # Blackletter Lab product + build docs
+├── machine-discretion/       # Separate project — philosophy before software
 ├── apps/
 │   └── lab/                  # Blackletter Lab (Next.js private app)
 ├── show-notes-template.md    # Template for episode show notes
@@ -103,6 +104,10 @@ inside-black-boxes/
 ## Blackletter Lab
 
 Private single-user creative intelligence app in `apps/lab`. Product docs: `docs/PRODUCT_SPEC.md`, `docs/BUILD_BRIEF.md`, `docs/DECISIONS.md`, `docs/STATUS.md`. Inside Black Boxes is a **Project Underway** inside Lab — not the Lab product name. Leave `website/` and `episodes/` intact when working on Lab.
+
+## Machine Discretion
+
+Long-term project, **separate from Inside Black Boxes**, to articulate philosophy, editorial judgment, and product vision before any software. Governing docs live in `machine-discretion/` (`MANIFESTO.md`, `STATUS.md`, `INTERVIEW.md`). Discovery only — no implementation code or software design until the vision is agreed coherent. Do not fold into `website/`, `episodes/`, or Lab product identity unless the author explicitly decides.
 
 ## When adding content
 

@@ -1,7 +1,7 @@
 # Machine Discretion — Manifesto
 
 > A living governing document. Philosophy and judgment before software.  
-> Last updated: 2026-07-25 · Status: discovery
+> Last updated: 2026-07-26 · Status: discovery
 
 ---
 
@@ -87,18 +87,21 @@ From the project’s opening statement:
 - The desired outcome of this phase is an **editorial operating system**
 - Software design waits on mutual agreement that the vision is coherent
 
-From Interview Q01–Q02 (see `PHILOSOPHY.md`):
+From Interview Q01–Q03 (see `PHILOSOPHY.md`):
 
 - Law assigns **independent professional judgment and discretion** to humans; government adjudicators also exercise judgment over **benefits**
 - Primary failure mode: **legal fiction of human judgment** — human signs; genAI does the real discretionary work
 - Humans are **flawed and context-limited**; larger model context may yield **better** decisions/adjudications
 - Central paradox: **what happens when machines are better than humans, but the law requires humans to make the call?**
+- “Better” (working): **better appreciation of legal standards** + **more facts humans miss** (e.g. State Department file, FOIA; uneven USCIS scrutiny of AOS vs N-400)
+- Clearest defining theater so far: **immigration benefits adjudication**
 - The project asks how this **implicates ethical and legal standards**
 
 ### Not yet known
 
-- What “better” means (the metric of machine superiority)
-- Who it is for (which professions, which agencies, which public)
+- Whether cross-silo facts are better adjudication or a different kind of power
+- Whether a non-responsible machine is better at adjudication or only at components
+- Who it is for beyond the immigration-adjudication examples
 - Whether the aim is to expose the fiction, redesign law for competent machines, keep humans as responsibility anchors despite worse accuracy, or something else
 - Whether it is primarily a book, a practice, a product, a publication, or a doctrine that could take many forms
 - What “editorial” modifies in “editorial operating system”
@@ -119,4 +122,4 @@ From Interview Q01–Q02 (see `PHILOSOPHY.md`):
 
 ## Open interview question
 
-See `INTERVIEW.md` — Question 03.
+See `INTERVIEW.md` — Question 04.

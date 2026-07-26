@@ -98,8 +98,11 @@ Still **`EDITORIAL_JUDGMENT.md`** once “better judgment” and the human’s r
 
 ## Question 03 — What “better” means
 
-**Status:** Awaiting answer  
-**Asked:** 2026-07-25
+**Status:** Answered (partial — responsibility half still open)  
+**Asked:** 2026-07-25  
+**Answered:** 2026-07-26
+
+### Question
 
 You said machines may make better decisions or adjudications as context grows. **Better at what?**
 
@@ -113,3 +116,57 @@ Pick the load-bearing sense — or rank them:
 - Something else you mean by “better”
 
 And if a machine wins on your metric but still cannot own legal responsibility — is it still “better” at adjudication, or only better at a component of adjudication?
+
+### Answer (author)
+
+Likely a better appreciation of legal standards and more knowledge of facts a human may not be aware of like a state department file or something else. Maybe a FOIA response that reveals something an officer might miss or overlook. Think of how USCIS devotes more resources to adjudicating an AOS over a n400.
+
+### Synthesis
+
+**Learned**
+
+- “Better” = (1) **better appreciation of legal standards**, and (2) **more factual knowledge** than a human is likely to assemble or notice.
+- Examples are concrete and institutional: **State Department file**, **FOIA** disclosure an officer might miss, **USCIS** investing more adjudication resources in **AOS** than **N-400**.
+- Machine advantage is framed partly as overcoming **human overlooking** and partly as overcoming **agency attention rationing** across form types.
+- Immigration benefits adjudication is now the clearest **defining theater** of the philosophy (not yet declared exclusive).
+
+**Assumptions / inconsistencies**
+
+- State/FOIA examples assume the machine **has access** to those materials — that is an institutional/data-architecture claim, not only an LLM context-window claim. Easy to blur.
+- “Better appreciation of legal standards” may be aspirational. Present systems can also misstate law with confidence. Unclear whether the thesis is about today’s models or a competent future system.
+- More facts can improve adjudication — or expand the proceeding beyond the record, burden allocation, and privacy boundaries an officer’s process assumes. Not yet addressed.
+- AOS vs N-400 point implies a critique of **uneven scrutiny**. Unclear whether Machine Discretion wants machines to *raise* under-resourced adjudications to AOS-level depth, or merely notices that human systems ration judgment.
+- The second half of Q03 — better at adjudication vs. better at a component if responsibility stays human — was **not answered**.
+
+**Unresolved after Q03**
+
+- Cross-silo knowledge vs. ordinary record: is that better adjudication or different power?
+- Attention equalization (N-400 getting AOS-like scrutiny) as goal or illustration
+- Responsibility vs. competence (deferred from Q03)
+- Whether immigration adjudication is the primary or sole domain
+
+### Spec updates from this answer
+
+- Expanded `PHILOSOPHY.md` (“What better means”)
+- Updated `MANIFESTO.md` and `STATUS.md`
+
+### Next document recommended
+
+**`EDITORIAL_JUDGMENT.md`** — now that “better” has content (legal-standard appreciation + factual coverage under rationed human attention). Use it to define what counts as good judgment in this domain, distinct from raw information advantage. Optionally later: a short `DEFINING_CASE.md` for immigration benefits adjudication if that theater is locked as primary.
+
+---
+
+## Question 04 — Silos vs. the ordinary view
+
+**Status:** Awaiting answer  
+**Asked:** 2026-07-26
+
+Your examples of machine superiority include facts an officer might never open — a State Department file, a FOIA response — and also uneven USCIS investment (AOS vs. N-400).
+
+When a machine surfaces a fact **outside the view an officer would ordinarily have**, is that:
+
+**A.** Better adjudication (more complete truth under the same legal standards), or  
+**B.** A different kind of power that needs its own ethical and legal standard, or  
+**C.** Something else (say what)?
+
+Answer for the case you care about most.

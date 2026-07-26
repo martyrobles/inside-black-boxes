@@ -1,7 +1,7 @@
 # Machine Discretion — Philosophy
 
 > Provisional. Claims here are working theses until locked in `STATUS.md`.  
-> Last updated: 2026-07-26
+> Last updated: 2026-07-26 (Q04)
 
 ---
 
@@ -65,6 +65,25 @@ So “better,” in this project’s emerging sense, is not primarily speed or c
 
 The clearest concrete world in the interview so far is **U.S. immigration benefits adjudication** (USCIS form types, State Department records, FOIA, AOS vs. N-400). Not yet locked as the project’s only domain — but it is the working proving ground for the philosophy.
 
+The author frames the cross-silo / ordinary-view problem as **an administrative law question** (see `ADMINISTRATIVE_LAW.md`).
+
+---
+
+## Role-relative evaluation (working — Q04)
+
+When a machine surfaces a fact outside an officer’s ordinary view, the author rejects a single universal label.
+
+Working answer: **A + C, depending on who you represent.**
+
+- **A** — It can be better adjudication: more complete truth under the same legal standards.
+- **C** — It is also something else that turns on **representational seat** (whose interests you speak for in the administrative process).
+
+Implication for the philosophy:
+
+Machine Discretion is not only asking whether machines are epistemically superior in the abstract. It is asking how that superiority (or that reach) **lands inside an administrative proceeding**, where “better” for one side may be hazard or different procedural stakes for another.
+
+What “C” consists of on each seat remains open.
+
 ---
 
 ## Working distinctions (not yet settled)
@@ -77,6 +96,8 @@ The clearest concrete world in the interview so far is **U.S. immigration benefi
 | “Better” adjudication | Better appreciation of legal standards + more facts humans miss (incl. cross-silo / under-resourced review) | Whether that is full adjudication or a superior *component*; responsibility still unanswered |
 | Context | Information a decision-maker can hold and use | Model context window vs. institutional access to files (State, FOIA, A-file) |
 | Attention rationing | Agencies invest unevenly across form types (e.g. AOS vs N-400) | Whether machine “better” means equalizing scrutiny the agency currently withholds |
+| Role-relative “better” | Evaluation depends on who you represent in the proceeding | What “C” is on each seat; whether the project itself takes a seat |
+| Administrative law frame | Home discipline for the cross-silo / ordinary-view problem | Which doctrines (record, notice, discretion, etc.) are load-bearing |
 | Generative AI | Systems producing the analytical or decisional work product | Tool vs. shadow adjudicator vs. superior reasoner the law will not seat |
 
 ---
@@ -85,7 +106,8 @@ The clearest concrete world in the interview so far is **U.S. immigration benefi
 
 - Larger context ≠ automatically better discretion. Judgment includes values, accountability, political legitimacy — not only retrieval of more facts.
 - “Facts a human may not be aware of” (State file, FOIA) may require **institutional data access**, not only a larger context window. Capability and access are easy to conflate.
-- Surfacing facts outside the ordinary adjudicative view can be framed as **better truth-seeking** — or as a **different proceeding** with different due-process and privacy stakes. Unresolved.
+- **Role-relativity vs. earlier objectivity:** Q02–Q03 spoke as if machines may be simply “better.” Q04 says the cross-silo move is A **and** C depending on representation. Those can coexist if epistemic completeness and advocacy evaluation are different layers — but the project must keep them distinct or the thesis wobbles.
+- If the answer “depends on who you represent,” Machine Discretion must eventually say **from which seat it speaks** — or declare that its job is to map the conflict across seats without picking one.
 - If machines become “better” on legal-standard appreciation and factual coverage but cannot hold legal responsibility, the law may still be protecting a **responsibility structure**, not a **competence ranking**. Author has not yet answered whether that machine is better *at adjudication* or only at components of it.
 - Answer B (legal fiction) plus “machines better” can pull in opposite directions: expose the fiction as illegitimate, *or* treat the fiction as a bridge until law catches up. The project has not chosen.
 

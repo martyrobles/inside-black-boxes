@@ -25,15 +25,18 @@ Last updated: 2026-07-26
 | “Better” means better appreciation of legal standards + more facts humans miss/overlook | Interview Q03 |
 | Working examples: State Dept files, FOIA, USCIS AOS vs N-400 resource rationing | Interview Q03 |
 | Immigration benefits adjudication is the clearest defining theater so far | Interview Q03 |
+| Cross-silo machine facts: A + C depending on who you represent | Interview Q04 |
+| Home frame for that problem: administrative law | Interview Q04 |
 
 ## Contested / undefined
 
-- Whether cross-silo facts (State, FOIA) are better adjudication or a different power
-- Whether “better” includes equalizing scrutiny across under-resourced form types (e.g. N-400)
-- Model context capacity vs. institutional data access (conflation risk)
-- Whether a machine that cannot own responsibility is better *at adjudication* or only at components (Q03 unfinished)
+- Content of “C” on each representational seat
+- From which seat Machine Discretion itself speaks (or whether it only maps seats)
+- How role-relative evaluation coexists with objective “machines better” claims
+- Which admin-law doctrines are load-bearing (record, notice, discretion, etc.)
+- Whether a machine that cannot own responsibility is better *at adjudication* or only at components
 - When competence and legal authority diverge: which yields, or what third structure
-- Whether the human signature is bug, feature (responsibility), or bridge
+- Whether the human signature is bug, feature, or bridge
 - Project aim given the paradox
 - What “editorial” means in “editorial operating system”
 - Whether immigration adjudication is primary-only or one case among many
@@ -46,17 +49,19 @@ Last updated: 2026-07-26
 | 01 | Why these two words — the core tension the name names | Answered |
 | 02 | Where discretion actually sits (machine vs. legal fiction) | Answered |
 | 03 | What “better” means when machines outperform | Answered (partial) |
-| 04 | Cross-silo facts vs. ordinary officer view | Open |
+| 04 | Cross-silo facts vs. ordinary officer view | Answered |
+| 05 | Whose representational seat Machine Discretion speaks from | Open |
 
 ## Documents
 
 | Document | Status |
 |----------|--------|
 | `MANIFESTO.md` | Active charter |
-| `PHILOSOPHY.md` | Core tension, competence paradox, working “better” |
+| `PHILOSOPHY.md` | Core theses |
+| `ADMINISTRATIVE_LAW.md` | Seeded from Q04 |
 | `INTERVIEW.md` | Active log |
 | `STATUS.md` | This file |
 
 ## Recommended next document
 
-**`EDITORIAL_JUDGMENT.md`** — “better” now has enough content to start defining judgment standards (legal-standard appreciation, factual coverage, attention rationing) without yet designing software. After Q04, consider whether a `DEFINING_CASE.md` for immigration benefits adjudication is warranted.
+Deepen **`ADMINISTRATIVE_LAW.md`** (seats + doctrines), then **`EDITORIAL_JUDGMENT.md`** once the project’s seat (or neutrality) is clear.

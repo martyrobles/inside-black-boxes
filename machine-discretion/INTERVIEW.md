@@ -158,10 +158,11 @@ Likely a better appreciation of legal standards and more knowledge of facts a hu
 
 ## Question 04 — Silos vs. the ordinary view
 
-**Status:** Awaiting answer  
-**Asked:** 2026-07-26
+**Status:** Answered  
+**Asked:** 2026-07-26  
+**Answered:** 2026-07-26
 
-Your examples of machine superiority include facts an officer might never open — a State Department file, a FOIA response — and also uneven USCIS investment (AOS vs. N-400).
+### Question
 
 When a machine surfaces a fact **outside the view an officer would ordinarily have**, is that:
 
@@ -170,3 +171,57 @@ When a machine surfaces a fact **outside the view an officer would ordinarily ha
 **C.** Something else (say what)?
 
 Answer for the case you care about most.
+
+### Answer (author)
+
+A plus C depending on who you represent. It’s an administrative law question.
+
+### Synthesis
+
+**Learned**
+
+- Not a pure binary. Cross-silo machine knowledge can be **better adjudication (A)** and **also something else (C)** that turns on **who you represent**.
+- The author places the problem in **administrative law**, not only abstract AI ethics.
+- “Better” is therefore at least partly **role-relative** inside a proceeding — applicant/counsel vs. agency vs. other seats may evaluate the same machine move differently.
+- This connects Machine Discretion to advocacy position, procedure, and institutional role — not only model competence.
+
+**Assumptions / inconsistencies**
+
+- Q02–Q03 sounded like an objective competence claim (“machines may be better”). Q04 makes the key evaluative move depend on representation. Need a clean split: epistemic completeness vs. advocacy/procedural evaluation — or revise the earlier claim.
+- “C” was not specified beyond dependence on representation. What happens on the seat where it is *not* simply A remains undescribed.
+- “Depending on who you represent” implies the project either **takes a seat** or **maps across seats**. Unchosen.
+- Naming administrative law raises the stakes for doctrines not yet discussed: record, notice, ex parte material, burden, discretion, reasoned decision-making.
+
+**Unresolved after Q04**
+
+- Content of “C” by seat
+- From which seat Machine Discretion itself speaks
+- Which administrative-law doctrines are load-bearing for the editorial operating system
+- How role-relativity coexists with the competence paradox
+
+### Spec updates from this answer
+
+- Seeded `ADMINISTRATIVE_LAW.md`
+- Updated `PHILOSOPHY.md`, `MANIFESTO.md`, `STATUS.md`
+
+### Next document recommended
+
+Deepen **`ADMINISTRATIVE_LAW.md`** (doctrines + seats) before or alongside **`EDITORIAL_JUDGMENT.md`**. Judgment standards will need to be written in admin-law terms if that is the home frame.
+
+---
+
+## Question 05 — Whose seat
+
+**Status:** Awaiting answer  
+**Asked:** 2026-07-26
+
+You said A + C depending on who you represent.
+
+**From which seat is Machine Discretion spoken?**
+
+- Applicant / petitioner (or their counsel)  
+- Agency / adjudicating official  
+- A neutral map of how the same machine move looks from each seat  
+- Something else (name it)
+
+If it takes a seat: what is “C” when you are on that side — the part that is *not* simply “better adjudication”?

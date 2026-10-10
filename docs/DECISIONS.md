@@ -271,6 +271,15 @@ See `docs/STATUS.md`.
 
 ---
 
+## D015 — Oral argument processing
+
+**Status:** Accepted  
+**Date:** 2026-10-10
+
+Processing a featured oral argument happens in Blackletter Lab, on this computer, once per case. It uses the OpenAI key already configured for Lab. The public Listen page only plays the files that processing writes. Visitors do not trigger a model call.
+
+---
+
 ## Decision index
 
 | ID | Title | Status |
@@ -289,3 +298,4 @@ See `docs/STATUS.md`.
 | D012 | Slice 2 implementation | Accepted |
 | D013 | Slice 3 implementation | Accepted |
 | D014 | Slice 4 + login hero | Accepted |
+| D015 | Oral argument processing | Accepted |

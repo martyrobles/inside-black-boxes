@@ -19,6 +19,7 @@ export function AppNav({ email }: AppNavProps) {
           <Link href="/collections">Collections</Link>
           <Link href="/ideas">Ideas</Link>
           <Link href="/projects">Projects</Link>
+          <Link href="/arguments">Arguments</Link>
         </nav>
         <div className="site-header__meta">
           {email ? <span className="muted small">{email}</span> : null}

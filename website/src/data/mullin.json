@@ -1,0 +1,3209 @@
+{
+  "slug": "mullin",
+  "name": "Mullin v. Doe",
+  "docket": "25-1083",
+  "argued": "2026-04-29",
+  "duration": 6384.48,
+  "audioUrl": "https://www.supremecourt.gov/media/audio/mp3files/25-1083.mp3",
+  "audioPage": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-1083",
+  "transcriptUrl": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2025/25-1083_0pl1.pdf",
+  "question": "Whether the Temporary Protected Status statute bars courts from reviewing the Secretary\u2019s termination of that status, including a claim that the Secretary skipped steps the statute requires.",
+  "summary": "Mullin v. Doe and Trump v. Miot, Nos. 25-1083 and 25-1084, were argued together on April 29, 2026. The government had terminated Temporary Protected Status for Haiti and Syria. General Sauer says the statute bars judicial review of any determination about designation, extension, or termination, including the steps Congress told the Secretary to take. Ahilan Arulanantham, for the Doe respondents, and Geoffrey Pipoly, for the Miot respondents, say that bar covers the country-conditions call, not a failure to consult, to publish, or to give notice. On June 25, 2026, the Court reversed and remanded: the statute bars judicial review of non-constitutional challenges to those decisions.",
+  "summaryStatus": "draft",
+  "speakers": [
+    {
+      "id": "roberts",
+      "name": "Roberts",
+      "label": "Chief Justice Roberts",
+      "kind": "justice"
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "label": "Justice Thomas",
+      "kind": "justice"
+    },
+    {
+      "id": "alito",
+      "name": "Alito",
+      "label": "Justice Alito",
+      "kind": "justice"
+    },
+    {
+      "id": "sotomayor",
+      "name": "Sotomayor",
+      "label": "Justice Sotomayor",
+      "kind": "justice"
+    },
+    {
+      "id": "kagan",
+      "name": "Kagan",
+      "label": "Justice Kagan",
+      "kind": "justice"
+    },
+    {
+      "id": "gorsuch",
+      "name": "Gorsuch",
+      "label": "Justice Gorsuch",
+      "kind": "justice"
+    },
+    {
+      "id": "kavanaugh",
+      "name": "Kavanaugh",
+      "label": "Justice Kavanaugh",
+      "kind": "justice"
+    },
+    {
+      "id": "barrett",
+      "name": "Barrett",
+      "label": "Justice Barrett",
+      "kind": "justice"
+    },
+    {
+      "id": "jackson",
+      "name": "Jackson",
+      "label": "Justice Jackson",
+      "kind": "justice"
+    },
+    {
+      "id": "sauer",
+      "name": "Sauer",
+      "label": "General Sauer",
+      "kind": "advocate",
+      "role": "Petitioners"
+    },
+    {
+      "id": "arulanantham",
+      "name": "Arulanantham",
+      "label": "Mr. Arulanantham",
+      "kind": "advocate",
+      "role": "Doe"
+    },
+    {
+      "id": "pipoly",
+      "name": "Pipoly",
+      "label": "Mr. Pipoly",
+      "kind": "advocate",
+      "role": "Miot"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t1",
+      "speaker": "roberts",
+      "text": "We will hear argument first this morning in Case 25-1083, Mullin versus Doe, and the consolidated case. General Sauer.",
+      "start": 0.0,
+      "end": 8.46
+    },
+    {
+      "id": "t2",
+      "speaker": "sauer",
+      "text": "Mr. Chief Justice, and may it please the Court: Respondents here seek judicial review of the Secretary's decisions to terminate Temporary Protected Status for Syria and Haiti. Yet Section 1254a(b)(5)(A) provides that there is no judicial review of any determination of the Secretary with respect to the designation or termination or extension of a designation of a foreign state for Temporary Protected Status. That provision means what it says. \"Determination\" is hardly a rarely used word that broadly includes the Secretary's decisions, conclusions, or opinions. Both \"any\" and \"with respect to\" have an expansive meaning and a broadening effect. The provision thus bars judicial review of both the Secretary's ultimate decision whether to designate, extend, or terminate and of each antecedent step along the way to that determination. Respondents' attempts to carve out exceptions to the review bar would eviscerate it because virtually any substantive challenge could be recast as a procedural claim, as their own claims demonstrate. Moreover, their claims plainly cannot be raised without referring to or relying on the termination decisions, and they challenge the very kind of foreign-policy-laden judgments that are traditionally entrusted to the political branches. Even if their claims are not barred, they are meritless. The statute does not micromanage the degree of consultation with other agencies. Paragraph (b)(3) requires the Secretary to consider the national interest in reviewing designations made under (b)(1)(C) because it requires her to determine whether the foreign state continues to meet the conditions for designation under paragraph (1). Far from demonstrating pretext, the fact that the Secretary exercised her discretion consistently is a virtue, not a vice. And the Miot Respondents' constitutional claim is meritless under any standard of review. I welcome the Court's questions.",
+      "start": 8.46,
+      "end": 125.16
+    },
+    {
+      "id": "t3",
+      "speaker": "thomas",
+      "text": "What was the practice before the -- this statute was adopted?",
+      "start": 125.16,
+      "end": 130.14
+    },
+    {
+      "id": "t4",
+      "speaker": "sauer",
+      "text": "That was the EVD practice --",
+      "start": 130.14,
+      "end": 131.0
+    },
+    {
+      "id": "t5",
+      "speaker": "thomas",
+      "text": "Yeah.",
+      "start": 131.0,
+      "end": 131.86
+    },
+    {
+      "id": "t6",
+      "speaker": "sauer",
+      "text": "-- that's discussed in the Smith -- the en banc Smith decision from the D.C. Circuit. And that was, I think, properly characterized by Judge Silberman in his opinion as essentially a forbearance policy that fell within the heartland of Heckler against Cheney. So one of the points we make is that the historical background of this statute is a statute where there was limited, if any, judicial review of executive discretion in that case. And it's telling that President Bush, in his signing statement, objected to Congress moving into this area and entrenching on what he viewed as the executive's traditionally unreviewable discretion. So it's unsurprising in that context that Congress passed a judicial review bar that at least partially accommodated the executive's constitutional objection to the sort of imposition of these kinds of regulations in that particular area.",
+      "start": 131.86,
+      "end": 175.18
+    },
+    {
+      "id": "t7",
+      "speaker": "thomas",
+      "text": "If the President or the executive branch has constitutional authority to do this in a discretionary way, can Congress limit that?",
+      "start": 175.18,
+      "end": 187.96
+    },
+    {
+      "id": "t8",
+      "speaker": "sauer",
+      "text": "We don't dispute that here. President Bush obviously objected on that ground. But we don't dispute that Congress can move in here. And what -- and what they've done, as we envision it, they have moved into an area that was really kind of a forbearance or an enforcement policy regime, and they've elevated it to a particular status and said here are the criteria for regulating that status. And we don't dispute that Congress has the authority to do that.",
+      "start": 187.96,
+      "end": 208.0
+    },
+    {
+      "id": "t9",
+      "speaker": "thomas",
+      "text": "Are there -- are there any examples of that discretionary authority being challenged?",
+      "start": 208.0,
+      "end": 216.32
+    },
+    {
+      "id": "t10",
+      "speaker": "sauer",
+      "text": "You mean in this particular case or more generally?",
+      "start": 216.32,
+      "end": 218.44
+    },
+    {
+      "id": "t11",
+      "speaker": "thomas",
+      "text": "More generally.",
+      "start": 218.44,
+      "end": 219.82
+    },
+    {
+      "id": "t12",
+      "speaker": "sauer",
+      "text": "Well, there is the DED -- I'm not sure if this is responsive to the question, but there is the DED policy that's kind of a -- as I understand it, a --a successor of the EVD. I won't call it a -- I guess program, you could call it, from -- from the 1980s. So there are situations where the executive exercises enforcement discretion here. When it comes to TPS, Congress has entered the area, has created it as a particular immigration status, and we don't -- we don't dispute that Congress can do that here.",
+      "start": 219.82,
+      "end": 245.2
+    },
+    {
+      "id": "t13",
+      "speaker": "jackson",
+      "text": "Counsel, do you --",
+      "start": 245.2,
+      "end": 245.78
+    },
+    {
+      "id": "t14",
+      "speaker": "sotomayor",
+      "text": "General --",
+      "start": 245.78,
+      "end": 246.36
+    },
+    {
+      "id": "t15",
+      "speaker": "roberts",
+      "text": "You rely on Trump versus Hawaii in -- in your argument, but that involved the President and entry restrictions. Here, we're concerned with the Secretary and -- and aliens that are already present -- present. Your argument is a significant expansion of Trump versus Hawaii, isn't it?",
+      "start": 246.36,
+      "end": 266.54
+    },
+    {
+      "id": "t16",
+      "speaker": "sauer",
+      "text": "Well, I point to what the Court said in the particular paragraph where it discusses why rational basis review would apply here as opposed to a more stringent review under Arlington Heights. The Court pointed to features like this is neutral on its face, which we have here; it's within the core of the executive responsibility, which we also have here; it's freighted with foreign relations concerns and national security concerns. Those kinds of criteria are all present here. Obviously, as the Court correctly -- as you point -- correctly point out, the President was involved, and it was an exclusion as opposed to people who are already here under a -- under a kind of status. However, the Court did go on to say that -- that Trump versus Hawaii applies across different contexts and constitutional claims. And the cases that it cited, like Kleindienst against Mandel and -- and the other -- Mathews against Diaz and other cases that are cited there are also cases that weren't -- didn't have those particular features of it. So, for those reasons, we think Trump against Hawaii provides the proper, the rational basis standard for their constitutional claim. However, if the Court goes the other way, we also claim that, as I said before, that's meritless under any standard of review.",
+      "start": 266.54,
+      "end": 326.1
+    },
+    {
+      "id": "t17",
+      "speaker": "jackson",
+      "text": "Can I take you back to the EVD discussion that you had with Justice Thomas? Although President Bush may have objected to the restrictions and the intent to cabin the Secretary's discretion, wasn't it Congress's view that the EVD program was seriously flawed -- in fact, I'm quoting now from the legislative history --\"seriously flawed and in urgent need of reform\"?",
+      "start": 326.1,
+      "end": 351.94
+    },
+    {
+      "id": "t18",
+      "speaker": "sauer",
+      "text": "That certainly may have been the views of some legislators. What we know is that Congress --",
+      "start": 351.94,
+      "end": 355.44
+    },
+    {
+      "id": "t19",
+      "speaker": "jackson",
+      "text": "No, I'm talking about the House report, that the reason why the TPS came into being and we still don't have the EVD unregulated scheme was because Congress was concerned about the fact that, for example, \"the conditions under which safe haven may be granted, extended, or terminated do not appear in any regulation,\" that it appeared as though the executive was exercising its discretion in an unregulated fashion, and so Congress created this statute in order to restrict the executive, and wasn't that the reason why President Bush was objecting to it?",
+      "start": 355.44,
+      "end": 389.66
+    },
+    {
+      "id": "t20",
+      "speaker": "sauer",
+      "text": "Well, I can't speak for President Bush. I don't dispute most of what you said. We do believe Congress moved into an area where there was really, you know, a perception at least of kind of unfettered discretion, unregulation, set forth sort of broad and highly discretionary criteria in which the --",
+      "start": 389.66,
+      "end": 403.44
+    },
+    {
+      "id": "t21",
+      "speaker": "jackson",
+      "text": "All right. So are those reviewable in your view? Now we have a statute in which Congress has clearly required the Secretary to take certain statutory steps, to include, for example, consultation. Are those reviewable in your view?",
+      "start": 403.44,
+      "end": 418.6
+    },
+    {
+      "id": "t22",
+      "speaker": "sauer",
+      "text": "What is not reviewable is any determination with respect to --",
+      "start": 418.6,
+      "end": 422.28
+    },
+    {
+      "id": "t23",
+      "speaker": "jackson",
+      "text": "I'm asking you what is reviewable. Is it reviewable for a person to allege that the Secretary made this determination without following the statutory steps?",
+      "start": 422.28,
+      "end": 433.38
+    },
+    {
+      "id": "t24",
+      "speaker": "sauer",
+      "text": "Certainly not.",
+      "start": 433.38,
+      "end": 434.16
+    },
+    {
+      "id": "t25",
+      "speaker": "jackson",
+      "text": "Not?",
+      "start": 434.16,
+      "end": 434.51
+    },
+    {
+      "id": "t26",
+      "speaker": "sauer",
+      "text": "That would be a determination with respect to a -- for example, here, a -- a -- a termination of --",
+      "start": 434.4,
+      "end": 439.86
+    },
+    {
+      "id": "t27",
+      "speaker": "jackson",
+      "text": "So what was the point of Congress putting this statute into being and having requirements for the Secretary if there was no ability for anyone to challenge the Secretary's compliance?",
+      "start": 439.86,
+      "end": 451.86
+    },
+    {
+      "id": "t28",
+      "speaker": "sauer",
+      "text": "Congress may presume, as this Court frequently does, that the executive would -- would be presumed to act within the bounds of -- that it set forth, and Congress provided for ongoing congressional oversight. So there's an annual reporting requirement. There is a six-to 18-month situation. So, in a sense, judicial review is kind of a misfit with this particular statute because the Secretary has to go back every 18 months and reconsider and reconsider, and judicial review, as we see here --",
+      "start": 451.86,
+      "end": 477.04
+    },
+    {
+      "id": "t29",
+      "speaker": "jackson",
+      "text": "What -- what do you do -- what do you do with the precedents of this Court -- and I'm thinking about Bowen and I'm thinking about -- gosh, there was another one -- in which we don't agree that a determination is what you're saying it is? In other words, you know, in Bowen, we specifically indicated that -- and it used very similar language -- and we said, let's see -- Bowen used the language any determination of the amount of benefits under the Medicare statute was in the judicial review bar. And we said that provision \"simply does not speak to the\" -- \"to challenges mounted against the method by which such amounts are to be determined rather than the determinations themselves.\" We drew a clear distinction that included the word and concept of determination. So how do you distinguish that from this?",
+      "start": 477.04,
+      "end": 529.56
+    },
+    {
+      "id": "t30",
+      "speaker": "sauer",
+      "text": "As to Bowen, the statute in Bowen actually had an affirmative grant of the power to judicial review, so as to the Part A Medicare benefits that were at issue there, the stat -- the statute said we are affirmatively granting judicial review of those to an extent. And then, in a prior case, this Court in Erica had said we infer -- we -- we -- we -- we sort of imply from that that there is no judicial review of Part B. Then, when it came to Bowen, the Court said we're not going to take that negative inference and hold that that, you know --",
+      "start": 529.56,
+      "end": 544.78
+    },
+    {
+      "id": "t31",
+      "speaker": "sotomayor",
+      "text": "General, can I --",
+      "start": 544.78,
+      "end": 560.0
+    },
+    {
+      "id": "t32",
+      "speaker": "sauer",
+      "text": "-- satisfied the traditional review.",
+      "start": 560.0,
+      "end": 562.22
+    },
+    {
+      "id": "t33",
+      "speaker": "sotomayor",
+      "text": "Your position seems to be, and you said it in your opening, any step in the process is not subject to judicial review. If the Secretary posted a notice on X saying, \"I hereby terminate Syria's TPS effect\" -- \"TPS program effective tomorrow,\" you would say that there's no judicial review of that decision, correct?",
+      "start": 562.22,
+      "end": 587.12
+    },
+    {
+      "id": "t34",
+      "speaker": "sauer",
+      "text": "Correct.",
+      "start": 587.12,
+      "end": 587.74
+    },
+    {
+      "id": "t35",
+      "speaker": "sotomayor",
+      "text": "That means that even though the statutory requirements required her to post this not on X but on the Federal Register, it requires that TPS holders be given 60 days' notice of the termination, it requires that she consult with department agencies, and she doesn't -- let's assume it, all right -- that none of those procedural steps required by the statute are reviewable? That's your position?",
+      "start": 587.74,
+      "end": 622.3
+    },
+    {
+      "id": "t36",
+      "speaker": "sauer",
+      "text": "Correct. And we would -- or I would venture that it's procedural, yeah.",
+      "start": 622.3,
+      "end": 622.7
+    },
+    {
+      "id": "t37",
+      "speaker": "sotomayor",
+      "text": "All right. So the agency could have said the --Congress could have said any termination of TPS status is unreviewable. But it didn't. It did a different formulation. It did determination of termination. That seems to me very close to McNary, where we said you can't challenge the substantive conclusion, but you can challenge the procedural or policies underlying that choice. I don't see how you differentiate McNary.",
+      "start": 622.7,
+      "end": 671.42
+    },
+    {
+      "id": "t38",
+      "speaker": "sauer",
+      "text": "I would say -- I would point to three things to distinguish McNary. And keep in mind, our position is that there is no McNary exception here at all, but if there is, the Court disagrees, they don't fit within that.",
+      "start": 671.42,
+      "end": 680.98
+    },
+    {
+      "id": "t39",
+      "speaker": "sotomayor",
+      "text": "Well, but --but what you're -- what --what you're basically saying is Congress wrote a statute for no purpose because it set forth procedural steps that had to be followed, and the Constitution, as we have said, due process applies to any alien who lives in the United States. It applies to all people living here --I know you have said unlawfully, but at least these people, until the termination, are here lawfully and with permission. They're entitled to due process. And now Congress has given them a process. It may not be a court process, but that's okay. It's a process. And you're saying that the President -- it's unreviewable whether the President has followed that process.",
+      "start": 680.98,
+      "end": 729.76
+    },
+    {
+      "id": "t40",
+      "speaker": "sauer",
+      "text": "The Secretary. And what Congress says there is --",
+      "start": 729.76,
+      "end": 732.12
+    },
+    {
+      "id": "t41",
+      "speaker": "sotomayor",
+      "text": "Well, I mean --",
+      "start": 732.12,
+      "end": 732.76
+    },
+    {
+      "id": "t42",
+      "speaker": "roberts",
+      "text": "Counsel, you -- excuse me. You said a moment ago that there were three points in response to the -- my colleague's question. Could you just briefly mention those?",
+      "start": 732.76,
+      "end": 741.28
+    },
+    {
+      "id": "t43",
+      "speaker": "sauer",
+      "text": "Sure. Yeah. Two buckets and the first has three points. So the first bucket is we say there is no McNary exception that's implied by this statute. And McNary differs in text, there's textual differences in the statute. There's the subject matter, the sort of decision that is exempt here with judicial review, as I said at the beginning, is the sort of thing that is traditionally, you know, entrusted to the political branches. And then there's the historical background that we -- we -- we -- I discussed with Justice Thomas in the beginning. So, if you look at the textual differences, a determination where both McNary and Reno said that determination is used in a specialized sense --",
+      "start": 741.28,
+      "end": 756.8
+    },
+    {
+      "id": "t44",
+      "speaker": "roberts",
+      "text": "Thank you.",
+      "start": 756.8,
+      "end": 772.32
+    },
+    {
+      "id": "t45",
+      "speaker": "sauer",
+      "text": "-- in that particular statute is different than any determination with respect to.",
+      "start": 772.32,
+      "end": 776.0
+    },
+    {
+      "id": "t46",
+      "speaker": "roberts",
+      "text": "Thank you.",
+      "start": 776.0,
+      "end": 776.35
+    },
+    {
+      "id": "t47",
+      "speaker": "sauer",
+      "text": "Yes.",
+      "start": 776.34,
+      "end": 776.69
+    },
+    {
+      "id": "t48",
+      "speaker": "roberts",
+      "text": "Got it.",
+      "start": 776.68,
+      "end": 777.88
+    },
+    {
+      "id": "t49",
+      "speaker": "sotomayor",
+      "text": "So I'm not quite sure, and not so long ago you came in and said that every executive officer has to be answerable to the President. So the President's statements have to be attributable to its executive officers, to the Secretary. I don't see how you can take both positions.",
+      "start": 777.88,
+      "end": 789.47
+    },
+    {
+      "id": "t50",
+      "speaker": "sauer",
+      "text": "I --",
+      "start": 789.47,
+      "end": 801.06
+    },
+    {
+      "id": "t51",
+      "speaker": "sotomayor",
+      "text": "Either an executive follows the President's orders or it doesn't.",
+      "start": 801.06,
+      "end": 809.18
+    },
+    {
+      "id": "t52",
+      "speaker": "sauer",
+      "text": "I -- I would point to what the Court said or at least the Chief Justice's opinion in Regents discussed this and said the President's at a certain remove from this decision. The statute places this, invests this decision in the Secretary, and the Secretary is --",
+      "start": 809.18,
+      "end": 821.7
+    },
+    {
+      "id": "t53",
+      "speaker": "sotomayor",
+      "text": "But the Secretary here, Noem, said she was following the President's policy. That's what she announced when she was reviewing these items.",
+      "start": 821.7,
+      "end": 826.34
+    },
+    {
+      "id": "t54",
+      "speaker": "sauer",
+      "text": "I think --",
+      "start": 826.34,
+      "end": 830.98
+    },
+    {
+      "id": "t55",
+      "speaker": "sotomayor",
+      "text": "So I don't know how we can't attribute what the President had said his policy is when she herself says she's following it.",
+      "start": 830.98,
+      "end": 839.38
+    },
+    {
+      "id": "t56",
+      "speaker": "sauer",
+      "text": "We know what the President directed her to do because it's in the executive order, 14159, the invasion proclamation, where the President said specifically in respect to TPS that she should ensure that, or he now, but she should --",
+      "start": 839.38,
+      "end": 849.88
+    },
+    {
+      "id": "t57",
+      "speaker": "sotomayor",
+      "text": "But that doesn't -- but that doesn't give her a right to do what I started with, which is to announce the termination of this policy in contravention of every procedural step, which was the hypothetical I gave you. You're saying that's not reviewable.",
+      "start": 849.88,
+      "end": 865.78
+    },
+    {
+      "id": "t58",
+      "speaker": "sauer",
+      "text": "But baked into the very concept of a judicial review bar is the possibility that the -- the decision that's not subject to judicial review might be based -- totally baseless, arbitrary, you know, wrongly decided, or -- or -- or really crazy.",
+      "start": 865.78,
+      "end": 879.92
+    },
+    {
+      "id": "t59",
+      "speaker": "kagan",
+      "text": "Well, that's true, General --",
+      "start": 879.92,
+      "end": 880.56
+    },
+    {
+      "id": "t60",
+      "speaker": "barrett",
+      "text": "General --",
+      "start": 880.56,
+      "end": 881.2
+    },
+    {
+      "id": "t61",
+      "speaker": "kagan",
+      "text": "-- but -- but I guess the question is in what? I -- I mean, this judicial review bar is a broad one, means something. If -- if there's a completely arbitrary understanding of what the country conditions are, there's nothing a court can do about that, right? So, you know, basically, Congress has said this can be the weirdest, strangest, most arbitrary conclusion as to country conditions, and the courts still can't do anything. So point taken there. But that's a different thing than to say that all the things that the statute says that the Secretary is supposed to do in order to determine country conditions are themselves unreviewable. I'm sorry, I'm losing my voice. Because what the statute says is, look, she shall review country conditions after consultation, and if she decides I don't feel like consulting and, more to the point, I don't even feel like reviewing country conditions, I want to do some completely different kind of analysis to determine whether to make this designation, is it really feasible that Congress meant for those decisions to be unreviewable?",
+      "start": 881.2,
+      "end": 922.34
+    },
+    {
+      "id": "t62",
+      "speaker": "sauer",
+      "text": "I think --",
+      "start": 922.34,
+      "end": 963.48
+    },
+    {
+      "id": "t63",
+      "speaker": "kagan",
+      "text": "I'm really sorry. Go ahead. And, you know, your -- the likelihood of my asking a follow-up is very -- (Laughter.)",
+      "start": 963.48,
+      "end": 971.84
+    },
+    {
+      "id": "t64",
+      "speaker": "kagan",
+      "text": "-- is very diminished.",
+      "start": 971.84,
+      "end": 976.34
+    },
+    {
+      "id": "t65",
+      "speaker": "sauer",
+      "text": "Congress said any -- any determination with respect to designation, extension, or termination is not subject to judicial review. In EPA against Calumet, this Court talked about --",
+      "start": 976.34,
+      "end": 988.42
+    },
+    {
+      "id": "t66",
+      "speaker": "kagan",
+      "text": "Right. But the determination -- you see, I'm already going. (Laughter.)",
+      "start": 988.42,
+      "end": 992.48
+    },
+    {
+      "id": "t67",
+      "speaker": "kagan",
+      "text": "I mean, the determination can refer straight back to what the Secretary is supposed to determine, which is whether the conditions for designation continue to be met. Okay. That's it.",
+      "start": 992.48,
+      "end": 1002.96
+    },
+    {
+      "id": "t68",
+      "speaker": "sauer",
+      "text": "I mean, they make an argument like this. They say determination is used in a specialized sense in the statute. I just think that textually is baseless. I mean, by my count, \"determination\" is used in this -- this one statutory section in five different senses. It talks about things about your eligibility for benefits. That's a determination. Admissibility, that's a determination. Whether there's extreme hardship, that's a determination.",
+      "start": 1002.96,
+      "end": 1021.64
+    },
+    {
+      "id": "t69",
+      "speaker": "jackson",
+      "text": "But does that hurt you or help you? I mean, I'll -- I'll pick up where Justice Kagan left off. You know, we -- we have specific things in the statute that Congress says the Secretary has discretion to determine. And then Congress also has parts of the statute that directs the Secretary specifically with respect to the steps that she is to take in order to make those determinations. So I -- I just think you're kind of struggling against what seems to be the most obvious way and the most straightforward way to understand this statute, which is that when the judicial review bar says that the courts cannot review the determinations of the Secretary, it is referencing the things, the substantive conclusions that the Secretary must make under the statute. And some of them are, you know, not the ultimate. Some of them are findings. For example, the Secretary has to make certain findings, says the statute. And I could see how those could be determinations. So it's not that we're just looking for the word \"determination\" in the statute, but we're understanding that Congress has directed this Secretary in this statute, in contrast with the prior regime, to make certain findings, make certain determinations, and here is how you go about doing it. And so my question is, when someone says the Secretary has not followed those steps, they didn't -- she didn't consult, she didn't put it in the right place in terms of notice -- this is Justice Sotomayor's example -- it's very hard, I think, to say that the judicial review bar, which speaks only to the determinations of the Secretary, precludes that kind of claim.",
+      "start": 1021.64,
+      "end": 1138.03
+    },
+    {
+      "id": "t70",
+      "speaker": "sauer",
+      "text": "Two points. \"Determination\" is a broad term, as the Court held in EPA against Calumet, that encompasses any decision, opinion, or conclusion. So --",
+      "start": 1138.03,
+      "end": 1146.53
+    },
+    {
+      "id": "t71",
+      "speaker": "jackson",
+      "text": "Including the decision not to follow the steps? That's your point?",
+      "start": 1146.53,
+      "end": 1148.93
+    },
+    {
+      "id": "t72",
+      "speaker": "sauer",
+      "text": "Right. When it says \"any\" -- I'd say two things about that. When it says \"any determination with respect to,\" here, a termination decision --",
+      "start": 1148.93,
+      "end": 1156.09
+    },
+    {
+      "id": "t73",
+      "speaker": "jackson",
+      "text": "It means any --",
+      "start": 1156.09,
+      "end": 1156.51
+    },
+    {
+      "id": "t74",
+      "speaker": "sauer",
+      "text": "-- the --",
+      "start": 1156.51,
+      "end": 1156.93
+    },
+    {
+      "id": "t75",
+      "speaker": "jackson",
+      "text": "-- decision not to follow the steps that we've put in the statute?",
+      "start": 1156.93,
+      "end": 1160.29
+    },
+    {
+      "id": "t76",
+      "speaker": "sauer",
+      "text": "So, if there is a determination that, oh, I don't think there are any appropriate agencies to consult with here and, therefore, I'm not to consult, that's a determination within the plain meaning of that term. But, more fundamentally, it -- it bars judicial review -- certainly, everyone concedes it bars judicial review of that final determination. And look at it in the context of this case, where both sets of plaintiffs have filed complaints saying --",
+      "start": 1160.29,
+      "end": 1180.17
+    },
+    {
+      "id": "t77",
+      "speaker": "jackson",
+      "text": "Yes, we can see that, but that's -- they're saying that's not all the kinds of claims we'd like to make. And we're just now focusing on the kinds of claims that aren't the final determination. There, the Secretary's decision -- and I had a hypothetical -- to pull out a Ouija board. The Secretary says, you know how I'm going to figure this out? I'm going to -- another example -- put Syria in a hat and, you know, Haiti in a hat on a slip of paper and all the countries, and I'll pull out the ones that get TPS and I -- that's not following the statutory steps. She's made a determination to do that, and your view would be that no judicial review of that -- of that claim?",
+      "start": 1180.17,
+      "end": 1218.95
+    },
+    {
+      "id": "t78",
+      "speaker": "sauer",
+      "text": "And any exception that the Court would craft here would be something that a truck could be driven through. And that's what we see in the lower courts, and that's what we see in the briefing in this case.",
+      "start": 1218.95,
+      "end": 1225.87
+    },
+    {
+      "id": "t79",
+      "speaker": "jackson",
+      "text": "All right. Okay.",
+      "start": 1225.87,
+      "end": 1226.22
+    },
+    {
+      "id": "t80",
+      "speaker": "sauer",
+      "text": "I mean, look, for example, at --",
+      "start": 1226.12,
+      "end": 1226.47
+    },
+    {
+      "id": "t81",
+      "speaker": "barrett",
+      "text": "General, can I ask you a question? You seem to concede that the constitutional claims are not barred by this very same provision. Is that right? And, if so, why?",
+      "start": 1226.25,
+      "end": 1236.01
+    },
+    {
+      "id": "t82",
+      "speaker": "sauer",
+      "text": "We are -- under Webster against Doe, Demore against Kim, and so forth, we have disputed that there be --may be a little extra clear statement that would be required to exclude constitutional claims. We just haven't disputed that in this case. We're not asking the Court to revisit Webster, for example, in this case.",
+      "start": 1236.01,
+      "end": 1250.11
+    },
+    {
+      "id": "t83",
+      "speaker": "barrett",
+      "text": "So you think Webster is on all fours with this?",
+      "start": 1250.11,
+      "end": 1252.51
+    },
+    {
+      "id": "t84",
+      "speaker": "sauer",
+      "text": "I don't know if it's on all fours. We think Webster and Demore are strong enough to indicate that under those cases, we'd have to be fighting with those cases, so to speak, to argue that there's no judicial review of the constitutional claims here. And, here, of course, we think the constitutional claims --it's not -- not a close call, basically. But we have not disputed that. We -- we -- we don't argue that the judicial review bar extends to the constitutional claim.",
+      "start": 1252.51,
+      "end": 1274.61
+    },
+    {
+      "id": "t85",
+      "speaker": "sotomayor",
+      "text": "So, counsel, let's go back to the Chief's question on Hawaii. Assume that I disagree with you and that Arlington Heights applies because Hawaii and all of the cases that you cited supporting it involve aliens coming into the United States, not aliens in the United States. So let's assume that I believe that due process requires some process for aliens who are here to be removed. Then we can argue about what that process is and -- and how binding it is or not. But, if it's Arlington Heights, a discriminatory purpose just needs to be a reason, not the only reason for acting, correct?",
+      "start": 1274.61,
+      "end": 1324.13
+    },
+    {
+      "id": "t86",
+      "speaker": "sauer",
+      "text": "A motivating factor, I think, is what it says.",
+      "start": 1324.13,
+      "end": 1325.67
+    },
+    {
+      "id": "t87",
+      "speaker": "sotomayor",
+      "text": "Motivating factor. Now this Court has explained an additional purpose to discriminate against poor whites would not render nugatory the purpose to discriminate against all blacks. Now we have a President saying at one point that Haiti is a \"filthy, dirty, and disgusting s-hole country\" -- I'm quoting him -- and where he complained that the United States takes people from such countries instead of people from Norway, Sweden, or Denmark, where he declared illegal -- where he declared illegal immigrants, which he associated with TPS, as poisoning the blood of America. I don't see how that one statement is not a prime example of the Arlington example at work and showing that a discriminatory purpose may have played a part in this decision.",
+      "start": 1325.67,
+      "end": 1390.83
+    },
+    {
+      "id": "t88",
+      "speaker": "sauer",
+      "text": "All the statements that they cite as to the Secretary and as to the President -- and, obviously, there's an issue there about which one you're going to weigh more heavily -- none of them, not a single one of them, mentions race or relates to race in any way.",
+      "start": 1390.83,
+      "end": 1403.21
+    },
+    {
+      "id": "t89",
+      "speaker": "sotomayor",
+      "text": "Well, it -- it certainly does when you're saying we're taking the -- we're taking people from these countries' TPS program which are all non-white, but, instead, we should be taking people from Norway, Sweden, or Denmark. It -- it seems to me that that's as close to the Arlington example as you can get.",
+      "start": 1403.21,
+      "end": 1424.35
+    },
+    {
+      "id": "t90",
+      "speaker": "sauer",
+      "text": "All those statements in context refer to problems like crime, poverty, welfare dependence, drugs, drug importation.",
+      "start": 1424.35,
+      "end": 1431.01
+    },
+    {
+      "id": "t91",
+      "speaker": "sotomayor",
+      "text": "Well, but the -- the Arlington example is, yes, I don't want poor people. But not all people from Norway, Sweden, or Denmark are necessarily rich, but they are all virtually white.",
+      "start": 1431.01,
+      "end": 1442.41
+    },
+    {
+      "id": "t92",
+      "speaker": "sauer",
+      "text": "The Chief Justice's opinion in Regents, for example, refers to actually some of the very same statements that they allege here, statements that are now nine, 10 years sold.",
+      "start": 1442.41,
+      "end": 1449.91
+    },
+    {
+      "id": "t93",
+      "speaker": "sotomayor",
+      "text": "But Regents -- Regents applied a very different standard of review because of the nature of the applicant. This is a very different question. This is whether a race-based classification could -- can be or should be permitted to be a motivating factor.",
+      "start": 1449.91,
+      "end": 1467.63
+    },
+    {
+      "id": "t94",
+      "speaker": "sauer",
+      "text": "I strongly disagree with that. Regents assumed that Arlington Heights would apply, and it said these kinds of statements are unilluminating. They, you know, raise no plausible inference of discriminatory animus. Yeah?",
+      "start": 1467.63,
+      "end": 1477.39
+    },
+    {
+      "id": "t95",
+      "speaker": "jackson",
+      "text": "General, what about poisoning the blood of Americans?",
+      "start": 1477.39,
+      "end": 1481.35
+    },
+    {
+      "id": "t96",
+      "speaker": "sauer",
+      "text": "If you -- if you look at those statements in context, again, they're clearly talking about problems like crime --",
+      "start": 1481.35,
+      "end": 1485.25
+    },
+    {
+      "id": "t97",
+      "speaker": "jackson",
+      "text": "What about bad genes, \"bad genes\"?",
+      "start": 1485.25,
+      "end": 1488.19
+    },
+    {
+      "id": "t98",
+      "speaker": "sauer",
+      "text": "Again, poverty --",
+      "start": 1488.19,
+      "end": 1489.01
+    },
+    {
+      "id": "t99",
+      "speaker": "jackson",
+      "text": "Also not -- not racially --",
+      "start": 1489.01,
+      "end": 1490.99
+    },
+    {
+      "id": "t100",
+      "speaker": "sauer",
+      "text": "Yes. Yeah, they -- they -- they presented them wrenched from context. You can look at each one of those statements. They're talking about problems of crime, poverty, welfare dependency, again, problems that have been emphasized again and again by not just President Trump, not just the Secretary, but many others who favor a tough immigration policy. And if the position of the district courts here --",
+      "start": 1490.99,
+      "end": 1507.6
+    },
+    {
+      "id": "t101",
+      "speaker": "jackson",
+      "text": "So your -- the position of the United States is that we have to have an actual racial epithet, that we don't -- we aren't allowed to look at all the contexts, to include the President's insistence that immigrants from certain countries, largely, if not almost exclusively, countries with African immigrants, black African immigrants, are not allowed, and -- and calling these sorts of names and the types of things he said about Haiti, at the same time that it is the policy of the United States to encourage and welcome immigrants from places like Norway and Denmark and white South -- South Africans, your view is that it's not appropriate for the Court to take into account that kind of evidence or the context in which all of this is happening?",
+      "start": 1507.6,
+      "end": 1558.48
+    },
+    {
+      "id": "t102",
+      "speaker": "sauer",
+      "text": "It's our view that those statements that they allege, which include statements that were before the Court in both Trump against Hawaii and Regents -- keep in mind this is the third time this kind of claim has come before this Court. It rejected it in Trump against Hawaii, rejected it again in Regents --",
+      "start": 1558.48,
+      "end": 1571.34
+    },
+    {
+      "id": "t103",
+      "speaker": "jackson",
+      "text": "Right. But the immigration policy, the idea --the white South African immigration policy is recent, so that wasn't in Trump against Hawaii. That wasn't -- the statements about Haiti and eating pets and the names that were called with respect to these immigrants even though they are lawfully in the United States, that -- those are pretty recent. So let's separate it out then. What do you say about those kinds of things?",
+      "start": 1571.34,
+      "end": 1596.14
+    },
+    {
+      "id": "t104",
+      "speaker": "sauer",
+      "text": "Again, by the --as the Court held in Regents, these are statements made in different contexts that are remote in time. They are unilluminating. The Court said in Regents, the Chief Justice's opinion in Regents says we're going to give them the most negative possible interpretation. That's provided by the plaintiffs in that case, and --",
+      "start": 1596.14,
+      "end": 1609.6
+    },
+    {
+      "id": "t105",
+      "speaker": "jackson",
+      "text": "I'm giving them the most negative interpretation. So tell me my -- if I assume or think that these are related to the President's intentions to encourage certain immigrants on the basis of race and discourage others, what do we do with that in light of Arlington Heights?",
+      "start": 1609.6,
+      "end": 1629.02
+    },
+    {
+      "id": "t106",
+      "speaker": "sauer",
+      "text": "The Court should conclude that the statements are unilluminating and fail to raise any plausible inference of animus.",
+      "start": 1629.02,
+      "end": 1634.78
+    },
+    {
+      "id": "t107",
+      "speaker": "jackson",
+      "text": "That's not what Judge -- Judge Reyes found that they were illuminating. Aren't we applying a clear error standard here? What do we do -- we're not looking at this de novo. We have a district court finding that there is evidence of discriminatory intent here, enough early in the case to allow this claim to go forward. So aren't we bound in some regard with respect to what the lower court has already determined about these facts?",
+      "start": 1634.78,
+      "end": 1660.12
+    },
+    {
+      "id": "t108",
+      "speaker": "sauer",
+      "text": "I would say --",
+      "start": 1660.12,
+      "end": 1661.38
+    },
+    {
+      "id": "t109",
+      "speaker": "jackson",
+      "text": "No?",
+      "start": 1661.38,
+      "end": 1661.73
+    },
+    {
+      "id": "t110",
+      "speaker": "sauer",
+      "text": "-- I -- I don't -- I don't concede that, but it does not matter.",
+      "start": 1661.7,
+      "end": 1663.24
+    },
+    {
+      "id": "t111",
+      "speaker": "jackson",
+      "text": "You think there's not --",
+      "start": 1663.24,
+      "end": 1664.78
+    },
+    {
+      "id": "t112",
+      "speaker": "sauer",
+      "text": "Under any standard of review --",
+      "start": 1664.78,
+      "end": 1665.96
+    },
+    {
+      "id": "t113",
+      "speaker": "jackson",
+      "text": "It's not clear error review?",
+      "start": 1665.96,
+      "end": 1667.12
+    },
+    {
+      "id": "t114",
+      "speaker": "sauer",
+      "text": "-- the Court's looking at exactly the same statements that -- that -- that she is looking at. The Court should apply the logic of Regents, which says, first of all, the President's statements are less relevant; the Secretary's statements are what matter. Again, these kinds of statements don't refer to race.",
+      "start": 1667.12,
+      "end": 1679.82
+    },
+    {
+      "id": "t115",
+      "speaker": "jackson",
+      "text": "So ignore the findings of fact of the lower court, do not give them any deference, no clear error review, we're just looking at this afresh?",
+      "start": 1679.82,
+      "end": 1686.44
+    },
+    {
+      "id": "t116",
+      "speaker": "sauer",
+      "text": "I think it does not -- it does not matter with deference or without deference. This claim just doesn't get off the starting blocks. It's the third time this sort of claim has been brought. The lower courts are enamored of these kinds of claims, but this is the third time this kind of claim has come before this Court. It's rejected it in Hawaii, rejected it in Regents, should be rejected again here. It's not --",
+      "start": 1686.44,
+      "end": 1701.98
+    },
+    {
+      "id": "t117",
+      "speaker": "barrett",
+      "text": "General, can I --",
+      "start": 1701.98,
+      "end": 1702.33
+    },
+    {
+      "id": "t118",
+      "speaker": "kagan",
+      "text": "So, General, maybe -- maybe --",
+      "start": 1702.3,
+      "end": 1702.65
+    },
+    {
+      "id": "t119",
+      "speaker": "barrett",
+      "text": "-- ask you a question about -- oh.",
+      "start": 1702.62,
+      "end": 1704.0
+    },
+    {
+      "id": "t120",
+      "speaker": "kagan",
+      "text": "I'm sorry, go ahead.",
+      "start": 1704.0,
+      "end": 1704.35
+    },
+    {
+      "id": "t121",
+      "speaker": "barrett",
+      "text": "No, no, no.",
+      "start": 1704.27,
+      "end": 1704.62
+    },
+    {
+      "id": "t122",
+      "speaker": "kagan",
+      "text": "No, no, no, go ahead.",
+      "start": 1704.54,
+      "end": 1705.18
+    },
+    {
+      "id": "t123",
+      "speaker": "barrett",
+      "text": "Allow your voice a minute.",
+      "start": 1705.18,
+      "end": 1705.82
+    },
+    {
+      "id": "t124",
+      "speaker": "kagan",
+      "text": "I'll have more time to recover. (Laughter.)",
+      "start": 1705.82,
+      "end": 1708.52
+    },
+    {
+      "id": "t125",
+      "speaker": "barrett",
+      "text": "I wanted to take you to the procedural objection. Let's say that you lose on your argument that even the process that the Secretary followed to terminate is not subject to judicial review. What would -- take your best crack at articulating what standards a court would apply when reviewing the sufficiency of the consultation.",
+      "start": 1708.52,
+      "end": 1730.48
+    },
+    {
+      "id": "t126",
+      "speaker": "sauer",
+      "text": "In other words, if -- if the argument is that the consulting claim alone is procedural and reviewable?",
+      "start": 1730.48,
+      "end": 1735.88
+    },
+    {
+      "id": "t127",
+      "speaker": "barrett",
+      "text": "Is reviewable, is -- yeah, yeah, yeah.",
+      "start": 1735.88,
+      "end": 1736.25
+    },
+    {
+      "id": "t128",
+      "speaker": "sauer",
+      "text": "Yes.",
+      "start": 1736.25,
+      "end": 1736.62
+    },
+    {
+      "id": "t129",
+      "speaker": "barrett",
+      "text": "So we have this exchange, the email exchange, in Miot. I mean, what -- what -- take your best crack at --",
+      "start": 1736.62,
+      "end": 1739.27
+    },
+    {
+      "id": "t130",
+      "speaker": "sauer",
+      "text": "I think --",
+      "start": 1739.27,
+      "end": 1741.92
+    },
+    {
+      "id": "t131",
+      "speaker": "barrett",
+      "text": "-- articulating the standards by which a court would review that.",
+      "start": 1741.92,
+      "end": 1744.44
+    },
+    {
+      "id": "t132",
+      "speaker": "sauer",
+      "text": "Again, I think this Court should go to the dictionary definition of \"consult.\" And you see this actually in the Syria brief, where they concede that seeking input is consultation. Seeking advice from someone knowledgeable is a form of consultation. And keep in mind it's not just consult. It also says appropriate. So the word \"appropriate,\" the Court's held in other contexts, confers broad discretion. So the Secretary could decide, I don't think there are any appropriate agencies to talk to here. You know, again, that would be within -- assuming reviewability, which we strongly disagree with --",
+      "start": 1744.44,
+      "end": 1758.81
+    },
+    {
+      "id": "t133",
+      "speaker": "barrett",
+      "text": "Right. Okay. Taken.",
+      "start": 1758.81,
+      "end": 1773.18
+    },
+    {
+      "id": "t134",
+      "speaker": "sauer",
+      "text": "-- but even there, again, it's -- it's a weak claim. It's -- this -- the phrase after -- it says three times after consultation with appropriate agencies the Secretary is going to do a bunch of things. And what you have here is the district courts. They initially said she didn't consult at all. But it turns out that she did. There is an exchange with the Department of State. So now they're saying, well, that wasn't quite enough, it wasn't meaningful enough. You see how substance has already crept back into even this case. It's not our situation.",
+      "start": 1773.18,
+      "end": 1795.32
+    },
+    {
+      "id": "t135",
+      "speaker": "kagan",
+      "text": "What -- what would happen -- what would happen, General, if the original email had been sent out and no response came back? Would that also be appropriate consultation?",
+      "start": 1795.32,
+      "end": 1805.84
+    },
+    {
+      "id": "t136",
+      "speaker": "sauer",
+      "text": "Absolutely, yes. In other words, she can't force the Secretary of -- or -- or -- or the State Department to respond, and so, for that reason, yes, that would be appropriate consultation too.",
+      "start": 1805.84,
+      "end": 1813.96
+    },
+    {
+      "id": "t137",
+      "speaker": "kagan",
+      "text": "Suppose it were the response that came back said, I've got to run some traps here in the building, we'll get you an answer by Wednesday, and then the Secretary made her determination on Tuesday.",
+      "start": 1813.96,
+      "end": 1827.37
+    },
+    {
+      "id": "t138",
+      "speaker": "sauer",
+      "text": "Consultation has happened on her end. And, again, she cannot force the state to provide -- State Department to provide a timely response. The -- the statute regulates what the Secretary does, not what Department of State does.",
+      "start": 1827.37,
+      "end": 1837.86
+    },
+    {
+      "id": "t139",
+      "speaker": "kagan",
+      "text": "Even though the Secretary was, like, well on her way to getting a timely response?",
+      "start": 1837.86,
+      "end": 1842.12
+    },
+    {
+      "id": "t140",
+      "speaker": "sauer",
+      "text": "And, again, if you've asked, you -- you've consulted. And, here, of course, we have an exchange where there's a prompt response.",
+      "start": 1842.12,
+      "end": 1847.3
+    },
+    {
+      "id": "t141",
+      "speaker": "kagan",
+      "text": "Suppose that, you know, the -- the -- the question is made -- the question is proffered, and then the -- the response comes back, wasn't that baseball game tonight great, last night great?",
+      "start": 1847.3,
+      "end": 1857.82
+    },
+    {
+      "id": "t142",
+      "speaker": "sauer",
+      "text": "Again, State can say something completely unresponsive. If she sought input from State, she has consulted. And, again, this is the sort of discretionary call that for very good reasons the statute vests in the Secretary. How much do I need to talk, which agencies do I talk to, is this response good enough? Again, in this case, in the South Sudan example, she said, you know what, I want some more information, I haven't heard back. She did the exact -- I mean, that's really the hypothetical.",
+      "start": 1857.82,
+      "end": 1879.66
+    },
+    {
+      "id": "t143",
+      "speaker": "kagan",
+      "text": "And then -- and then your -- your -- I think you said that even if the Secretary didn't ask the question, she could have just decided not to ask the question and that would be appropriate consultation too?",
+      "start": 1879.66,
+      "end": 1890.94
+    },
+    {
+      "id": "t144",
+      "speaker": "sauer",
+      "text": "If she doesn't ask at all, I don't think I would say that that's consultation.",
+      "start": 1890.94,
+      "end": 1894.14
+    },
+    {
+      "id": "t145",
+      "speaker": "kagan",
+      "text": "I thought you said --",
+      "start": 1894.14,
+      "end": 1894.49
+    },
+    {
+      "id": "t146",
+      "speaker": "sauer",
+      "text": "I would say that's not subject to judicial review. But she --",
+      "start": 1894.22,
+      "end": 1896.32
+    },
+    {
+      "id": "t147",
+      "speaker": "kagan",
+      "text": "I thought -- I -- assuming it's subject to judicial review. I -- I -- I had thought that you said that she could have decided that there was no person whose opinions mattered.",
+      "start": 1896.32,
+      "end": 1906.64
+    },
+    {
+      "id": "t148",
+      "speaker": "sauer",
+      "text": "Yeah. No, if there's a determination that none of the agencies is appropriate, then as opposed to there is an appropriate agency, but I decline to consult with them, that would be the distinction that I would raise.",
+      "start": 1906.64,
+      "end": 1915.86
+    },
+    {
+      "id": "t149",
+      "speaker": "kagan",
+      "text": "Okay. But, as to everybody else, as long as you ask a question, whether or not you wait for the answer, whether or not you give them appropriate time for the answer, whatever the answer is, whether the answer is on a completely unrelated topic, it just doesn't matter?",
+      "start": 1915.86,
+      "end": 1931.62
+    },
+    {
+      "id": "t150",
+      "speaker": "sauer",
+      "text": "That would fall within the plain meaning of the word \"consultation, as we argue, and, again --",
+      "start": 1931.62,
+      "end": 1936.02
+    },
+    {
+      "id": "t151",
+      "speaker": "kagan",
+      "text": "I mean, really? The plain meaning of the word \"consultation\"? Like, the plain meaning of the word \"consultation\" seems to me like you consult with somebody on a topic. That means you ask a question. They give an answer that's on the same topic. You know, it doesn't have to be long. You don't have to lock a person in the room together for three hours. But, I mean, you have to ask the question: Hey, what are country conditions like? And then the answer comes back country conditions are fine or they're not fine. You know, that's appropriate consultation. I'm not, like, asking for the moon, but, you know, what are country conditions like? Weren't the Dodgers great last night? That does not seem like appropriate consultation.",
+      "start": 1936.02,
+      "end": 1972.68
+    },
+    {
+      "id": "t152",
+      "speaker": "sauer",
+      "text": "To seek advice or input is consultation. And with -- with respect to the example of locking them in the room for three hours, that's kind of the road that the district courts are going down. They're saying you did check with it, but it wasn't meaningful enough, so we give you kind of a D-plus on your consultation.",
+      "start": 1972.68,
+      "end": 1985.44
+    },
+    {
+      "id": "t153",
+      "speaker": "kagan",
+      "text": "Well, but that's not the road I'm going down. I mean, I guess I said that because that's not the road I'm going down. And, you know, sometimes consultation is very thorough and sometimes in government it's not very thorough. But, if Congress says to consult about a particular subject matter, then it seems as though what Congress said was you should ask somebody and they should give an answer.",
+      "start": 1985.44,
+      "end": 2006.58
+    },
+    {
+      "id": "t154",
+      "speaker": "sauer",
+      "text": "Certainly, you should ask somebody. The statute doesn't say she can compel them to give an answer, and she did ask. So regardless of what --",
+      "start": 2006.58,
+      "end": 2012.86
+    },
+    {
+      "id": "t155",
+      "speaker": "jackson",
+      "text": "But, General, the statute does go a little further than that. I mean, you keep homing in on the word \"consultation.\" But, if we read what the statute says, and I'm paraphrasing the relevant part, \"after consultation with appropriate agencies of the government, the Secretary shall review the conditions in the foreign state for which a designation is in effect and such\" -- \"and shall determine whether the conditions for such designation continue to be met.\" So, surely, the consultation, however long or short, can't be about something other than country conditions. I mean, if you read the whole sentence, what she's consulting about is her determination as to whether the country conditions are still in effect.",
+      "start": 2012.86,
+      "end": 2052.76
+    },
+    {
+      "id": "t156",
+      "speaker": "sauer",
+      "text": "I think what she's consulting about is a little more specific than that. She -- it says, you know, after consultation with appropriate agencies, she shall assess the country conditions and determine whether or not the criteria set forth in subsection 1 are still met. So the consultation can relate to not just country conditions but anything else that is relevant to that.",
+      "start": 2052.76,
+      "end": 2069.88
+    },
+    {
+      "id": "t157",
+      "speaker": "jackson",
+      "text": "But you just said with Justice Kagan it can relate to baseball. What I'm trying to do is figure out whether this statute, when it requires consultation, at least requires some exchange of information concerning this subject, whether the country conditions are still met.",
+      "start": 2069.88,
+      "end": 2086.26
+    },
+    {
+      "id": "t158",
+      "speaker": "sauer",
+      "text": "I believe I said, if the response has to do with baseball, there's really nothing she can do about that. She still consulted. If she sends an email to State and says, hey, what do you think of the Dodgers, I don't think we would argue that that constitutes consultation, because I think you correctly pointed out the context of that statute. Now it's not just country conditions. It's the entire determination whether or not the -- the -- the criteria for designation under subsection 1 are still met. If she's seeking input about that, she has consulted. I see my time's up.",
+      "start": 2086.26,
+      "end": 2111.76
+    },
+    {
+      "id": "t159",
+      "speaker": "roberts",
+      "text": "Thank you, General. Justice Thomas, anything further? Justice Alito? Justice Sotomayor?",
+      "start": 2111.76,
+      "end": 2119.58
+    },
+    {
+      "id": "t160",
+      "speaker": "sotomayor",
+      "text": "General, I don't think you -- I know -- General --",
+      "start": 2119.58,
+      "end": 2120.48
+    },
+    {
+      "id": "t161",
+      "speaker": "sauer",
+      "text": "I'm sorry. (Laughter.)",
+      "start": 2120.48,
+      "end": 2121.38
+    },
+    {
+      "id": "t162",
+      "speaker": "roberts",
+      "text": "Party's over. No, you've got to stay there.",
+      "start": 2121.38,
+      "end": 2122.28
+    },
+    {
+      "id": "t163",
+      "speaker": "sauer",
+      "text": "I'm very sorry.",
+      "start": 2122.28,
+      "end": 2123.18
+    },
+    {
+      "id": "t164",
+      "speaker": "sotomayor",
+      "text": "All right. You're not disputing that the email exchange of July 21st and July 22nd with respect to Syria and September 5th with respect to Hawaii, where the Secretary asked the State Department to discuss country conditions, that that was the extent of the consultation, correct?",
+      "start": 2123.18,
+      "end": 2154.98
+    },
+    {
+      "id": "t165",
+      "speaker": "sauer",
+      "text": "I believe that's what's in the administrative record for both cases. Obviously, one case comes to the Court where the administrative record was -- appears later. There's two different email exchanges. The one in the Syria case says we're re-reviewing country conditions with respect to this country. The other one I believe is in the Haiti case says we're, you know, considering -- or I don't remember the exact words, but considering the following four countries.",
+      "start": 2154.98,
+      "end": 2175.12
+    },
+    {
+      "id": "t166",
+      "speaker": "sotomayor",
+      "text": "Right. But the point is that that was the extent of it? There was no other information that the State Department provided?",
+      "start": 2175.12,
+      "end": 2181.72
+    },
+    {
+      "id": "t167",
+      "speaker": "sauer",
+      "text": "We haven't pointed to anything else in the administrative record to satisfy the consultation requirement.",
+      "start": 2181.72,
+      "end": 2185.76
+    },
+    {
+      "id": "t168",
+      "speaker": "sotomayor",
+      "text": "All right. And so the question is, if we believe the statute by its terms requires specific consultation with respect to country conditions as opposed to foreign policy concerns, there was no information addressed by the Department of State with respect to the country conditions?",
+      "start": 2185.76,
+      "end": 2206.74
+    },
+    {
+      "id": "t169",
+      "speaker": "sauer",
+      "text": "I disagree because, obviously, sending aliens back based on country conditions raises all kinds of foreign policy issues. So, if you say no foreign policy concerns, then --",
+      "start": 2206.74,
+      "end": 2216.36
+    },
+    {
+      "id": "t170",
+      "speaker": "sotomayor",
+      "text": "That -- that's -- well, no, because you're also taking the position that irrespective or regardless of -- I think I just made up --I used a grammatically incorrect word -- regardless of whether country conditions were bad or not, our national interests required termination, correct?",
+      "start": 2216.36,
+      "end": 2240.38
+    },
+    {
+      "id": "t171",
+      "speaker": "sauer",
+      "text": "Yes.",
+      "start": 2240.38,
+      "end": 2240.92
+    },
+    {
+      "id": "t172",
+      "speaker": "sotomayor",
+      "text": "So we can't assume that the State Department that doesn't answer the question presented is actually describing country conditions?",
+      "start": 2240.92,
+      "end": 2251.02
+    },
+    {
+      "id": "t173",
+      "speaker": "sauer",
+      "text": "Yeah. And I think I would stand on what I said in response to Justice Jackson, which is that the consultation relates to not just the assessment of country conditions but the entire determination, as that very same sentence goes on to say, to whether or not the conditions under subsection 1 are met.",
+      "start": 2251.02,
+      "end": 2264.26
+    },
+    {
+      "id": "t174",
+      "speaker": "sotomayor",
+      "text": "The only thing -- I'm looking at Haiti. The only thing asked for, we are reviewing country conditions in Haiti. Can you advise on State's views on that matter? I mean, all right. Thank you.",
+      "start": 2264.26,
+      "end": 2278.2
+    },
+    {
+      "id": "t175",
+      "speaker": "roberts",
+      "text": "Justice Kagan? Justice Gorsuch, anything further? Justice Kavanaugh?",
+      "start": 2278.2,
+      "end": 2282.44
+    },
+    {
+      "id": "t176",
+      "speaker": "kavanaugh",
+      "text": "Can you explain the reasons why Congress would have barred judicial review as broadly as you assert?",
+      "start": 2282.44,
+      "end": 2290.56
+    },
+    {
+      "id": "t177",
+      "speaker": "sauer",
+      "text": "I -- I'd emphasize two. There are several. I think perhaps most importantly, the kind of determination that is at issue here is just the sort of determination that lies kind of at the heartland of what has been traditionally entrusted to the political branches. And given -- let me give you a couple examples of that. If you consider, for example, the determination that is made in both of the termination orders that these are nations that have emerged from difficult times and there are new fledgling governments there. And, for example, in the Syria determination, the Secretary says it's our foreign policy to project a message of confidence to the fledgling government of Syria. The president has taken away sanctions. He has recognized that government. There's refugees returning from all over the world. And if we don't terminate TPS, it will send a message of doubt about that country. That -- that's the sort of foreign-policy-freighted decision that lies at the heartland of the political branch's competence, and it's the sort of thing maybe you -- as you see in this case, those sorts of determinations being second-guessed by the district courts, it's almost like these district courts are appointing themselves junior varsity Secretaries of State saying I -- I second-guess that. So, if you look at the whole package here --",
+      "start": 2290.56,
+      "end": 2359.08
+    },
+    {
+      "id": "t178",
+      "speaker": "kavanaugh",
+      "text": "Well, that's Syria and the Assad regime. I understand that one.",
+      "start": 2359.08,
+      "end": 2360.74
+    },
+    {
+      "id": "t179",
+      "speaker": "sauer",
+      "text": "Yeah.",
+      "start": 2360.74,
+      "end": 2362.4
+    },
+    {
+      "id": "t180",
+      "speaker": "kavanaugh",
+      "text": "Do you want to give a similar answer on Haiti?",
+      "start": 2362.4,
+      "end": 2364.54
+    },
+    {
+      "id": "t181",
+      "speaker": "sauer",
+      "text": "Very similar answer, very similar points are made as to Haiti. I'd emphasize to the Court, if you look at Footnote 35 in the Haiti termination and the accompanying text where it talks about the problem of ongoing chain migration out of Haiti, there's an ongoing exodus, and they argue in this case that the TPS holders are some of the most educated, some of the most law-abiding, some of the sort of best and the brightest that are in diaspora. That Footnote 35 cites an article that she relied on, \"Engaging the Haitian Diaspora,\" where it talks about how, in neighboring Caribbean countries, the United States, and Canada, there are hundreds of thousands of Haitian nationals who are abroad -- you know, who are abroad now. And the determination, this notion that there's ongoing chain migration, the concern is are we actually creating, contributing to the problem, creating a self-fulfilling prophecy by ensuring that there's an indefinite expectation of all those people. There's this kind of talent drain out of Haiti. That's the sort of, like, foreign-policy-freighted -- that is weighing incommensurables under conditions of uncertainty, that is the sort of foreign-policy-freighted decision and determination that's naturally left to the political branches. So there can be hypotheticals about, you know, the Secretary could do something lawless or crazy, and Congress has a way, has tools to address that because there's annual reports. In the annual report, she's not going to say or he's not going to say, I flipped a coin. The annual report's going to have to give reasons. And if Congress does not --",
+      "start": 2364.54,
+      "end": 2442.32
+    },
+    {
+      "id": "t182",
+      "speaker": "kavanaugh",
+      "text": "The annual reports would be after the fact, so --",
+      "start": 2442.32,
+      "end": 2445.06
+    },
+    {
+      "id": "t183",
+      "speaker": "sauer",
+      "text": "That is true, but --",
+      "start": 2445.06,
+      "end": 2445.82
+    },
+    {
+      "id": "t184",
+      "speaker": "kavanaugh",
+      "text": "-- the concern you've heard here is that's already done then.",
+      "start": 2445.82,
+      "end": 2450.06
+    },
+    {
+      "id": "t185",
+      "speaker": "sauer",
+      "text": "It is done, but it has to be reviewed every 18 months. And that structure itself kind of makes judicial review a misfit because judicial review takes more than 18 months. So, if we're put under a preliminary injunction, as we saw in the Ramos litigation, you know, from 2018 through 2020, even though there's supposed to be this ongoing 18-month re-review, the district -- the district courts enter -- they put in an injunction, and all of a sudden you have this sort of extended thing. Keep in mind this is Temporary Protected Status. The word \"temporary\" is used again and again in the statute, including its title. And we're looking at a situation where there have been initial designations that go back to 1991 in the case of Somalia, Hurricane Mitch in 1998, 20 -- 27 years ago, as to Honduras and Nicaragua, and these were still in effect until -- still are in effect. So there's a sense that -- and one very important point I'd make there is, if you look at Haiti specifically, the Haitian termination has now been enjoined twice, both in the first Trump administration and in this administration. And so the judicial review is having this effect of really defeating the fundamental purpose of the statute, which is inherently temporary. There's this very frequent periodic review.",
+      "start": 2450.06,
+      "end": 2521.26
+    },
+    {
+      "id": "t186",
+      "speaker": "kavanaugh",
+      "text": "Thank you.",
+      "start": 2521.26,
+      "end": 2522.26
+    },
+    {
+      "id": "t187",
+      "speaker": "roberts",
+      "text": "Justice Barrett? Justice Jackson?",
+      "start": 2522.26,
+      "end": 2524.22
+    },
+    {
+      "id": "t188",
+      "speaker": "jackson",
+      "text": "So I have no doubt that there are foreign policy considerations, but do you dispute that the thrust of this statute is actually the humanitarian concern that the initial designation under this statute is supposed to be a consideration of whether there is an ongoing armed conflict within the state, and due to such a conflict, returning the aliens who are nationals of that state would pose a \"serious threat\" to their personal safety? It seems to me that this statute does allow the Secretary to take into the account -- into account the kinds of things that you discussed with Justice Kavanaugh but against the backdrop of the actual purpose of the statute, which is what conditions are in this country and whether or not it would be safe to return those people. And so I -- I guess I'm just struggling with your argument that the Secretary can make this determination without, as a procedural matter, taking into account country conditions, as the statute requires.",
+      "start": 2524.22,
+      "end": 2587.14
+    },
+    {
+      "id": "t189",
+      "speaker": "sauer",
+      "text": "The Secretary is obligated to consider country conditions under (b) -- of various kinds, different kinds of country conditions, under (b)(1)(A), (b)(1)(B), and (b)(1)(C).",
+      "start": 2587.14,
+      "end": 2594.88
+    },
+    {
+      "id": "t190",
+      "speaker": "jackson",
+      "text": "And if she doesn't, you say not reviewable?",
+      "start": 2594.88,
+      "end": 2597.28
+    },
+    {
+      "id": "t191",
+      "speaker": "sauer",
+      "text": "Not reviewable. Under (b)(1)(C), most relevant, she considers not just country conditions but also whether allowing the aliens to stay here would be contrary to the United States' national interests. If anything is discretionary, if anything exudes deference --",
+      "start": 2597.28,
+      "end": 2611.26
+    },
+    {
+      "id": "t192",
+      "speaker": "jackson",
+      "text": "Yes, you're picking that part of the statute --",
+      "start": 2611.26,
+      "end": 2611.71
+    },
+    {
+      "id": "t193",
+      "speaker": "sauer",
+      "text": "-- to the Secretary, that language does.",
+      "start": 2611.71,
+      "end": 2612.16
+    },
+    {
+      "id": "t194",
+      "speaker": "jackson",
+      "text": "-- but I've read -- I've read other parts of the statute that require her to do country conditions. And you're saying, if she doesn't, that's not reviewable; see the other parts of the statute that talk about foreign policy. I just don't understand the concept of the Secretary being constrained to do certain things and not being required to do them in the sense that they're not enforceable. She can basically do whatever she -- she wants, I hear from your argument.",
+      "start": 2612.16,
+      "end": 2636.22
+    },
+    {
+      "id": "t195",
+      "speaker": "sauer",
+      "text": "Congress assumed that risk when it said there is no judicial review of any determination --",
+      "start": 2636.22,
+      "end": 2639.19
+    },
+    {
+      "id": "t196",
+      "speaker": "jackson",
+      "text": "All right.",
+      "start": 2639.19,
+      "end": 2642.16
+    },
+    {
+      "id": "t197",
+      "speaker": "sauer",
+      "text": "-- with respect to termination.",
+      "start": 2642.16,
+      "end": 2643.72
+    },
+    {
+      "id": "t198",
+      "speaker": "jackson",
+      "text": "Thank you.",
+      "start": 2643.72,
+      "end": 2644.44
+    },
+    {
+      "id": "t199",
+      "speaker": "roberts",
+      "text": "Thank you, General. Mr. Arulanantham.",
+      "start": 2644.44,
+      "end": 2652.78
+    },
+    {
+      "id": "t200",
+      "speaker": "arulanantham",
+      "text": "Thank you, Mr. Chief Justice, and may it please the Court: Congress struck a balance in the TPS statute. It granted the Secretary substantial discretion to designate countries at the outset but constrained the authority to terminate TPS once people have come to rely on it through mandatory procedures and rules. Congress struck a corresponding balance on judicial review. It didn't broadly bar review of all policies and procedures or all questions of law and fact, as in neighboring immigration statutes. It barred review of any determination in subsection (b), which are the country conditions assessments on which the Secretary would be expected to have expertise. Congress thus preserved review to ensure compliance with other requirements in the statute, including in subsection (b), like the obligation to consult and to make decisions based on country conditions. The bottom line is this: The Secretary can terminate TPS, but he must turn square corners, follow the rules Congress set. In contrast, as we've heard today, the government reads this statute like a blank check. Today, they want to use it to expel non-citizens. But the power that they seek is a double-edged sword. The Secretary could designate every country from which an undocumented person has come to the United States explicitly to provide mass immigration relief under this statute, and on their view, the courts could do nothing. That contravenes the text, bedrock administrative law, and common sense. On the merits, this is an easy case. One basis for Syria's designation is armed conflict. But the Secretary never consulted the State Department about the armed conflict. Even today, the State Department's website says armed conflict in Syria remains active. In addition, the other basis for Syria's designation, which is extraordinary and temporary conditions, she terminated based on the national interest. But the plain text makes clear that the termination must be based solely on the conditions in the foreign state. Finally, it matters that this case is here on a preliminary relief order that just preserved TPS while the case proceeds. People like Dr. Sara Doe, a pediatrician giving lifesaving care to children, have no later recourse if they are illegally stripped of their work authorization, let alone face detention or deportation. Laila Doe's daughter came here at the age of three and is now about to graduate high school. She should keep her status while the case proceeds. I welcome the Court's questions.",
+      "start": 2652.78,
+      "end": 2806.88
+    },
+    {
+      "id": "t201",
+      "speaker": "thomas",
+      "text": "Would you be kind enough to say what else is reviewable under -- despite the -- the jurisdiction-stripping provision? Because it seems pretty broad. It says there's no judicial review of any determination of the Attorney General.",
+      "start": 2806.88,
+      "end": 2827.58
+    },
+    {
+      "id": "t202",
+      "speaker": "arulanantham",
+      "text": "So we agree it's broad, Your Honor.",
+      "start": 2827.58,
+      "end": 2828.5
+    },
+    {
+      "id": "t203",
+      "speaker": "thomas",
+      "text": "Yeah.",
+      "start": 2828.5,
+      "end": 2829.42
+    },
+    {
+      "id": "t204",
+      "speaker": "arulanantham",
+      "text": "It bars everything that the Secretary determines in subsection (b). And if you look for the word \"determines\" in subsection (b), it appears in many places. But there are other words also, like in (b)(3)(A), the Secretary has an obligation after consultation with appropriate agencies. And that is not described as a determination. So we think there's review over consultation. The Secretary also has an -- an obligation to review conditions in the foreign state. So we think that there then should be review over just whether the fact, did she, in fact, review the conditions in the foreign state? Not if she got it right, but did she review it? There are other things in there too. The opening line is \"at least 60 days before the end of initial period of designation.\" So there's a timing rule. When do you get to do this? And, you know, as some of these hypotheticals have suggested, you can't do it immediately. You can't do it -- and so there's review over the timing as well. But -- but it's very minimal. It's only the procedural rules. But I would argue, Your Honor, that in a context where there's no review on the substantive determination, the procedural rules are all the more important then to ensure that we have appropriate government decision-making.",
+      "start": 2829.42,
+      "end": 2895.12
+    },
+    {
+      "id": "t205",
+      "speaker": "thomas",
+      "text": "So, in the case of appellate courts, for example, they have authority to review judgments. Would you, using the same logic, say they can only review the substantive underlying judge -- judgment but not the underlying determinations?",
+      "start": 2895.12,
+      "end": 2915.48
+    },
+    {
+      "id": "t206",
+      "speaker": "arulanantham",
+      "text": "No, Your Honor. I -- if I understand the hypothetical correctly, I think it actually favors us because this statute uses the word \"determination\" as a distinct act from the ultimate order to either extend, designate, or terminate TPS. This is very clear from the termination provision, which is (b)(3)(B). It's the next one after the one which has the consultation rule in it. It says -- and I'll apologize in advance because the words are very -- sound very similar -- it says, if the Attorney General determines -- determines -- that a foreign state no longer meets the conditions for designation, he shall terminate the designation by publishing notice of the determination in the Federal Register. So it's clearly using them as two distinct ideas. One is the determination, that's the country conditions assessment, then the termination order or the extension order or the designation order. They're distinct acts in this context.",
+      "start": 2915.48,
+      "end": 2974.92
+    },
+    {
+      "id": "t207",
+      "speaker": "thomas",
+      "text": "Normally, though, we would think that the subsidiary considerations that lead to a judgment would also be reviewable or non-reviewable depending on jurisdiction.",
+      "start": 2974.92,
+      "end": 2987.76
+    },
+    {
+      "id": "t208",
+      "speaker": "arulanantham",
+      "text": "I don't think there's any such general principle of administrative law, Your Honor. We cite the Zuch case just recently in the tax context, which literally holds the opposite. It says, you know, the -- the things that make up the determination, the inputs, are different from the output. McNary and Reno v. Catholic Social Services both construed the word \"determination\" in an immigration statute, contemporaneously with all of this, to distinguish between the determination and the antecedent procedural questions and decision-making criteria, and they relied on Bowen, which we -- we heard discussion of earlier. And I think the last point I'd like to make just on this subject, Your Honor, is, even if you might have voted the other way in those cases in the first instance, right, the word \"determination\" has become embedded in our immigration law with a narrower meaning than what the government ascribes to it here. And you can see that most clearly from the way Congress wrote provisions in 1996, which is just three years after Catholic Social Services, which is, in turn, two years after McNary. They wrote provisions saying, for example, the expedited removal provisions, they bar review of any individual determination or any other cause or claim related to expedited removal. There's another provision which bars procedures and policies related to expedited removal, in addition to what is already the bar on determination. And then, of course, subsection (b)(9) in the same statute, which Justice Alito's plurality construed in Jennings v. Rodriguez, which we all remember, all questions of law and fact. That's what it bars review of, all questions of law and fact, including substantial statutory and constitutional claims. This is about district court review of removal orders. So they clearly have broader language that they use when they want to cover more than -- when they want to cover all of the antecedent steps.",
+      "start": 2987.76,
+      "end": 3046.36
+    },
+    {
+      "id": "t209",
+      "speaker": "barrett",
+      "text": "And, counsel --",
+      "start": 3046.36,
+      "end": 3104.96
+    },
+    {
+      "id": "t210",
+      "speaker": "alito",
+      "text": "In order for you to win this case, is it necessary for us to find that the word \"determination\" in (b)(5)(A) is a term of art?",
+      "start": 3104.96,
+      "end": 3117.34
+    },
+    {
+      "id": "t211",
+      "speaker": "arulanantham",
+      "text": "No, I don't think it's a term of art, Your Honor. I -- I resist that characterization. I do think there's two way -- paths for us to victory.",
+      "start": 3117.34,
+      "end": 3123.9
+    },
+    {
+      "id": "t212",
+      "speaker": "alito",
+      "text": "Well, let me put it a different way. Would it be necessary for us to say that we give that term in that provision something other than its ordinary meaning in regular speech?",
+      "start": 3123.9,
+      "end": 3136.86
+    },
+    {
+      "id": "t213",
+      "speaker": "arulanantham",
+      "text": "No, Your Honor, I mean, although I do think context is everything, right, when we're construing statutes, and \"determination\" there we think has to be understood by reference to \"determine,\" which is used eight times in the same subsection to mean country conditions assessment.",
+      "start": 3136.86,
+      "end": 3151.52
+    },
+    {
+      "id": "t214",
+      "speaker": "alito",
+      "text": "Well, I take that to be a yes. We have to -- we have to say, look, \"determination\" is a very broad word, it's used all the time by -- in -- in many different statutory provisions, it's used all the time by this Court. If we apply ordinary meaning of that term here, I -- I -- I -- I -- I really don't understand how you can prevail.",
+      "start": 3151.52,
+      "end": 3173.56
+    },
+    {
+      "id": "t215",
+      "speaker": "arulanantham",
+      "text": "Well, I guess because I don't think that it always has the full potential breadth that the government has ascribed to it. For example, in this statute, we see it's used two times outside of subsection (b), more than two times but in two sentences outside of subsection (b). And I concede and this was discussed that those are not about country conditions assessment -- assessments. So it has a different meaning there. But the bar only applies to determinations in subsection (b). And so, again, I think it just means -- it refers back. But my fall-back position, Your Honor, even if you're not willing to say determination should be tied tightly to determine, the two claims in particular, the consultation claim and then the claim about national interest and whether it's appropriately considered at the termination phase, those are the kinds of claims that this Court has considered in administrative law cases going back a hundred years. You know, if you look at the administrative law scholars, the Cox, Rick Hills, Emma Kaufman brief, it talks about this history. Claims that process is reviewable, even if the ultimate decision is final, have been reviewable in immigration statutes going back to Nishimura Ekiu in 1892. Claims that you've read the wrong criteria into the statute, not whether you got it right, but just are you considering a factor which actually is not the one that's supposed to be considered, those go back to 1904, Gonzales v. Williams and other cases like that. So you could say we're not necessarily giving you that determination that has to be hitched directly to determine, but say we are reading the statute to not be the broadest conceivable jurisdictional bar ever, particularly given that Congress wrote broader ones just a couple of years after this Court had decided McNary and CSS. And that would be at least the first two claims. The consultation claim and the claim about the statutory criteria would be -- which is a pure question of law. I mean, it's just about how you read the statute and how you read the words, is national interest, you know, incorporated into (b)(3) or only in (b)(1). Those claims could be reviewable even on a much narrower theory than our front-line theory, which is that you should use the text and refer to the term --",
+      "start": 3173.56,
+      "end": 3296.68
+    },
+    {
+      "id": "t216",
+      "speaker": "barrett",
+      "text": "Counsel, can I give you a hypothetical? Let's imagine that there is a more robust record of consultation here, and the Secretary consults the State Department and the State Department says the country conditions in Syria remain terrible, armed conflict continues, and, you know, I -- I think it would be fine and in the national interest to continue TPS status for Syrian refugees. The Secretary says, yeah, you know what, I'm going to terminate it anyway. Is that reviewable?",
+      "start": 3296.68,
+      "end": 3326.96
+    },
+    {
+      "id": "t217",
+      "speaker": "arulanantham",
+      "text": "So just two thing -- a quick point about your hypo. National interest is not a factor on armed conflict. I just want to flag that for later when we get there.",
+      "start": 3326.96,
+      "end": 3333.86
+    },
+    {
+      "id": "t218",
+      "speaker": "barrett",
+      "text": "Okay. Okay. Okay. I mean, my point here doesn't really matter.",
+      "start": 3333.86,
+      "end": 3335.31
+    },
+    {
+      "id": "t219",
+      "speaker": "arulanantham",
+      "text": "Yes, entirely.",
+      "start": 3335.31,
+      "end": 3336.76
+    },
+    {
+      "id": "t220",
+      "speaker": "barrett",
+      "text": "I mean, I'm just saying, like, let's imagine that consultation happens, it's a robust consultation, but everything that she hears cuts in favor of keeping TPS status, and she says, I'm terminating it.",
+      "start": 3336.76,
+      "end": 3342.57
+    },
+    {
+      "id": "t221",
+      "speaker": "arulanantham",
+      "text": "We --",
+      "start": 3342.57,
+      "end": 3348.38
+    },
+    {
+      "id": "t222",
+      "speaker": "barrett",
+      "text": "Is that -- is that reviewable?",
+      "start": 3348.38,
+      "end": 3349.68
+    },
+    {
+      "id": "t223",
+      "speaker": "arulanantham",
+      "text": "We could not challenge on the ground that she is wrong and the State Department is right. What the statute does is it tries to get the government to speak in one voice, which this Court has said is very important and is a huge problem here when, you know, you have them going back and forth, but if ultimately the Secretary says, you know, speaking in one voice is important, but my people, country conditions people, think that the armed conflict is over, so that's what we're doing, that is not reviewable. But what is reviewable is whether she actually asks anything and gets any information about country conditions.",
+      "start": 3349.68,
+      "end": 3383.54
+    },
+    {
+      "id": "t224",
+      "speaker": "barrett",
+      "text": "Is this going to get you very much? I mean, if it's just kind of a box-checking exercise, I mean, why would Congress permit review of the procedural aspect when, really, what everybody cares about much more is the substance?",
+      "start": 3383.54,
+      "end": 3394.98
+    },
+    {
+      "id": "t225",
+      "speaker": "arulanantham",
+      "text": "I think it's because Congress and us too and the millions of people who live with TPS holders have some faith in government, and they believe that if there is consultation, the decisions will be better.",
+      "start": 3394.98,
+      "end": 3406.44
+    },
+    {
+      "id": "t226",
+      "speaker": "jackson",
+      "text": "And that's really not unusual, right? I mean, isn't that the whole thrust of something like the APA?",
+      "start": 3406.44,
+      "end": 3411.1
+    },
+    {
+      "id": "t227",
+      "speaker": "arulanantham",
+      "text": "Absolutely.",
+      "start": 3411.1,
+      "end": 3411.72
+    },
+    {
+      "id": "t228",
+      "speaker": "jackson",
+      "text": "That Congress has always sort of understood that agencies are going to have a lot of discretion at the end of the day to make the determinations, but we still need to police to some extent the inputs, what they're looking at, whether they give the public notice and comment, all of the things about procedural rules and requirements for decision-making are important even if the ultimate decision is still left to the agency.",
+      "start": 3411.72,
+      "end": 3439.0
+    },
+    {
+      "id": "t229",
+      "speaker": "arulanantham",
+      "text": "Absolutely, Your Honor. You know, our view is that even if it comes back like a box-checking exercise, people will at least know that somebody talked to somebody else. And it makes sense, of course, DHS has foreign policy expertise. They have their asylum and refugee office and all those people. But the State Department also has a lot of foreign policy expertise and information.",
+      "start": 3439.0,
+      "end": 3459.82
+    },
+    {
+      "id": "t230",
+      "speaker": "kagan",
+      "text": "Can I ask --",
+      "start": 3459.82,
+      "end": 3460.72
+    },
+    {
+      "id": "t231",
+      "speaker": "alito",
+      "text": "Would you -- I mean, would you -- and just to follow up on what Justice Jackson is asking, do you think we can read (b)(5)(A) at least to say we're ruling out APA review here?",
+      "start": 3460.72,
+      "end": 3474.02
+    },
+    {
+      "id": "t232",
+      "speaker": "arulanantham",
+      "text": "Your Honor, I don't want to belabor that point because our brief addresses it at great length. In our view, there is a difference from the Department of Commerce case between whether the record evidence supports the conclusion and whether the decision is motivated by some impermissible criteria. And in Department of Commerce, obviously, the record evidence did support the conclusion, but nonetheless, the decision was based on, you know, a contrived reason. That is the reason why we think pretext claims are reviewable. But it doesn't matter because the first two claims are -- are much more canonically sort of old -- you know, older than SEC v. Chenery. You know, I think that decision really becomes reviewable. This becomes canonical APA law that pretext claims should be understood differently after Chenery I, but these other ideas are much, much older than that, and that's really, you know, all we have to say about it.",
+      "start": 3474.02,
+      "end": 3522.26
+    },
+    {
+      "id": "t233",
+      "speaker": "roberts",
+      "text": "Well, in Department of Commerce, of course, we said that political considerations are a permissible factor. How are we supposed to determine how much political influence is too much?",
+      "start": 3522.26,
+      "end": 3532.22
+    },
+    {
+      "id": "t234",
+      "speaker": "arulanantham",
+      "text": "Yeah. I -- I think, in this case, the Secretary said on CNN the day after her first TPS decision that we are taking direction from the direction of the President, he is pausing this program. And after that -- meaning the TPS program. And then there have been 13 terminations in a row. So the district court just said on -- we're here on preliminary relief. I think it's a factual finding for clear error review. The -- the district court said, you know, I think that I will take that statement, when coupled with the confirmatory action of all the TPS terminations and the absence of consultation and all the rest of it, to mean that --",
+      "start": 3532.22,
+      "end": 3567.96
+    },
+    {
+      "id": "t235",
+      "speaker": "roberts",
+      "text": "Well, that's a particular circumstance. But, I mean, in general, how would you articulate the principle that this is too much? How do you judge, as a general matter, how much political influence is too much?",
+      "start": 3567.96,
+      "end": 3573.28
+    },
+    {
+      "id": "t236",
+      "speaker": "arulanantham",
+      "text": "Only --",
+      "start": 3573.28,
+      "end": 3578.6
+    },
+    {
+      "id": "t237",
+      "speaker": "roberts",
+      "text": "Not -- not that you're saying, well, it was too much in this case but more generally.",
+      "start": 3578.6,
+      "end": 3582.46
+    },
+    {
+      "id": "t238",
+      "speaker": "arulanantham",
+      "text": "Yeah. I mean, I don't think -- I wouldn't change a word of Commerce, Your Honor, and --",
+      "start": 3582.46,
+      "end": 3586.48
+    },
+    {
+      "id": "t239",
+      "speaker": "roberts",
+      "text": "I wouldn't either. (Laughter.)",
+      "start": 3586.48,
+      "end": 3587.52
+    },
+    {
+      "id": "t240",
+      "speaker": "arulanantham",
+      "text": "Yes. I figured you would say that. And -- and I just -- I just think this is also a very rare outlier case where the Secretary actually said on national television the day after the decision that she was motivated by an impermissible factor. You know, I want to come back to this consultation question, though, to talk about this email. As Justice Sotomayor had said, the entire consultation in this case is reprinted on less than one page, page 41 of our brief.",
+      "start": 3587.52,
+      "end": 3612.8
+    },
+    {
+      "id": "t241",
+      "speaker": "kagan",
+      "text": "Well, could I ask about that particularly? Suppose that there was the same question asked from DHS to State Department, and instead of the answer being State has no foreign policy concerns with ending these TPS designations, suppose the answer was just State has no concerns with ending these TPS designations.",
+      "start": 3612.8,
+      "end": 3625.44
+    },
+    {
+      "id": "t242",
+      "speaker": "arulanantham",
+      "text": "I mean --",
+      "start": 3625.44,
+      "end": 3638.08
+    },
+    {
+      "id": "t243",
+      "speaker": "kagan",
+      "text": "Would that be appropriate? Would that be -- would that cross the line into that's fine?",
+      "start": 3638.08,
+      "end": 3642.02
+    },
+    {
+      "id": "t244",
+      "speaker": "arulanantham",
+      "text": "I mean, that is a much harder case than ours because it might be true that no concerns encompasses country conditions, you know, and I'm not saying that definitely that person should win because I think, you know, you -- the -- the government -- I mean the plaintiffs may be entitled to -- to -- to argue that that's not actually what happened there. But our case is so much easier than that because --",
+      "start": 3642.02,
+      "end": 3661.24
+    },
+    {
+      "id": "t245",
+      "speaker": "kagan",
+      "text": "Well, is it so much easier? I mean, I wonder -- I mean, the State Department probably says no foreign policy concerns five times before breakfast every day. It's just -- it's -- that's what the -- the State Department. They deal with foreign policy concerns. So, if somebody asks them something, they say no foreign policy concerns. Does that really -- is that really going to make the difference between what is permissible consultation and what is not permissible consultation, the fact that they put the words \"foreign policy\" in the answer?",
+      "start": 3661.24,
+      "end": 3689.84
+    },
+    {
+      "id": "t246",
+      "speaker": "arulanantham",
+      "text": "So -- so two things. First, this same exact worded email, no foreign policy concerns or sometimes they said foreign policy objections, but foreign policy concerns or objections is now the record in seven consecutive TPS terminations under this statute. And that's why all these district courts that they're talking about, right, it's the same thing. So it's not obvious to me that, oh, they could have just written country conditions and they chose to write foreign policy. You know, but, you know, I'd still say turn the square corner and make them -- make them do it. But, beyond that, there is -- you know, we -- we have also our --",
+      "start": 3689.84,
+      "end": 3720.94
+    },
+    {
+      "id": "t247",
+      "speaker": "kagan",
+      "text": "When you say that, when you say, look, this is -- this is obviously deliberate language because it was used in seven, what are you suggesting about why they used this language?",
+      "start": 3720.94,
+      "end": 3729.98
+    },
+    {
+      "id": "t248",
+      "speaker": "arulanantham",
+      "text": "So, look, I --I don't -- I don't know, but I think it is possible that they don't have a foreign policy concern, but they're not comfortable saying that the armed conflict in Syria is over when their own website is saying, if you go to Syria, leave a DNA sample, execute a will before you go, it's active armed conflict, no part of Syria is safe, every part is wracked with violence --",
+      "start": 3729.98,
+      "end": 3748.76
+    },
+    {
+      "id": "t249",
+      "speaker": "kavanaugh",
+      "text": "Well, it's not the Assad regime anymore, though. I mean, that -- the whole thing was the Assad regime after 53 years of complete oppression and brutal treatment is gone.",
+      "start": 3748.76,
+      "end": 3754.7
+    },
+    {
+      "id": "t250",
+      "speaker": "arulanantham",
+      "text": "But -- so, Your Honor --",
+      "start": 3754.7,
+      "end": 3760.64
+    },
+    {
+      "id": "t251",
+      "speaker": "kavanaugh",
+      "text": "So do you agree the Assad regime change is a significant change in the history of that country and the --and the Middle East more broadly?",
+      "start": 3760.64,
+      "end": 3770.92
+    },
+    {
+      "id": "t252",
+      "speaker": "arulanantham",
+      "text": "I mean, of course, anybody would agree with that, Your Honor, but I -- but --",
+      "start": 3770.92,
+      "end": 3773.24
+    },
+    {
+      "id": "t253",
+      "speaker": "kavanaugh",
+      "text": "Okay. Well, that's an important marker then because that's -- that's a -- a big shift in both Syria but also the posture of other countries towards Syria, at least as I -- I don't pretend to be an expert, but that's my understanding of what's the backdrop here.",
+      "start": 3773.24,
+      "end": 3792.38
+    },
+    {
+      "id": "t254",
+      "speaker": "arulanantham",
+      "text": "So -- so two thoughts, Your Honor. Then I want to briefly talk about national interest if -- if there's time. So, first, you know, we're not -- we're not interested in a debate about whether Syria is or is not safe, so, you know, we haven't gotten into that precisely because it's barred by the judicial review bar, right? Our view is they have to consult and that's the end of it. And the second thing I would say is the State Department's own reports believe, of course, Assad -- they recognize Assad has ended, but they say active violence in every part of the country, the daycare that Laila Doe's daughter went to got bombed, the building next to it has been bombed again in southern Syria. That's not the same conflict. It's the Israeli incursion. There's a war between Turkey and Kurdistan -- Kurds going on in the north. There's still lots of conflict according to the State Department's accounts and the -- the CRS report about this. These are in the Joint Appendix. So I don't think it's as simple as that, but we don't contest, if the Secretary says, I disagree, Syria is safe, that's fine, but she still has to turn the square corners and follow the steps.",
+      "start": 3792.38,
+      "end": 3823.79
+    },
+    {
+      "id": "t255",
+      "speaker": "kavanaugh",
+      "text": "Yeah.",
+      "start": 3823.79,
+      "end": 3855.2
+    },
+    {
+      "id": "t256",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. Justice Thomas, anything further?",
+      "start": 3855.2,
+      "end": 3858.26
+    },
+    {
+      "id": "t257",
+      "speaker": "thomas",
+      "text": "Just briefly with respect to the jurisdiction-stripping provision again. If the Secretary actually designates -- does not terminate but designates in favor of -- of a particular group, can others use the exact same objection that you're offering?",
+      "start": 3858.26,
+      "end": 3881.5
+    },
+    {
+      "id": "t258",
+      "speaker": "arulanantham",
+      "text": "I'm not sure I understand the question, Your Honor.",
+      "start": 3881.5,
+      "end": 3883.36
+    },
+    {
+      "id": "t259",
+      "speaker": "thomas",
+      "text": "Well, would they be able to challenge the same way that you're challenging --",
+      "start": 3883.36,
+      "end": 3885.27
+    },
+    {
+      "id": "t260",
+      "speaker": "arulanantham",
+      "text": "I got it.",
+      "start": 3885.27,
+      "end": 3887.18
+    },
+    {
+      "id": "t261",
+      "speaker": "thomas",
+      "text": "-- a positive designation?",
+      "start": 3887.18,
+      "end": 3889.0
+    },
+    {
+      "id": "t262",
+      "speaker": "arulanantham",
+      "text": "Got it. So, no, Your Honor, but not because of the review bar. What they can challenge -- the statute says the Secretary may designate -- this is -- now we're talking about (b)(1), right?",
+      "start": 3889.0,
+      "end": 3894.29
+    },
+    {
+      "id": "t263",
+      "speaker": "thomas",
+      "text": "Yeah, yeah.",
+      "start": 3894.29,
+      "end": 3899.58
+    },
+    {
+      "id": "t264",
+      "speaker": "arulanantham",
+      "text": "May designate only if, and then one of these three criteria have to be met.",
+      "start": 3899.58,
+      "end": 3902.15
+    },
+    {
+      "id": "t265",
+      "speaker": "thomas",
+      "text": "Yeah.",
+      "start": 3902.15,
+      "end": 3904.72
+    },
+    {
+      "id": "t266",
+      "speaker": "arulanantham",
+      "text": "So, even if a country is horribly in crisis, there's no obligation to designate. And that's the reason why that's unreviewable, you know. But, of course, it doesn't cut the other way, right? On their view, if the Secretary -- this was my opening hypothetical -- if the Secretary designated Mexico for immigration relief, it's unreviewable. On our view, it is reviewable because you look to the --to the criteria to see whether they actually applied. Did they care at all about conditions, or were they just trying to achieve some political end?",
+      "start": 3904.72,
+      "end": 3917.93
+    },
+    {
+      "id": "t267",
+      "speaker": "thomas",
+      "text": "Yeah.",
+      "start": 3917.93,
+      "end": 3931.14
+    },
+    {
+      "id": "t268",
+      "speaker": "roberts",
+      "text": "Justice Alito?",
+      "start": 3931.14,
+      "end": 3934.1
+    },
+    {
+      "id": "t269",
+      "speaker": "alito",
+      "text": "One of the points that General Sauer made was that if we accept your arguments, it will create a hole in the judicial review bar that you could drive a convoy of trucks through. And you have now said repeatedly that it's necessary for the Secretary to turn square corners, which seems to open -- which seems to support what he says, that if we depart from the ordinary meaning of the review bar, then it is always going to be possible to pick procedural faults in -- to raise procedural objections to what's been done. And what you've said about consultation makes me think that that may be true because, here, there was some consultation. All right, it was very brief and maybe it's not what one would hope for, but still, once you say, well, it's --it's permissible to review the adequacy of the -- of the consultation, it's always going to be possible to pick -- to -- to raise objections about the adequacy of the --of the consultation and the words that the State Department comes back with.",
+      "start": 3934.1,
+      "end": 4013.0
+    },
+    {
+      "id": "t270",
+      "speaker": "arulanantham",
+      "text": "So two thoughts, Your Honor. First, our consultation claim in this sense is extremely narrow. We don't argue about the levels. We don't argue about the amount. All we say is it has to be about a subject, deliberation about a subject, so they have to talk about country conditions. And you could hold that, Your Honor, and leave aside, just say we're not saying it's okay to police meaningfulness, even though, in other statutes, lower courts do -- you know, consultation claims -- consultation provisions are in other -- other statutes and, you know, the sky doesn't fall. But, if -- if your -- that's Your Honor's concern, just only say it has to be about the topic, and -- and we don't say anything about, you know, meaningfulness in a broader sense. That's my first answer. My second answer is, you know, the State Department actually provided reports because they did care about speaking in one voice for 35 years under this statute. This is in the former senior government officials' brief, a bipartisan brief, including somebody from the first Trump administration talking about the fact that they used to actually look at all the different components of the State Department and talk about this so that they could make sure that the decision was good. There was never a challenge to consultation under that. Even in the first Trump administration --",
+      "start": 4013.0,
+      "end": 4084.3
+    },
+    {
+      "id": "t271",
+      "speaker": "alito",
+      "text": "You think that sort of elaborate process is necessary --",
+      "start": 4084.3,
+      "end": 4085.54
+    },
+    {
+      "id": "t272",
+      "speaker": "arulanantham",
+      "text": "No.",
+      "start": 4085.54,
+      "end": 4086.78
+    },
+    {
+      "id": "t273",
+      "speaker": "alito",
+      "text": "-- under this statute?",
+      "start": 4086.78,
+      "end": 4088.2
+    },
+    {
+      "id": "t274",
+      "speaker": "arulanantham",
+      "text": "No. No, I do not, Your Honor, I do not. My point is just, you know, it wasn't a problem until the form emails started. Even in the first Trump administration, when there were -- that was the first time there were other TPS challenges. Before that, 16 designations -- terminations, never a challenge, right? It started then. Even after that, this consultation claim has only arisen because now they're doing the form email.",
+      "start": 4088.2,
+      "end": 4108.88
+    },
+    {
+      "id": "t275",
+      "speaker": "alito",
+      "text": "Thank you.",
+      "start": 4108.88,
+      "end": 4109.74
+    },
+    {
+      "id": "t276",
+      "speaker": "roberts",
+      "text": "Justice Sotomayor?",
+      "start": 4109.74,
+      "end": 4112.26
+    },
+    {
+      "id": "t277",
+      "speaker": "sotomayor",
+      "text": "Justice Barrett sort of was asking a question about -- almost sounded a little bit like harmless error, even if they didn't consult. That's okay because, you know, they were going to make the same decision. How do you deal with that? I mean, this is a due process claim, and we've never said what the final determination is important to due process, correct?",
+      "start": 4112.26,
+      "end": 4139.24
+    },
+    {
+      "id": "t278",
+      "speaker": "arulanantham",
+      "text": "Yeah, correct, Your Honor. You know, I think I would say two things about it. First, there isn't a basis in this record to say that she would have done the same thing if the State -- particularly on the armed conflict designation, where national interest is not a criteria, so you have to find that --",
+      "start": 4139.24,
+      "end": 4154.5
+    },
+    {
+      "id": "t279",
+      "speaker": "sotomayor",
+      "text": "That's under the (A) section of the statute?",
+      "start": 4154.5,
+      "end": 4156.64
+    },
+    {
+      "id": "t280",
+      "speaker": "arulanantham",
+      "text": "Correct, it's under (b)(1)(A). That's -- there's two designations for Syria, one under armed conflict and the other under extraordinary temporary conditions. Our position is that even under the latter one, it is not permissible to consider national interest at the periodic review stage because what is required is that there be review of conditions in the foreign state. And we think, when the word \"conditions\" is used, you know, just a couple lines later, it's referring back to conditions in the foreign state and not criteria, which is what my friend kept saying. And if you look at the -- the word, the name, the label of it is extraordinary and temporary conditions, which is talking about country conditions; (b)(1)(B) also says living conditions. So every time the word \"conditions\" is used in -- in subsection (b), it's talking about country conditions. National interest is not a condition, right? So that -- that's our -- our argument, our -- our argument on the merits as to the second one. But, on the first one, even as to process, there's nothing in this record to tell you that if they had actually consulted, the Secretary would have said, I don't care what the State Department says. Maybe she would have said, oh, wow, that's not good. And they would have perhaps, you know, led to a different view. And so I think, even if harmless error is permissible in this context, there just isn't a basis to find it, and it --it is again important for the government to speak in one voice, and I think that would be the benefit of -- of imposing -- enforcing the consultation requirement here.",
+      "start": 4156.64,
+      "end": 4242.8
+    },
+    {
+      "id": "t281",
+      "speaker": "sotomayor",
+      "text": "Well, I mean, the whole purpose of -- of the TPS is to ensure that the executive is open about what it's doing, correct?",
+      "start": 4242.8,
+      "end": 4251.54
+    },
+    {
+      "id": "t282",
+      "speaker": "arulanantham",
+      "text": "Yes, Your Honor. Transparency is all through the statute, Your Honor.",
+      "start": 4251.54,
+      "end": 4254.5
+    },
+    {
+      "id": "t283",
+      "speaker": "sotomayor",
+      "text": "And so, to the extent that a President says country -- it's not safe for these people to come back or I'm unwilling to say it's safe for those people to come back, Haiti shows that four of the people who were sent back, that have gone back, were killed. So I -- I'm not going to say it, but I don't care, I'm still going to end the program, that that's a different impact than saying it's safe --",
+      "start": 4254.5,
+      "end": 4268.16
+    },
+    {
+      "id": "t284",
+      "speaker": "arulanantham",
+      "text": "It --",
+      "start": 4268.16,
+      "end": 4281.82
+    },
+    {
+      "id": "t285",
+      "speaker": "sotomayor",
+      "text": "-- and I have an alternative reason anyway?",
+      "start": 4281.82,
+      "end": 4284.78
+    },
+    {
+      "id": "t286",
+      "speaker": "arulanantham",
+      "text": "It absolutely is, Your Honor. And I think it's also important to remember that this issue about whether you can terminate on the basis of national interest, it only arises if the country is still unsafe, the alternative ground, right, it only arises if the country is still unsafe and as to people who have been able to keep their TPS because despite being vetted 18 months, every 18 months, resubmitting their background, resubmitting criminal history checks, they have been found not to have even a single felony or more than one misdemeanor or any of the other grounds. So we're talking about the power to mass expel people who have done nothing wrong to countries that remain unsafe. And our view is it is unlikely that a refugee protection statute would have given that power to the Secretary.",
+      "start": 4284.78,
+      "end": 4330.64
+    },
+    {
+      "id": "t287",
+      "speaker": "sotomayor",
+      "text": "What do you do with -- there are two pools here. One is the people who have been given TPS status for a long period of time and the new applicants for which there hasn't been checking yet.",
+      "start": 4330.64,
+      "end": 4338.47
+    },
+    {
+      "id": "t288",
+      "speaker": "arulanantham",
+      "text": "Yes.",
+      "start": 4338.47,
+      "end": 4346.3
+    },
+    {
+      "id": "t289",
+      "speaker": "sotomayor",
+      "text": "Could a President come and say the problem --I'm not going to terminate the program because the country's still not safe, but I'm not going to give new applicants permission to stay because I can't vet those guys?",
+      "start": 4346.3,
+      "end": 4362.04
+    },
+    {
+      "id": "t290",
+      "speaker": "arulanantham",
+      "text": "Yes, absolutely, Your Honor. So, in the periodic review process, there's three options. You can terminate, you can extend, and if you extend, you can also designate --designate again, but you don't have to. If you designate again, that updates the date and has the effect of then bringing new people into the eligibility criteria. But the statute doesn't mandate that. It mandates extension if the country is unsafe, but it does not mandate designation. That is like a new designation. And so, absolutely, the government could take the position either individually or categorically that we're not going to do any new designations, no more TPS holders, but this fixed population, the people who already have it and have come to rely on the fact that if the government is -- determines that their country is unsafe, then they get to stay, they would still -- that closed population would still be protected, Your Honor.",
+      "start": 4362.04,
+      "end": 4418.34
+    },
+    {
+      "id": "t291",
+      "speaker": "sotomayor",
+      "text": "So that answers the General's position about this being a pull country in some way, that our policy is a pull?",
+      "start": 4418.34,
+      "end": 4426.34
+    },
+    {
+      "id": "t292",
+      "speaker": "arulanantham",
+      "text": "Yes, Your Honor. I think my -- my friend for the Miot plaintiffs will also point out that there's no evidence for this -- this claim about the pull factor. I'll leave that to them, but yes, Your Honor --",
+      "start": 4426.34,
+      "end": 4436.64
+    },
+    {
+      "id": "t293",
+      "speaker": "sotomayor",
+      "text": "There are --",
+      "start": 4436.64,
+      "end": 4437.04
+    },
+    {
+      "id": "t294",
+      "speaker": "arulanantham",
+      "text": "-- there is no need, you can -- you can just solve the problem by saying we're not going to let any new people into the program. We are going to limit our extensions to countries that are unsafe for people who already have TPS.",
+      "start": 4437.04,
+      "end": 4449.7
+    },
+    {
+      "id": "t295",
+      "speaker": "sotomayor",
+      "text": "The people who are here, however, and previously been vetted, no -- there's no new problem with that vetting for them?",
+      "start": 4449.7,
+      "end": 4458.74
+    },
+    {
+      "id": "t296",
+      "speaker": "arulanantham",
+      "text": "No, Your Honor. In fact, the -- the statute requires that their TPS be rescinded if they commit a felony or become inadmissible on any of a very broad set of grounds. So it's -- it's extremely narrow protection. But, if they -- if they don't, if they do nothing wrong, then -- and their country is still unsafe, the statute requires that they remain protected.",
+      "start": 4458.74,
+      "end": 4480.76
+    },
+    {
+      "id": "t297",
+      "speaker": "sotomayor",
+      "text": "Thank you.",
+      "start": 4480.76,
+      "end": 4481.76
+    },
+    {
+      "id": "t298",
+      "speaker": "roberts",
+      "text": "Justice Kagan?",
+      "start": 4481.76,
+      "end": 4482.58
+    },
+    {
+      "id": "t299",
+      "speaker": "kagan",
+      "text": "Your argument that the national interest claim is reviewable seems harder to me than the procedural argument, and here's why. I mean, I would have thought it's a -- it's just a -- a version of an argument that is made all the time when it comes to administrative action, like you took the wrong factors into account or, you know, you didn't take the right factors into account. That's a kind of standard part of arbitrary and capricious review. And I would have thought that if this judicial review provision does anything, it basically says don't subject the Secretary's determination to arbitrary-and-capricious review as we know it.",
+      "start": 4482.58,
+      "end": 4503.12
+    },
+    {
+      "id": "t300",
+      "speaker": "arulanantham",
+      "text": "Mm-hmm.",
+      "start": 4503.12,
+      "end": 4523.67
+    },
+    {
+      "id": "t301",
+      "speaker": "kagan",
+      "text": "So why should we treat this argument, this national interest argument, any differently?",
+      "start": 4523.67,
+      "end": 4528.94
+    },
+    {
+      "id": "t302",
+      "speaker": "arulanantham",
+      "text": "So I think there's some categorical distinction in my head between an argument like, oh, you looked at the earthquake recovery in this portion of the country but not in that portion of the country or you didn't consider this evidence about how the armed conflict is in the southern part but not the eastern part. Those are still within the purview of the statutory criteria about armed conflict or temporary living conditions, right? But it's something else if the Secretary says, oh, I'm designating the -- I'm terminating the armed conflict designation because there -- there's been earthquake recovery. But earthquake is not a criteria for the armed conflict. It's only a criteria under (b)(1)(B). JUSTICE KAGAN. Well, that makes it sound as though, if there's any legal error attached to the Secretary's determination, review can come in. And is -- is -- is -- are -- are you reading the review provision that way, that it's just about factual errors, not legal errors?",
+      "start": 4528.94,
+      "end": 4585.9
+    },
+    {
+      "id": "t303",
+      "speaker": "arulanantham",
+      "text": "I -- I do think -- I do think there can be -- I mean, when we're talking about Guerrero-Lasprilla and Wilkinson definition of legal error, obviously, that might be broad. I don't think the Court has to say that those are reviewable. But the claim that we're making here is that the national interest, you heard me say it, right, the national interest is only at the outset, and it's not in the periodic review because periodic review is a conditions analysis whereas national interest is not described as a condition, it's in contradistinction to conditions. That is a pure question of law. You don't need to know anything -- anything at all about facts in order to assess that criteria question. And, Your Honor, there --",
+      "start": 4585.9,
+      "end": 4625.42
+    },
+    {
+      "id": "t304",
+      "speaker": "kagan",
+      "text": "But it's also very easy for Congress to write a review provision that's confined to non-legal questions. And that's not what Congress did here.",
+      "start": 4625.42,
+      "end": 4632.96
+    },
+    {
+      "id": "t305",
+      "speaker": "arulanantham",
+      "text": "That's true, Your Honor, although they also can easily say --",
+      "start": 4632.96,
+      "end": 4636.18
+    },
+    {
+      "id": "t306",
+      "speaker": "kagan",
+      "text": "I mean --",
+      "start": 4636.18,
+      "end": 4636.53
+    },
+    {
+      "id": "t307",
+      "speaker": "arulanantham",
+      "text": "-- all questions --",
+      "start": 4636.43,
+      "end": 4636.78
+    },
+    {
+      "id": "t308",
+      "speaker": "kagan",
+      "text": "-- this has nothing to do with, like, even if I read this statute as saying determination, is with respect to the determination about country conditions, but if -- if you're in that world where the question is, like, how did you determine country conditions, whether you made a factual error, whether you made a legal error, Congress in this provision seems not to care.",
+      "start": 4636.48,
+      "end": 4657.22
+    },
+    {
+      "id": "t309",
+      "speaker": "arulanantham",
+      "text": "So I agree that this provision doesn't read fact law into it one way or another. And I -- I think our narrower argument -- Justice Alito had said -- you know, I took the question to be maybe -- maybe I'm not buying your full -- full-bore determination argument, do you have anything to fall back? And what I was saying was, if you -- if you don't want to take the full textual view, then read it against the backdrop of administrative law, where, obviously, this Court generally or courts generally have the last view on questions of law. But I think, if you say no, that's not the -- what they're doing here, so some legal questions are going to be barred, what I would say is, whether or not this is within the scope of the determination, that is our -- what we are disputing, right, because we're saying it's not a country condition because it doesn't use the word \"condition\" to describe it, and the review provision is limited to conditions in the foreign state. And this is not in the foreign state. So, at least that claim, the threshold question of, like, do you get into the reviewability bar or not, that should be reviewable even if, once we're in it, you would say, like, a legal -- a -- a legal dispute about which kinds of conditions should be in it or not, that that would be barred, you know. And we don't -- we don't believe that that necessarily is the case either, but just to be clear, like, our claim is, at the very highest level, it's just about the criteria of even what counts as a condition.",
+      "start": 4657.22,
+      "end": 4740.18
+    },
+    {
+      "id": "t310",
+      "speaker": "kagan",
+      "text": "Thank you.",
+      "start": 4740.18,
+      "end": 4740.86
+    },
+    {
+      "id": "t311",
+      "speaker": "roberts",
+      "text": "Justice Gorsuch? Justice Kavanaugh?",
+      "start": 4740.86,
+      "end": 4743.52
+    },
+    {
+      "id": "t312",
+      "speaker": "kavanaugh",
+      "text": "How many Syrians have returned to Syria since the end of the Assad regime? And is that of any relevance to what you've been saying about country conditions?",
+      "start": 4743.52,
+      "end": 4752.78
+    },
+    {
+      "id": "t313",
+      "speaker": "arulanantham",
+      "text": "I mean, I'd say the same thing that I said to you earlier, Your Honor. Two answers. First is it is of no relevance because, even if the Secretary is right and the State Department is wrong, it doesn't change the fact that they didn't talk to each other, and the national interest is not a criteria and those are claims that are clearly reviewable under the statute. So, A, that's my answer. Second, it is true that people have -- many people have gone from Lebanon back into Syria, but if we're -- if we're reading the newspaper now and sort of outside the administrative record, there might be good reasons why people are going from southern Lebanon back to Syria if they're having to pick between the two places. And that is not the same thing as saying, oh, we're going from California to Syria. And so I don't think the fact that you have this mass movement of people is necessarily indicative of whether it is safe to go there or not. As I said, there is still active armed conflict. There's bombing happening now in Syria. So, you know, it may be better or worse. Some people say the mortality rate is higher. I haven't -- you know, I don't know. But, anyway, yeah, that -- I think -- I think it does not answer the question ultimately, even though -- even if it did, we still should win.",
+      "start": 4752.78,
+      "end": 4819.48
+    },
+    {
+      "id": "t314",
+      "speaker": "kavanaugh",
+      "text": "Thank you.",
+      "start": 4819.48,
+      "end": 4820.46
+    },
+    {
+      "id": "t315",
+      "speaker": "roberts",
+      "text": "Justice Barrett? Justice Jackson?",
+      "start": 4820.46,
+      "end": 4822.32
+    },
+    {
+      "id": "t316",
+      "speaker": "jackson",
+      "text": "So I'm interested in the standards applicable to our decision-making in this case, and one of them is the thought that even if \"determination\" could be read to mean different things, the final conclusion or close to it, versus the final conclusion plus the antecedent steps, I thought we had a presumption of reviewability that was supposed to apply to our interpretive analysis in a situation like this. So am I wrong about that?",
+      "start": 4822.32,
+      "end": 4855.08
+    },
+    {
+      "id": "t317",
+      "speaker": "arulanantham",
+      "text": "You're absolutely right, Your Honor. It's applied in Bowen, in McNary, in Catholic Social Services, and, of course, in Guerrero-Lasprilla, you know, and -- and Wilkinson.",
+      "start": 4855.08,
+      "end": 4862.42
+    },
+    {
+      "id": "t318",
+      "speaker": "jackson",
+      "text": "So, when Justice Thomas says, well, the background is that we wouldn't interpret this in --if we're sort of trying to figure out what \"determination\" is, we -- we -- we wouldn't allow for you to review it, I think the opposite is true. In other words, if there's some confusion about the express -- the scope of the express determination -- the express review bar, I thought our rules under our precedents say you're supposed to interpret it narrowly.",
+      "start": 4862.42,
+      "end": 4893.68
+    },
+    {
+      "id": "t319",
+      "speaker": "arulanantham",
+      "text": "Yes, Your Honor. Two things on this. First, the presumption is clear that they have to show clear and convincing evidence. So the question is, you know, is what we've said by hooking it to \"determine\" or read it against the hundred years of administrative law good enough to just get above what would be needed, you know, to beat clear and convincing. And I think it is. And the second thing I'd say on that subject is, Your Honor, Biden v. Texas from just a couple years ago, this Court holds the APA governs the DHS's parole policy, and it has to be reasonable and reasonably explained against -- and they -- it reaches that holding, every judge -- justice of this Court endorses that idea in the face of a jurisdiction-stripping argument which the government makes about the scope of the injunction and, you know, all of that I'm sure you all remember. And so it's both true that, as a general matter, this Court has applied the presumption in both large and small immigration cases and also that it has done it particularly in a context like this one, where the issue is about whether Mexico, you know, basically, the -- had to be -- the U.S. had to be forced to negotiate with Mexico. And so --",
+      "start": 4893.68,
+      "end": 4958.76
+    },
+    {
+      "id": "t320",
+      "speaker": "jackson",
+      "text": "All right. And my second -- my second issue about standards, is there a clear error standard that is applicable to the district court's findings here, findings of fact, for example, about whether or not there was likely discriminatory intent with respect to this policy?",
+      "start": 4958.76,
+      "end": 4977.24
+    },
+    {
+      "id": "t321",
+      "speaker": "arulanantham",
+      "text": "Yes, absolutely, Your Honor. It is both true -- it's double deference, I would argue, because it's both here on preliminary relief, there may be more evidence to come if the case is allowed to survive, certainly, the constitutional claim is going to be allowed to survive given the -- on jurisdiction anyway, and, in addition, because factual findings are reviewed for clear error in general, then it is true that -- that clear error operates there. I think that now, since we have the email about consultation and we all agree that that's the scope of it, it's not really relevant. You can read that one page of our brief --",
+      "start": 4977.24,
+      "end": 5010.24
+    },
+    {
+      "id": "t322",
+      "speaker": "jackson",
+      "text": "Or it's just so obviously not an error, not a clear error as a result of that evidence, right?",
+      "start": 5010.24,
+      "end": 5015.02
+    },
+    {
+      "id": "t323",
+      "speaker": "arulanantham",
+      "text": "Well, yes, Your Honor, absolutely. I mean --",
+      "start": 5015.02,
+      "end": 5017.08
+    },
+    {
+      "id": "t324",
+      "speaker": "jackson",
+      "text": "I mean, we're still applying the clear error --you're not saying jettison the clear error standard; you're just saying look at this evidence. If the district court found it to be that the email in terms of consultation or the discriminatory intent in terms of what the President said -- our -- our burden is to determine whether or not she made a clear error in her fact-finding related to those issues, correct?",
+      "start": 5017.08,
+      "end": 5039.54
+    },
+    {
+      "id": "t325",
+      "speaker": "arulanantham",
+      "text": "Yes, absolutely, Your Honor. And the last thing I would just say about that is, on the pretext claim, where I know there -- maybe everybody doesn't think that we have all the evidence, it's not the evidence that was in Commerce because it was a full trial in Commerce. I think, in that context too, it is relevant that we are here on preliminary relief because the district court was looking at it and that's -- that's what you've got.",
+      "start": 5039.54,
+      "end": 5049.22
+    },
+    {
+      "id": "t326",
+      "speaker": "jackson",
+      "text": "Thank you.",
+      "start": 5049.22,
+      "end": 5058.9
+    },
+    {
+      "id": "t327",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. Mr. Pipoly.",
+      "start": 5058.9,
+      "end": 5071.32
+    },
+    {
+      "id": "t328",
+      "speaker": "pipoly",
+      "text": "Mr. Chief Justice, and may it please the Court: For decades, administrations of both parties successfully terminated TPS designations without inviting litigation. They did so by following the process Congress set forth in the TPS statute. The termination of Haiti's TPS was different. It was not the result of the mandatory review process but was instead a preordained result driven by the President's resolve to end TPS for Haiti no matter what. The reasons Secretary Noem gave for the termination were pretextual. The DHS documents that we already lodged with this Court show that the Secretary's purported review was a sham. Agency staff was \"forced\" to include rationales for termination that had no empirical support. The true reason for the termination of the -- for the termination is the President's racial animus towards non-white immigrants and bare dislike of Haitians in particular. The President has disparaged Haitian TPS holders specifically as undesirables from a \"shithole country,\" and days after falsely accusing them of \"eating the dogs and eating the cats of Americans,\" he vowed that he would terminate Haiti's TPS, and that is exactly what happened. Recognizing all this, the district court correctly postponed the termination. This Court should affirm. And I welcome the Court's questions.",
+      "start": 5071.32,
+      "end": 5157.5
+    },
+    {
+      "id": "t329",
+      "speaker": "thomas",
+      "text": "What weight do you -- how would you interpret the jurisdiction-stripping provision?",
+      "start": 5157.5,
+      "end": 5163.18
+    },
+    {
+      "id": "t330",
+      "speaker": "pipoly",
+      "text": "No different than the Doe plaintiffs do, Justice Thomas.",
+      "start": 5163.18,
+      "end": 5167.16
+    },
+    {
+      "id": "t331",
+      "speaker": "roberts",
+      "text": "More generally, is there anything that your friend said that you disagree with?",
+      "start": 5167.16,
+      "end": 5170.98
+    },
+    {
+      "id": "t332",
+      "speaker": "pipoly",
+      "text": "No, Justice -- Chief Justice -- Mr. Chief Justice. My apologies.",
+      "start": 5170.98,
+      "end": 5176.64
+    },
+    {
+      "id": "t333",
+      "speaker": "roberts",
+      "text": "Whatever. (Laughter.)",
+      "start": 5176.64,
+      "end": 5182.3
+    },
+    {
+      "id": "t334",
+      "speaker": "kagan",
+      "text": "Can I ask about your equal protection claim?",
+      "start": 5182.3,
+      "end": 5184.28
+    },
+    {
+      "id": "t335",
+      "speaker": "pipoly",
+      "text": "Certainly.",
+      "start": 5184.28,
+      "end": 5186.26
+    },
+    {
+      "id": "t336",
+      "speaker": "kagan",
+      "text": "Is this --is this a -- a race claim or is it a national origin claim, or does it matter?",
+      "start": 5186.26,
+      "end": 5191.86
+    },
+    {
+      "id": "t337",
+      "speaker": "pipoly",
+      "text": "It's -- it's -- it's a -- it's certainly a race-based claim, we would argue, given the -- as -- as some of the questioning earlier got to, the evidence certainly suggests racial animus, which, under -- which -- which the Arlington Heights framework is specifically designed to suss out. The -- the statements, \"I would like fewer people from places like Haiti,\" that were described with the word that I won't repeat again, and countries like Norway and Denmark and Sweden, as Justice Sotomayor suggested earlier, that's very close to what we had in Arlington Heights itself. So we do frame this as a race-based claim. We do think it's racially motivated, particularly in light of the cross-cutting terminations we've seen. As the district court in our case put it, 13 up, 13 down, all non-white. While --",
+      "start": 5191.86,
+      "end": 5239.66
+    },
+    {
+      "id": "t338",
+      "speaker": "kagan",
+      "text": "So is -- is that it? It's -- it's not Haiti particularly; it's all these countries have people of color as opposed to Denmark and Scandinavian -- you know, Scandinavia generally and whatever?",
+      "start": 5239.66,
+      "end": 5252.4
+    },
+    {
+      "id": "t339",
+      "speaker": "pipoly",
+      "text": "Sure. I certainly think that the record supports the idea that the President in particular has focused in on Haitians, but it is broader than that. Haitians are our plaintiffs. But the relevant compare -- the relevant group here is -- is all TPS countries, all of which are non-white.",
+      "start": 5252.4,
+      "end": 5268.06
+    },
+    {
+      "id": "t340",
+      "speaker": "kagan",
+      "text": "And -- and what if one thinks that -- you know, if -- you said there was a determination that no matter what, there was going to be a change to Haiti's TPS status. You know, there seems to have been a pretty clear determination that all TPS status should go, right? There are no -- there's -- there's -- there's no TPS status that hasn't been renounced. So how does that fact factor into this equal protection claim?",
+      "start": 5268.06,
+      "end": 5297.48
+    },
+    {
+      "id": "t341",
+      "speaker": "pipoly",
+      "text": "Sure. Our position is is that you cannot have, for whatever reason, race-based or otherwise, a pre -- a -- an agenda to end TPS because these are country-specific --",
+      "start": 5297.48,
+      "end": 5310.5
+    },
+    {
+      "id": "t342",
+      "speaker": "kagan",
+      "text": "Quite -- quite right. But that's a different kind of claim. I -- I guess I'm just wondering, like, how to think about the racial component of this if there seems to have been, you know, wherever and whatever TPS I can find, it's not going to exist tomorrow.",
+      "start": 5310.5,
+      "end": 5326.32
+    },
+    {
+      "id": "t343",
+      "speaker": "pipoly",
+      "text": "I'm sorry, I'm not following. Well, the race-based --",
+      "start": 5326.32,
+      "end": 5328.48
+    },
+    {
+      "id": "t344",
+      "speaker": "kagan",
+      "text": "You know, that there's -- you -- you can -- you can argue that there was just like an across-the-board, we have to get rid of all these TPS, and the statutory requirements weren't followed and -- and -- and all of that, but -- but the injection of this racial component into it, I guess I don't quite see how that operates when all of these programs went.",
+      "start": 5328.48,
+      "end": 5353.36
+    },
+    {
+      "id": "t345",
+      "speaker": "pipoly",
+      "text": "Well, again, I would point you back to both the President's statements and the Secretary's statements. The Secretary herself described people from Haiti and from 18 other all non-white countries as killers, leaches, entitlement junkies, saying we don't want them, not one, while simultaneously enacting a policy, another humanitarian form of relief, for white and only white South Africans. So, if you want the comparator group, that's part of it. And -- and it's true that the program, the refugee program under which the South -- the white South Africans were admitted is not TPS as such, but both statutes are -- are motivated by the same policy from Congress -- motivated by the same policy. They're both humanitarian programs. In both TPS and with the special refugee program, it's the United States saying these folks are facing some hardship in their home country, at least that's the stated basis, and we're going to let them in. So it's -- it's not -- it's -- it's the President's statements in which there is a comparator group, white versus -- non-white countries versus white countries, and it's the fact that you've got the -- the -- that -- those sort of sentiments being articulated into policy --",
+      "start": 5353.36,
+      "end": 5428.96
+    },
+    {
+      "id": "t346",
+      "speaker": "jackson",
+      "text": "But more directly --",
+      "start": 5428.96,
+      "end": 5429.37
+    },
+    {
+      "id": "t347",
+      "speaker": "pipoly",
+      "text": "-- with regard to South Africa.",
+      "start": 5429.37,
+      "end": 5429.78
+    },
+    {
+      "id": "t348",
+      "speaker": "jackson",
+      "text": "-- to Justice Kagan's point, isn't -- isn't your view that the reason why the President was saying all of the TPS programs have to go is because the TPS program relates to countries that have large minority or large racial compositions?",
+      "start": 5429.78,
+      "end": 5451.04
+    },
+    {
+      "id": "t349",
+      "speaker": "pipoly",
+      "text": "Yes, that's exactly right, Justice.",
+      "start": 5451.04,
+      "end": 5451.86
+    },
+    {
+      "id": "t350",
+      "speaker": "jackson",
+      "text": "In other words, the motivation for getting rid of all of them is that these programs \"benefit\" these kinds of people?",
+      "start": 5451.86,
+      "end": 5459.9
+    },
+    {
+      "id": "t351",
+      "speaker": "pipoly",
+      "text": "That -- that -- yes, that's exactly right. And I apologize if I didn't follow that, but, yes, that is --that is absolutely correct. And under Arlington Heights, the -- the racial motivation need be only one of many factors. In every government policy I can imagine, there is a facially legitimate reason given for the termination and the -- or for the government action. The Arlington Heights framework exists precisely for the purpose of sussing out whether impermissible racial considerations were part of -- were -- were impermissibly in the mix.",
+      "start": 5459.9,
+      "end": 5492.12
+    },
+    {
+      "id": "t352",
+      "speaker": "alito",
+      "text": "But isn't it the case that TPS was terminated for quite a list of countries? And I -- I -- I -- I can't seem to find the particular page of the transcript where the district court goes through them all. And, yes, none of those is a Nordic country. But -- and I don't like dividing up the people of the world arbitrarily into three racial groups, but you -- you say they're all non-white and that's the -- that's the distinguishing characteristic?",
+      "start": 5492.12,
+      "end": 5520.36
+    },
+    {
+      "id": "t353",
+      "speaker": "pipoly",
+      "text": "That is the distinguishing characteristic that the district court held. But I would -- I would emphasize, Justice Alito, that --",
+      "start": 5520.36,
+      "end": 5529.56
+    },
+    {
+      "id": "t354",
+      "speaker": "alito",
+      "text": "Well, do you think that if you put Syrians, Turks, Greeks, and other people who live around the Mediterranean in a lineup, do you think you could say those people are -- are -- that all of them, are they all non-white?",
+      "start": 5529.56,
+      "end": 5543.66
+    },
+    {
+      "id": "t355",
+      "speaker": "pipoly",
+      "text": "I understand that Syrians, I think, may be classified as white for purposes of the State Department. I -- or -- or for under -- under certain government -- you know, certain government programs, but, again, I think race is -- I think, you know, you'd have to poll the public to know what they think the race of a Syrian is. I certainly think they're not white --",
+      "start": 5543.66,
+      "end": 5564.06
+    },
+    {
+      "id": "t356",
+      "speaker": "alito",
+      "text": "Poll the public? Poll the American people?",
+      "start": 5564.06,
+      "end": 5565.42
+    },
+    {
+      "id": "t357",
+      "speaker": "pipoly",
+      "text": "Well --",
+      "start": 5565.42,
+      "end": 5565.77
+    },
+    {
+      "id": "t358",
+      "speaker": "alito",
+      "text": "Do they --do they think Syrians are white?",
+      "start": 5565.56,
+      "end": 5568.16
+    },
+    {
+      "id": "t359",
+      "speaker": "pipoly",
+      "text": "I -- I'm -- I wouldn't think that most would, Justice Alito.",
+      "start": 5568.16,
+      "end": 5571.3
+    },
+    {
+      "id": "t360",
+      "speaker": "alito",
+      "text": "Really?",
+      "start": 5571.3,
+      "end": 5571.7
+    },
+    {
+      "id": "t361",
+      "speaker": "pipoly",
+      "text": "I really don't.",
+      "start": 5571.7,
+      "end": 5572.26
+    },
+    {
+      "id": "t362",
+      "speaker": "alito",
+      "text": "Okay. How about Turks?",
+      "start": 5572.26,
+      "end": 5573.74
+    },
+    {
+      "id": "t363",
+      "speaker": "pipoly",
+      "text": "I honestly haven't considered what racial component I would sort Turks into.",
+      "start": 5573.74,
+      "end": 5577.1
+    },
+    {
+      "id": "t364",
+      "speaker": "alito",
+      "text": "How about Greeks?",
+      "start": 5577.1,
+      "end": 5578.56
+    },
+    {
+      "id": "t365",
+      "speaker": "pipoly",
+      "text": "I -- I don't know the answer to that either.",
+      "start": 5578.56,
+      "end": 5580.28
+    },
+    {
+      "id": "t366",
+      "speaker": "alito",
+      "text": "How about southern Italians? (Laughter.)",
+      "start": 5580.28,
+      "end": 5581.68
+    },
+    {
+      "id": "t367",
+      "speaker": "pipoly",
+      "text": "Well -- well, certainly -- certainly, 120 years ago, when we had our last wave of European immigration, southern Italians were not considered white. So I think our concept of these things evolves over time.",
+      "start": 5581.68,
+      "end": 5594.36
+    },
+    {
+      "id": "t368",
+      "speaker": "alito",
+      "text": "How about Spaniards?",
+      "start": 5594.36,
+      "end": 5595.4
+    },
+    {
+      "id": "t369",
+      "speaker": "pipoly",
+      "text": "I think same answer. About 120 years ago, I don't think they were considered white.",
+      "start": 5595.4,
+      "end": 5598.94
+    },
+    {
+      "id": "t370",
+      "speaker": "alito",
+      "text": "You have a really large -- you have a really broad definition of who's white and who's not white. As I said, I don't like dividing the people of the world into these groups.",
+      "start": 5598.94,
+      "end": 5607.08
+    },
+    {
+      "id": "t371",
+      "speaker": "pipoly",
+      "text": "I -- I understand. I -- I would that say even under this Court's rationality jurisprudence, if you look at cases like Moreno, it is not necessary for us to get strict scrutiny to win here because, irrespective of how you do the classification at issue here, under those courts' -- under those decisions -- excuse me, under those precedents, bare dislike of -- of an unpopular group is a sufficient basis to find that rational basis is not even satisfied.",
+      "start": 5607.08,
+      "end": 5636.82
+    },
+    {
+      "id": "t372",
+      "speaker": "roberts",
+      "text": "Given your understanding of the review bar, wouldn't your APA arguments be exactly the same if there were no review bar? In other words, what function does it -- with respect to your APA arguments, in what way does the review bar restrict what you -- what -- what you want to argue?",
+      "start": 5636.82,
+      "end": 5654.68
+    },
+    {
+      "id": "t373",
+      "speaker": "pipoly",
+      "text": "I will give the same answer that counsel for the Doe plaintiffs gave, which is that there are -- that determination has the same meaning in the TPS statute that it had in the SAW statute at issue in the McNary case, that in that case, the antecedent obligations procedurally were subject to judicial review even if the substantive determination was not.",
+      "start": 5654.68,
+      "end": 5677.55
+    },
+    {
+      "id": "t374",
+      "speaker": "gorsuch",
+      "text": "On that score, counsel, you agreed that the determination -- about the country conditions no longer meet the criteria is unreviewable?",
+      "start": 5677.55,
+      "end": 5688.0
+    },
+    {
+      "id": "t375",
+      "speaker": "pipoly",
+      "text": "Yes, the -- the Secretary's substantive --",
+      "start": 5688.0,
+      "end": 5690.04
+    },
+    {
+      "id": "t376",
+      "speaker": "gorsuch",
+      "text": "That final determination under, what is it, (B), right, (4)(B) -- (3)(B)? Sorry. That's unreviewable?",
+      "start": 5690.04,
+      "end": 5698.14
+    },
+    {
+      "id": "t377",
+      "speaker": "pipoly",
+      "text": "The Secretary's substantive conclusion as to the existence or non-existence --",
+      "start": 5698.14,
+      "end": 5701.54
+    },
+    {
+      "id": "t378",
+      "speaker": "gorsuch",
+      "text": "Well, it's a determination, right? I mean, that's what the statute says, right?",
+      "start": 5701.54,
+      "end": 5704.5
+    },
+    {
+      "id": "t379",
+      "speaker": "pipoly",
+      "text": "Correct. And that's how we define determination.",
+      "start": 5704.5,
+      "end": 5705.92
+    },
+    {
+      "id": "t380",
+      "speaker": "gorsuch",
+      "text": "Yeah. And -- and that takes effect once it's published in the Federal Register plus 60 days or something like that under -- under (3)(B), right?",
+      "start": 5705.92,
+      "end": 5716.08
+    },
+    {
+      "id": "t381",
+      "speaker": "pipoly",
+      "text": "That's correct.",
+      "start": 5716.08,
+      "end": 5716.82
+    },
+    {
+      "id": "t382",
+      "speaker": "gorsuch",
+      "text": "Okay. And that's the determination and that's the effect of the statute, but you say that a court can enjoin it anyway.",
+      "start": 5716.82,
+      "end": 5728.02
+    },
+    {
+      "id": "t383",
+      "speaker": "pipoly",
+      "text": "No, they can -- well, for -- we didn't get an injunction here. We got 705 relief under the APA.",
+      "start": 5728.02,
+      "end": 5733.54
+    },
+    {
+      "id": "t384",
+      "speaker": "gorsuch",
+      "text": "705 postponement.",
+      "start": 5733.54,
+      "end": 5733.89
+    },
+    {
+      "id": "t385",
+      "speaker": "pipoly",
+      "text": "Right.",
+      "start": 5733.79,
+      "end": 5734.14
+    },
+    {
+      "id": "t386",
+      "speaker": "gorsuch",
+      "text": "Yeah, I mean, I'm -- I'm just looking at what the court said. I think, in the Syria case, it said the -- the defendants' termination of TPS status for Syrians is hereby postponed. And the D.C. Circuit in your case said the district court postponed termination, right?",
+      "start": 5734.0,
+      "end": 5753.7
+    },
+    {
+      "id": "t387",
+      "speaker": "pipoly",
+      "text": "That's correct. That's Section 705 of the APA.",
+      "start": 5753.7,
+      "end": 5755.58
+    },
+    {
+      "id": "t388",
+      "speaker": "gorsuch",
+      "text": "How is that not judicial review of the Secretary's determination?",
+      "start": 5755.58,
+      "end": 5760.7
+    },
+    {
+      "id": "t389",
+      "speaker": "pipoly",
+      "text": "Well, I would say that, again, the -- the claim --",
+      "start": 5760.7,
+      "end": 5763.22
+    },
+    {
+      "id": "t390",
+      "speaker": "gorsuch",
+      "text": "I understand your process point, that you want to look at some antecedent things. But how can it not be judicial review of the determination if you're postponing the determination?",
+      "start": 5763.22,
+      "end": 5771.94
+    },
+    {
+      "id": "t391",
+      "speaker": "pipoly",
+      "text": "Because determination -- well, it -- I -- I can't -- it's difficult for me to answer that question without pointing out --",
+      "start": 5771.94,
+      "end": 5776.54
+    },
+    {
+      "id": "t392",
+      "speaker": "gorsuch",
+      "text": "It's difficult for me to answer the question too. (Laughter.)",
+      "start": 5776.54,
+      "end": 5778.58
+    },
+    {
+      "id": "t393",
+      "speaker": "pipoly",
+      "text": "It's -- well, no, the -- probably for different reasons, but the -- (Laughter.)",
+      "start": 5778.58,
+      "end": 5781.46
+    },
+    {
+      "id": "t394",
+      "speaker": "gorsuch",
+      "text": "Well, no, I don't know. I'm asking -- I'm -- I'm just -- I am struggling with that.",
+      "start": 5781.46,
+      "end": 5786.06
+    },
+    {
+      "id": "t395",
+      "speaker": "pipoly",
+      "text": "No, I understand. The question comes down to do you define \"determination\" as coextensive with a broader term like \"decision.\" And we see --",
+      "start": 5786.06,
+      "end": 5793.56
+    },
+    {
+      "id": "t396",
+      "speaker": "gorsuch",
+      "text": "No, no, no. I'm -- I'm working within your framework for purposes of this question. You know, (3)(B) says, once the Attorney General, but we all agree that's the Secretary, makes the determination the country conditions are no longer met, the determination decision takes effect, published in the Federal Register, plus 60 days, something like that. We -- we all agree on that. And that -- that's what the statute says about the effectiveness of the determination.",
+      "start": 5793.56,
+      "end": 5820.54
+    },
+    {
+      "id": "t397",
+      "speaker": "pipoly",
+      "text": "Right. We have -- we -- the -- the final agency action here that was -- that was postponed is as counsel --",
+      "start": 5820.54,
+      "end": 5824.36
+    },
+    {
+      "id": "t398",
+      "speaker": "gorsuch",
+      "text": "Is the determination.",
+      "start": 5824.36,
+      "end": 5828.18
+    },
+    {
+      "id": "t399",
+      "speaker": "pipoly",
+      "text": "It is the termination, not the determination, which is not subject to judicial review.",
+      "start": 5828.18,
+      "end": 5832.08
+    },
+    {
+      "id": "t400",
+      "speaker": "gorsuch",
+      "text": "That -- that's what you got?",
+      "start": 5832.08,
+      "end": 5834.9
+    },
+    {
+      "id": "t401",
+      "speaker": "pipoly",
+      "text": "That is consistent with McNary. It's consistent with Bowen.",
+      "start": 5834.9,
+      "end": 5838.38
+    },
+    {
+      "id": "t402",
+      "speaker": "jackson",
+      "text": "Counsel, is your point that the -- that judicial review runs to the claim? In other words, what -- what is happening in the judicial review bar, when it says there's no judicial review, it means the court cannot consider the claim that's being made, but that's different than what the court having considered the claim ultimately does?",
+      "start": 5838.38,
+      "end": 5858.8
+    },
+    {
+      "id": "t403",
+      "speaker": "pipoly",
+      "text": "Yeah. That's exactly right. And, again --",
+      "start": 5858.8,
+      "end": 5859.62
+    },
+    {
+      "id": "t404",
+      "speaker": "jackson",
+      "text": "And so, at the end of the day, if the court considers a claim about a defect in the procedure and thinks it likely and, therefore, postpones the termination while that claim is under review, that's not the same thing as reviewing the ultimate determination?",
+      "start": 5859.62,
+      "end": 5877.42
+    },
+    {
+      "id": "t405",
+      "speaker": "pipoly",
+      "text": "That's exactly right. The determination here has the same meaning that it had in McNary and Bowen, which is the substantive existence -- the existence substantively of the -- of the -- of the conditions for designation; i.e., is Haiti still safe? The final agency action at issue here is the termination that was published in the Federal Register.",
+      "start": 5877.42,
+      "end": 5896.16
+    },
+    {
+      "id": "t406",
+      "speaker": "gorsuch",
+      "text": "I -- I appreciate all of Justice Jackson's points and yours, but the statute says that determination is effective basically automatically, right, and it -- it tells us when it's effective. And it tells us how it's effective. And that's what the statute -- that's what Congress told us, is once that determination is made, boom, it goes. And -- and I -- I'm just struggling with how -- how that -- that could be true and -- and yet it could also be true that -- that judicial review postponing that -- that termination decision is not judicial review of that judicial determination -- of that determination.",
+      "start": 5896.16,
+      "end": 5936.88
+    },
+    {
+      "id": "t407",
+      "speaker": "pipoly",
+      "text": "Right. Because the termination decision, the final agency action, includes substantially more than the determination. It includes things like when the --",
+      "start": 5936.88,
+      "end": 5945.96
+    },
+    {
+      "id": "t408",
+      "speaker": "gorsuch",
+      "text": "It includes antecedent things, of course --",
+      "start": 5945.96,
+      "end": 5947.44
+    },
+    {
+      "id": "t409",
+      "speaker": "pipoly",
+      "text": "Correct.",
+      "start": 5947.44,
+      "end": 5947.79
+    },
+    {
+      "id": "t410",
+      "speaker": "gorsuch",
+      "text": "-- that feed into that determination. I -- I appreciate that. Okay. All right.",
+      "start": 5947.68,
+      "end": 5949.21
+    },
+    {
+      "id": "t411",
+      "speaker": "pipoly",
+      "text": "Right.",
+      "start": 5949.21,
+      "end": 5950.74
+    },
+    {
+      "id": "t412",
+      "speaker": "gorsuch",
+      "text": "Thank you.",
+      "start": 5950.74,
+      "end": 5954.18
+    },
+    {
+      "id": "t413",
+      "speaker": "barrett",
+      "text": "Would you like to address -- would you like to address the General's point, the Solicitor General's point, that this would drive a truck through the judicial review bar?",
+      "start": 5954.18,
+      "end": 5962.58
+    },
+    {
+      "id": "t414",
+      "speaker": "pipoly",
+      "text": "I don't think it would and no more so than, again, McNary or Bowen already did. And -- and I would remind the Court that in Bowen and McNary --excuse me, in McNary, the plaintiffs in that case won, and maybe this is responsive to Justice Gorsuch's point. Even though they were challenging the procedure by which their SAW determinations was made, they still obtained injunctions and invalidation of the underlying determinations that they were challenging. So this tension that we're identifying between the process and the outcome is one that this Court has been -- and that the law has been comfortable with for over 30 years now. As far as it driving a hole through the review bar, I would come back to the exact same point -- well, to a similar point, which is the determination is -- is --is off the table. We agree with that. Congress could not have intended, we say, for the -- for things -- for these antecedent considerations not to be considered because, when it enacted the TPS statute, it already had the benefit of Bowen, and after it passed the review bar, Congress -- several years after it passed the review bar, Congress enacted IIRIRA, in which it -- it retained the language from Bowen -- from Bowen, from McNary. So it's reasonable to read the review bar in this case as consistent with that in Bowen and McNary. In other words, Congress knows how to write broader language encompassing more than a specific determination. It could write all questions of law or fact. And, in fact, in some other sections of Title VIII, it even writes language that we think would preclude procedure and process claims, like in -- in another section of Title VIII, it refers to all procedures and policies. That's 1252(a)(2)(A)(iv). So Congress knows how to write broader language if it wants to, but it chose not to do so here, even within the background of Bowen and McNary.",
+      "start": 5962.58,
+      "end": 6091.62
+    },
+    {
+      "id": "t415",
+      "speaker": "roberts",
+      "text": "Justice Thomas, anything further?",
+      "start": 6091.62,
+      "end": 6093.12
+    },
+    {
+      "id": "t416",
+      "speaker": "thomas",
+      "text": "How exactly does your equal protection argument work? The Equal Protection Clause applies to states.",
+      "start": 6093.12,
+      "end": 6100.86
+    },
+    {
+      "id": "t417",
+      "speaker": "pipoly",
+      "text": "Well, this is a claim that arises under the Fifth Amendment -- the Fifth Amendment's equal protection guarantee.",
+      "start": 6100.86,
+      "end": 6106.64
+    },
+    {
+      "id": "t418",
+      "speaker": "thomas",
+      "text": "Of life, liberty, and property?",
+      "start": 6106.64,
+      "end": 6108.82
+    },
+    {
+      "id": "t419",
+      "speaker": "pipoly",
+      "text": "That is the equal protection component of the Fifth Amendment due process guarantee. That's correct.",
+      "start": 6108.82,
+      "end": 6113.08
+    },
+    {
+      "id": "t420",
+      "speaker": "thomas",
+      "text": "So how does it work?",
+      "start": 6113.08,
+      "end": 6114.54
+    },
+    {
+      "id": "t421",
+      "speaker": "pipoly",
+      "text": "Well, this Court has held repeatedly that --",
+      "start": 6114.54,
+      "end": 6116.52
+    },
+    {
+      "id": "t422",
+      "speaker": "thomas",
+      "text": "No. How does your claim work? How do you get to the Fifth Amendment?",
+      "start": 6116.52,
+      "end": 6121.66
+    },
+    {
+      "id": "t423",
+      "speaker": "pipoly",
+      "text": "Because the Fifth Amendment constrains the federal government in the same way that the Fourteenth Amendment constrains states.",
+      "start": 6121.66,
+      "end": 6129.34
+    },
+    {
+      "id": "t424",
+      "speaker": "roberts",
+      "text": "Justice Alito, anything further? Justice Sotomayor?",
+      "start": 6129.34,
+      "end": 6133.26
+    },
+    {
+      "id": "t425",
+      "speaker": "sotomayor",
+      "text": "The Fifth Amendment says the federal government can't discriminate on the basis of race, correct?",
+      "start": 6133.26,
+      "end": 6138.26
+    },
+    {
+      "id": "t426",
+      "speaker": "pipoly",
+      "text": "That's exactly right. And -- and the other thing I would -- I would emphasize that I was trying to get at earlier is that even under this case --this Court's rationality cases, we still win. Remember the -- the facts of Moreno. There was a facially plausible FDA program that did not allow unmarried households to receive food stamps. This Court nonetheless said that there was something else at play there, animus against a particular group, a bare dislike of a particular group. And the President's statements, regardless of whether you consider them inherently racial or some other type of classification, reflect a bare dislike for Haitians in particular.",
+      "start": 6138.26,
+      "end": 6183.24
+    },
+    {
+      "id": "t427",
+      "speaker": "roberts",
+      "text": "Justice Kagan, anything further? Justice Gorsuch? Justice Kavanaugh? Justice Barrett? Justice Jackson? Thank you, counsel. Rebuttal, General?",
+      "start": 6183.24,
+      "end": 6195.18
+    },
+    {
+      "id": "t428",
+      "speaker": "sauer",
+      "text": "Very briefly, Mr. Chief Justice. Congress balanced the risk that -- by enacting a judicial review bar, Congress balanced the risk that there might be some decision that's erroneous or baseless or off-base against -- that would evade judicial review against the risk of what we're living through here, which is judicial micromanagement of the sorts of foreign-policy-laden determinations and decisions that are naturally conferred upon the -- the political branches. Justice Alito, turning to your \"convoy of trucks\" question, if you look at the briefing in this case, I think it vividly illustrates the -- the concern that any exception that they put forth, and the exception morphs when they talk about it with different -- you know, different -- different formulations, any one of those exceptions creates a -- a -- an exception that would eviscerate the statutory -- or the judicial review bar here. So, if you look, for example, at the Syria Respondents, the claims they raise, they raise the consultation claim, but as I pointed out earlier, even those consultation claims are starting to bake in substantive criteria. In other words, the district courts are saying, well, you did consult, but your consultation wasn't thorough enough. Therefore, we give you a D-plus. Come back when you've got a B-minus consultation. Maybe we'll let you terminate at that time. And it gets even more striking when you get to their claims and things about the national interest criteria, which is unquestionably a substantive criteria. And then even further, if you look, for example, at the Syria Respondents, their pretext claim, they say, well, we're raising a pretext claim and here's four reasons why we think this decision was pretextual. Reason 3 is a long discussion of how they think the Secretary got the administrative record wrong and made the wrong kinds of judgments and so forth. It gets even more striking when you read the Haiti Respondents' brief, where, in the 11 pages or so in which they discuss the -- the merits of their claims, by the second or third page, they've kind of abandoned any pretense that what they're raising is procedural, and they're raising the whole panoply of substantive challenge -- APA-type challenges to this particular decision. So, to the extent there is a -- you know, a -- a -- a -- a judicial -- or any exception to the judicial review bar here, their own briefs, I think, demonstrate that it's going to collapse under its own weight. There's been reference to the presidential directives that we're supposed to provide. There is a presidential directive that was provided. It was provided in the executive order. And the President directed the Secretary to ensure that TPS designations are \"appropriately limited in scope\" and only as long as necessary to achieve the -- the textual directives in the statute. And that is what the -- that is what the Secretary did here. And then, Justice Gorsuch, as to your question, I do think it's helpful to end this case by look -- or end this argument by looking at their prayer for relief in their complaints, which says we are challenging the termination decision as to these two -- these two countries. We are saying that that termination decision was unlawful. It should be declared unlawful. It should be set aside under the APA. It should be postponed under Section 705. And I think, at that point, at a very high level, we are looking at a -- a request for judicial review of the termination determination, and that is exactly what the statute bars. Thank you.",
+      "start": 6195.18,
+      "end": 6381.28
+    },
+    {
+      "id": "t429",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. The case is submitted. (Whereupon, at 12:21 p.m., the case was submitted.)",
+      "start": 6381.28,
+      "end": 6383.1
+    }
+  ],
+  "highlights": [
+    {
+      "id": "reviewable",
+      "speaker": "jackson",
+      "turnId": "t21",
+      "start": 403.44,
+      "title": "Are those reviewable?",
+      "note": "Justice Jackson asks whether skipping the statute\u2019s steps, including consultation, can be reviewed. General Sauer says certainly not.",
+      "quote": "Are those reviewable in your view?",
+      "draft": true
+    },
+    {
+      "id": "notice",
+      "speaker": "sotomayor",
+      "turnId": "t33",
+      "start": 562.22,
+      "title": "A notice on X",
+      "note": "Justice Sotomayor asks whether ending Syria\u2019s TPS in a post on X would be unreviewable. General Sauer says correct.",
+      "quote": "you would say that there's no judicial review of that decision, correct?",
+      "draft": true
+    },
+    {
+      "id": "mcnary",
+      "speaker": "sotomayor",
+      "turnId": "t37",
+      "start": 622.7,
+      "title": "McNary",
+      "note": "She says Congress barred a determination, not every termination, and asks how that differs from McNary.",
+      "quote": "I don't see how you differentiate McNary.",
+      "draft": true
+    },
+    {
+      "id": "going",
+      "speaker": "kagan",
+      "turnId": "t66",
+      "start": 988.42,
+      "title": "I'm already going",
+      "note": "Justice Kagan starts the follow-up, laughs, and keeps going. Justice Jackson picks up the same word.",
+      "quote": "you see, I'm already going.",
+      "draft": true
+    }
+  ],
+  "friction": {
+    "title": "Friction",
+    "lede": "Where a legal theory meets resistance it cannot easily overcome.",
+    "moments": [
+      {
+        "id": "reviewable",
+        "kind": "confrontation",
+        "start": 403.44,
+        "end": 434.16,
+        "title": "Are those reviewable?",
+        "who": "Justice Jackson",
+        "quote": "Are those reviewable in your view?",
+        "note": "Congress required steps, including consultation. She asks whether a person can allege that the Secretary made the determination without following them. General Sauer says certainly not.",
+        "draft": true
+      },
+      {
+        "id": "mcnary",
+        "kind": "confrontation",
+        "start": 622.7,
+        "end": 729.76,
+        "title": "How do you differentiate McNary",
+        "who": "Justice Sotomayor",
+        "quote": "I don't see how you differentiate McNary.",
+        "note": "Congress did not say every termination is unreviewable. It barred a determination. She reads that the way the Court read McNary: the substantive conclusion can be closed, and the procedure underneath can still be challenged. The government says there is no McNary exception in this statute at all.",
+        "draft": true
+      },
+      {
+        "id": "notice",
+        "kind": "revelation",
+        "start": 562.22,
+        "end": 622.7,
+        "title": "A notice on X",
+        "who": "Justice Sotomayor",
+        "quote": "you would say that there's no judicial review of that decision, correct?",
+        "note": "She asks whether a post on X, ending Syria\u2019s TPS tomorrow, would be unreviewable. General Sauer says correct. She then lists the Federal Register, the 60 days\u2019 notice, and consultation, and asks whether none of those steps are reviewable. He says correct again.",
+        "draft": true
+      },
+      {
+        "id": "constitutional",
+        "kind": "revelation",
+        "start": 1226.25,
+        "end": 1250.11,
+        "title": "Not disputed in this case",
+        "who": "Justice Barrett",
+        "quote": "You seem to concede that the constitutional claims are not barred by this very same provision.",
+        "note": "She asks why constitutional claims would stay outside a bar this broad. General Sauer says the government has not disputed that point in this case, and is not asking the Court to revisit Webster v. Doe.",
+        "draft": true
+      },
+      {
+        "id": "consulting",
+        "kind": "collision",
+        "start": 881.2,
+        "end": 988.42,
+        "title": "I don't feel like consulting",
+        "who": "Justice Kagan",
+        "quote": "if she decides I don't feel like consulting",
+        "note": "She grants the government the country-conditions conclusion: it can be strange, and a court still cannot touch it. She separates that from the steps the statute orders on the way. A decision not to consult, and not even to review country conditions, is a different question from the conclusion itself.",
+        "draft": true
+      },
+      {
+        "id": "going",
+        "kind": "collision",
+        "start": 988.42,
+        "end": 1146.53,
+        "title": "I'm already going",
+        "who": "Justice Kagan and Justice Jackson",
+        "quote": "you see, I'm already going.",
+        "note": "Justice Kagan starts the follow-up, laughs, and says she is already going. She ties \u201cdetermination\u201d to whether the conditions for designation continue. Justice Jackson picks up the same sentence and asks whether the word\u2019s many uses in the statute hurt the government or help it.",
+        "draft": true
+      }
+    ]
+  }
+}

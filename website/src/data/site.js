@@ -6,19 +6,9 @@ export const site = {
   email: 'hello@insideblackboxes.com',
 };
 
-export const featuredArguments = [
-  {
-    slug: 'johnson',
-    name: 'Johnson v. United States Congress',
-    docket: '25-735',
-    argued: 'October 5, 2026',
-    status: 'No opinion yet',
-    href: '/arguments/johnson.html',
-    friction: true,
-    summary:
-      'The Court’s recording, the transcript beside it, and a jump to each justice. Playback runs from the Court’s pace up to 2.5×. Friction is the confrontations, the revelations, and the collisions.',
-  },
-];
+import argumentCatalog from './arguments-catalog.json';
+
+export const featuredArguments = argumentCatalog;
 
 export const episodes = [
   {

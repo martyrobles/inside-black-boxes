@@ -77,6 +77,8 @@ export function initListener(argument = defaultArgument) {
   const errorLine = document.getElementById('player-error');
 
   document.getElementById('listen-question').textContent = argument.question;
+  const dockTitle = document.querySelector('.dock-title');
+  if (dockTitle) dockTitle.textContent = argument.name;
   document.getElementById('listen-summary').textContent = argument.summary;
   document.getElementById('source-audio').href = argument.audioPage;
   document.getElementById('source-transcript').href = argument.transcriptUrl;

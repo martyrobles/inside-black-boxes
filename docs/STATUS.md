@@ -19,6 +19,12 @@
 
 **Not yet:** Markdown export, automatic AI on upload, Creative Collision, Ratiocinate feature
 
+### Argument processing
+- Lab page at `/arguments` prepares an Inside Black Boxes listening page
+- Uses the OpenAI key in `apps/lab/.env.local` once per argument
+- Writes `website/src/data/{slug}.json`, the listen HTML, and `arguments-catalog.json`
+- The public site stays a player. It does not call a model
+
 ## Required for Slice 4
 
 1. Run `apps/lab/supabase/migrations/006_ai_suggestions.sql` in Supabase SQL Editor  

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "johnson",
+    "name": "Johnson v. United States Congress",
+    "docket": "25-735",
+    "argued": "October 5, 2026",
+    "status": "No opinion yet",
+    "href": "/arguments/johnson.html",
+    "friction": true,
+    "summary": "Whether a constitutional challenge to a veterans-benefits statute must begin in the veterans courts. Friction is on the page."
+  },
+  {
+    "slug": "mullin",
+    "name": "Mullin v. Doe",
+    "docket": "25-1083",
+    "argued": "April 29, 2026",
+    "status": "Decided June 25, 2026",
+    "href": "/arguments/mullin.html",
+    "friction": true,
+    "summary": "Whether courts can review the end of Temporary Protected Status for Haiti and Syria, including a claim that the Secretary skipped the steps the statute requires."
+  },
+  {
+    "slug": "barbara",
+    "name": "Trump v. Barbara",
+    "docket": "25-365",
+    "argued": "April 1, 2026",
+    "status": "Decided June 30, 2026",
+    "href": "/arguments/barbara.html",
+    "friction": true,
+    "summary": "Whether a child born in the United States to parents unlawfully or temporarily present is a citizen at birth under the Citizenship Clause."
+  }
+]

@@ -1,0 +1,2574 @@
+{
+  "slug": "johnson",
+  "name": "Johnson v. United States Congress",
+  "docket": "25-735",
+  "argued": "2026-10-05",
+  "duration": 4015.032,
+  "audioUrl": "https://www.supremecourt.gov/media/audio/mp3files/25-735.mp3",
+  "audioPage": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-735",
+  "transcriptUrl": "https://www.supremecourt.gov/oral_arguments/argument_transcripts/2026/25-735_ca7d.pdf",
+  "question": "Whether § 511(a) of the Veterans’ Judicial Review Act sends a constitutional challenge to a veterans-benefits statute through the Board of Veterans’ Appeals and the specialized courts, or leaves that challenge in federal district court.",
+  "summary": "Floyd Johnson challenges the statute that reduces disability compensation for veterans incarcerated for more than 60 days, 38 U.S.C. § 5313. He brought that constitutional claim in federal district court. This argument is about § 511(a): whether a question like the validity of § 5313 is one the Secretary must decide inside the veterans-benefits system, or whether a challenge to the statute can still begin in district court, the path Johnson v. Robison left open for constitutional challenges to benefits statutes. Jeffrey Chen, for Johnson, says § 511(a) covers challenges to agency action and does not cover challenges to statutes. Kevin Barber, for the United States Congress, says review is available in the veterans courts, because whether § 5313 is valid decides whether Johnson’s benefits must be reduced. The hour stays on that text, and on what the Board can be asked to decide. The Court has not issued an opinion.",
+  "summaryStatus": "draft",
+  "speakers": [
+    {
+      "id": "roberts",
+      "name": "Roberts",
+      "label": "Chief Justice Roberts",
+      "kind": "justice"
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "label": "Justice Thomas",
+      "kind": "justice"
+    },
+    {
+      "id": "alito",
+      "name": "Alito",
+      "label": "Justice Alito",
+      "kind": "justice"
+    },
+    {
+      "id": "sotomayor",
+      "name": "Sotomayor",
+      "label": "Justice Sotomayor",
+      "kind": "justice"
+    },
+    {
+      "id": "kagan",
+      "name": "Kagan",
+      "label": "Justice Kagan",
+      "kind": "justice"
+    },
+    {
+      "id": "gorsuch",
+      "name": "Gorsuch",
+      "label": "Justice Gorsuch",
+      "kind": "justice"
+    },
+    {
+      "id": "kavanaugh",
+      "name": "Kavanaugh",
+      "label": "Justice Kavanaugh",
+      "kind": "justice"
+    },
+    {
+      "id": "barrett",
+      "name": "Barrett",
+      "label": "Justice Barrett",
+      "kind": "justice"
+    },
+    {
+      "id": "jackson",
+      "name": "Jackson",
+      "label": "Justice Jackson",
+      "kind": "justice"
+    },
+    {
+      "id": "chen",
+      "name": "Chen",
+      "label": "Mr. Chen",
+      "kind": "advocate",
+      "role": "Petitioner"
+    },
+    {
+      "id": "barber",
+      "name": "Barber",
+      "label": "Mr. Barber",
+      "kind": "advocate",
+      "role": "Respondent"
+    }
+  ],
+  "turns": [
+    {
+      "id": "t1",
+      "speaker": "roberts",
+      "text": "We'll hear argument next in Case 25-735, Johnson against United States Congress. Mr. Chen.",
+      "start": 0.84,
+      "end": 9.28
+    },
+    {
+      "id": "t2",
+      "speaker": "chen",
+      "text": "Mr. Chief Justice, and may it please the Court: Section 511(a) reaches questions necessary to a decision under a law that affects the provision of benefits. Text, context, structure, and the government's own longstanding practice make clear that 511(a) does not reach constitutional challenges to statutes. Start with the text. A decision under a statute is a decision in accordance with the statute. It applies the statute as written. That's how this Court construed the same phrase in Robison. And deciding a statute's validity is not necessary to a decision under the statute. The VA did not need to resolve Section 5313's validity to reduce Mr. Johnson's benefits in accordance with Section 5313. Indeed, a decision to disregard Section 5313 as unconstitutional would obviously not be in accordance with Section 5313. Context reinforces the point. The Board of Veterans Appeals must make the VA's final decisions on all 511(a) matters, and no one in 1988 would have understood deciding the constitutionality of statutes as necessary to the BVA's decisions. The BVA had long disclaimed authority to decide those questions, and the settled understanding was that administrative tribunals couldn't decide them. If Congress meant to depart from those settled views, it would have done so clearly, but it didn't. In fact, the government itself has long understood 511(a) exactly the way we do. The VA responded to 511(a) by prohibiting the BVA from deciding challenges to statutes. And the BVA has continued to disclaim authority over those questions. The government's new reading would spurn decades of BVA practice and raise a host of anomalies and thorny questions. Among other things, it would empower the inferior officers of the BVA to render final decisions for the executive on whether to disregard acts of Congress. That presents serious Article II concerns. And none of the government's proposed workarounds is consistent with the VJRA. I welcome the Court's questions.",
+      "start": 9.28,
+      "end": 136.65
+    },
+    {
+      "id": "t3",
+      "speaker": "thomas",
+      "text": "Can applied constitutional challenges be considered under 511?",
+      "start": 136.65,
+      "end": 142.33
+    },
+    {
+      "id": "t4",
+      "speaker": "chen",
+      "text": "Can as-applied?",
+      "start": 142.33,
+      "end": 144.37
+    },
+    {
+      "id": "t5",
+      "speaker": "thomas",
+      "text": "As-applied challenges.",
+      "start": 144.37,
+      "end": 146.59
+    },
+    {
+      "id": "t6",
+      "speaker": "chen",
+      "text": "So we have avoid use -- we have tried to avoid using the distinction between facial versus as-applied in our briefing here because that terminology risks confusion, and, ultimately, it's a red herring. So let me explain what our position has always been and how as-applied and facial has been -- come into this case. So our position, the line that we have always tried to drawn is -- draw is the line that this Court drew in Robison. On one side of that line is challenges to statutes, and on the other side of the line is challenges to agency action, constitutional and otherwise. And so the reason you see this \"facial\" versus \"as-applied\" terminology is because lower courts have used that terminology to describe the two sides of the Robison line. But that's confusing because this Court uses that terminology in a more well-known context, which is the Salerno context, which is, you know, invalid as to all applications versus as to just some. So we -- that's not what lower courts are talking about in this context. And so, to answer your question, as-applied meaning attacks on agency action, even constitutional ones, they must -- our position is that they must go through the VJRA process, they are covered by the text of Section 511(a), whereas attacks on -- on -- or challenges to statutes, those fall outside the scope of Section 511(a).",
+      "start": 146.59,
+      "end": 234.51
+    },
+    {
+      "id": "t7",
+      "speaker": "jackson",
+      "text": "But what a weird -- what a weird --",
+      "start": 234.51,
+      "end": 235.66
+    },
+    {
+      "id": "t8",
+      "speaker": "thomas",
+      "text": "I know.",
+      "start": 235.66,
+      "end": 236.81
+    },
+    {
+      "id": "t9",
+      "speaker": "jackson",
+      "text": "-- way to slice it. I mean, I -- I just don't -- I don't understand why your line isn't constitutional claims go to the district court --",
+      "start": 236.81,
+      "end": 241.61
+    },
+    {
+      "id": "t10",
+      "speaker": "chen",
+      "text": "Mm-hmm.",
+      "start": 241.61,
+      "end": 246.41
+    },
+    {
+      "id": "t11",
+      "speaker": "jackson",
+      "text": "-- versus other kinds of claims. And I appreciate that Robison has that language in it.",
+      "start": 246.41,
+      "end": 249.72
+    },
+    {
+      "id": "t12",
+      "speaker": "chen",
+      "text": "Right. Mm-hmm.",
+      "start": 249.72,
+      "end": 253.03
+    },
+    {
+      "id": "t13",
+      "speaker": "jackson",
+      "text": "But it seems odd that you would concede that a due process challenge, for example, would go to the BVA, which I assume would disclaim its ability to review it because it says we don't do constitutional claims, and we'd have all the other problems that you point to as a reason for supporting your view. I just don't know why you would concede that a due process claim, for example, would be covered by 511.",
+      "start": 253.03,
+      "end": 278.99
+    },
+    {
+      "id": "t14",
+      "speaker": "chen",
+      "text": "So a couple points. First, although -- however weird it seems, this distinction actually arises, we think, from both the text and context, longstanding context about the -- what administrative tribunals can and can't do. So, from the text, this -- this distinction comes from the words \"decisions under a law.\" We think that that takes off the table challenges to statutes, but it doesn't take off the table other challenges to agency action. And then, in terms of context, you know, you mentioned Robison. The other context is just this settled understanding at the time this statute was enacted at least that administrative tribunals couldn't decide the constitutionality of statutes. It could not decide the constitutionality of acts of Congress. And so that's where this -- we think this --",
+      "start": 278.99,
+      "end": 329.21
+    },
+    {
+      "id": "t15",
+      "speaker": "jackson",
+      "text": "And that's this case. I appreciate it.",
+      "start": 329.21,
+      "end": 330.06
+    },
+    {
+      "id": "t16",
+      "speaker": "chen",
+      "text": "Yeah.",
+      "start": 330.06,
+      "end": 330.91
+    },
+    {
+      "id": "t17",
+      "speaker": "jackson",
+      "text": "My due process is a hypothetical --",
+      "start": 330.91,
+      "end": 332.13
+    },
+    {
+      "id": "t18",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 332.13,
+      "end": 333.35
+    },
+    {
+      "id": "t19",
+      "speaker": "jackson",
+      "text": "-- but it just --it flows from Justice Thomas's question about what remains under 511, and is it all constitutional claims or just the ones that I guess --",
+      "start": 333.35,
+      "end": 338.91
+    },
+    {
+      "id": "t20",
+      "speaker": "chen",
+      "text": "Yeah.",
+      "start": 338.91,
+      "end": 344.47
+    },
+    {
+      "id": "t21",
+      "speaker": "jackson",
+      "text": "-- relate to the statute in this way.",
+      "start": 344.47,
+      "end": 347.03
+    },
+    {
+      "id": "t22",
+      "speaker": "chen",
+      "text": "Yeah. I guess the final point I'd make is that this case is, like you said, only about constitutional challenges to statutes, and all you have to decide is whether that particular kind of constitutional claim falls outside of the statute. We think that there is at least arguable -- within the text, it is arguable whether other constitutional claims fall within it. But, at least with respect to constitutional challenges to statutes, that, again, the text, the \"decisions under a law\" text takes that off the table.",
+      "start": 347.03,
+      "end": 373.41
+    },
+    {
+      "id": "t23",
+      "speaker": "alito",
+      "text": "Well, I don't understand how your argument can be squared with the -- with the text of 511(a). There are two questions, I think, under 511(a). One is whether the Constitution is a law that affects the provision of benefits. It is -- either it is or it isn't. And I don't know how you draw a distinction when you're interpreting that between as-applied -- between facial and as-applied challenges. The other is whether it is necessary for the Secretary to decide the constitutional question. And, again, I don't know how you draw the line in the -- how you -- how the text supports the distinction that you are drawing.",
+      "start": 373.41,
+      "end": 418.23
+    },
+    {
+      "id": "t24",
+      "speaker": "chen",
+      "text": "So let me take those in order. So the government agrees with us that the law that affects the provision of benefits, that -- that doesn't refer to the Constitution and for good reason. When Congress -- Congress enacts statutes all the time that specifically call out the Constitution. When Congress wants to refer to both statutes and the Constitution, we've cited several jurisdictional examples.",
+      "start": 418.23,
+      "end": 443.51
+    },
+    {
+      "id": "t25",
+      "speaker": "alito",
+      "text": "Okay. But, in a literal sense, the Constitution is a law that affects the provision of benefits.",
+      "start": 443.51,
+      "end": 449.05
+    },
+    {
+      "id": "t26",
+      "speaker": "chen",
+      "text": "Correct, yes. In -- in --",
+      "start": 449.05,
+      "end": 450.53
+    },
+    {
+      "id": "t27",
+      "speaker": "alito",
+      "text": "All right. So, in a literal sense --",
+      "start": 450.53,
+      "end": 451.15
+    },
+    {
+      "id": "t28",
+      "speaker": "chen",
+      "text": "Yeah.",
+      "start": 451.15,
+      "end": 451.77
+    },
+    {
+      "id": "t29",
+      "speaker": "alito",
+      "text": "-- you're saying that, for some reason other than the literal meaning of the text, the law here doesn't mean the Constitution?",
+      "start": 451.77,
+      "end": 460.25
+    },
+    {
+      "id": "t30",
+      "speaker": "chen",
+      "text": "I think what I'm saying is that context dictates a more narrow -- the surrounding context dictates more narrow construction of what \"a law that affects the provision of benefits\" means here. And that's both, you know, these ordinary -- we know that when Congress wants to, in --in these jurisdictional statutes, refer to both categories, the statutes and -- and the Constitution, it typically says both. But also just in turning -- considering the background context of the predecessor statute and what it said, it --",
+      "start": 460.25,
+      "end": 489.13
+    },
+    {
+      "id": "t31",
+      "speaker": "alito",
+      "text": "Well, I'm still -- I'm starting with the text of the statute that's in effect now. And if the Constitution is not a law that affects the provision of benefits for purposes of facial challenges, I'm struggling to understand how it can be a law that affects the provision of benefits for an as-applied challenge, but you draw that distinction.",
+      "start": 489.13,
+      "end": 509.57
+    },
+    {
+      "id": "t32",
+      "speaker": "chen",
+      "text": "So that distinction rely -- actually arises -- the reason that other constitutional challenges, we think, is within the scope of the statute --and, again, you don't have to decide it -- but we think that comes in from the previous --or earlier in the statute, it -- it says, \"Decide all questions of law and fact necessary to a decision.\" So that -- we think that the constitutional, for example, due process challenges, that comes from the \"all questions of law and fact necessary to a decision.\" So let me try to explain this --let me try to back up. In applying the statute as written, the agency is still always under an obligation to confirm that its own actions are comporting with the Constitution. And so, while the \"decision under a law\" phrase takes constitutional challenges to statutes out of -- off the table, there is still this question of whether it is necessary for the Secretary to confirm that its own --",
+      "start": 509.57,
+      "end": 573.83
+    },
+    {
+      "id": "t33",
+      "speaker": "alito",
+      "text": "Well, let me give you this -- let me give you an example. Suppose that there were a statutory provision that says that the benefits that a veteran would otherwise receive cannot be obtained by any veteran who has said anything that is critical of the military or the Commander in Chief. Okay? Now could the Secretary say: This is blatantly unconstitutional, and, therefore, we are not going to withhold the benefits from this veteran?",
+      "start": 573.83,
+      "end": 613.37
+    },
+    {
+      "id": "t34",
+      "speaker": "chen",
+      "text": "The -- so the Secretary, writ large, if that comes from a --if that decision comes from a principal officer, then yes. But what we're talking about here is specifically the BVA, because Section 511(a) --",
+      "start": 613.37,
+      "end": 624.13
+    },
+    {
+      "id": "t35",
+      "speaker": "alito",
+      "text": "Well, I mean, look, the statute talks about the Secretary.",
+      "start": 624.13,
+      "end": 626.65
+    },
+    {
+      "id": "t36",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 626.65,
+      "end": 627.0
+    },
+    {
+      "id": "t37",
+      "speaker": "alito",
+      "text": "It doesn't talk about those to whom the Secretary has chosen to delegate authority.",
+      "start": 626.83,
+      "end": 631.27
+    },
+    {
+      "id": "t38",
+      "speaker": "chen",
+      "text": "Right. But Section 7104(a) specifically says that the final decisions on all matters that fall within Section 511(a) must be made by the Board of Veterans' Appeals. So, when it's referring to the Secretary here, Section 7104(a) makes clear that it means the Board of Veterans' Appeals makes the final decisions.",
+      "start": 631.27,
+      "end": 649.29
+    },
+    {
+      "id": "t39",
+      "speaker": "alito",
+      "text": "So could the -- could the Board say that this is blatantly unconstitutional; we're not going to withhold these benefits?",
+      "start": 649.29,
+      "end": 655.91
+    },
+    {
+      "id": "t40",
+      "speaker": "chen",
+      "text": "We don't think that the Board of Veterans' Appeals can make that call. We think that -- well, most immediately, there is a regulation, 38 C.F.R. 20.105, that says that, in its decisions, the BVA is bound by statutes. And so that's one reason why they couldn't. But I think the more general principle is the BVA only has powers that Congress gives to it. And Section 511(a), I think, is the primary, if not the only, statute that gives --",
+      "start": 655.91,
+      "end": 683.59
+    },
+    {
+      "id": "t41",
+      "speaker": "gorsuch",
+      "text": "Well, counsel, why do we need to go down that rabbit hole? Now maybe we do, and I'll follow you down it if I have to. But 511's about district court review, right? So say the Secretary or the Board or whoever decides, in their magnanimity, to follow the Constitution of the United States and say the First Amendment is a thing. That would be a good day's work.",
+      "start": 683.59,
+      "end": 695.41
+    },
+    {
+      "id": "t42",
+      "speaker": "chen",
+      "text": "Mm-hmm.",
+      "start": 695.41,
+      "end": 707.23
+    },
+    {
+      "id": "t43",
+      "speaker": "gorsuch",
+      "text": "But I don't know why that would affect the scope of district court review for purposes of a challenge to the Secretary's decision.",
+      "start": 707.23,
+      "end": 718.29
+    },
+    {
+      "id": "t44",
+      "speaker": "chen",
+      "text": "So --",
+      "start": 718.29,
+      "end": 718.81
+    },
+    {
+      "id": "t45",
+      "speaker": "gorsuch",
+      "text": "Those are two different things in my mind. Am I missing something?",
+      "start": 718.81,
+      "end": 721.21
+    },
+    {
+      "id": "t46",
+      "speaker": "chen",
+      "text": "So I think you're right. The reason that we're talking about --",
+      "start": 721.21,
+      "end": 724.71
+    },
+    {
+      "id": "t47",
+      "speaker": "gorsuch",
+      "text": "There's nothing prohibiting the Secretary or the Board from following the Constitution, in other words.",
+      "start": 724.71,
+      "end": 728.61
+    },
+    {
+      "id": "t48",
+      "speaker": "chen",
+      "text": "Sorry. Can you repeat that? I didn't hear the last part.",
+      "start": 728.61,
+      "end": 730.41
+    },
+    {
+      "id": "t49",
+      "speaker": "gorsuch",
+      "text": "Goodness hopes that there's nothing that prevents the Secretary or the Board from following the Constitution of the United States if, in their good graces, they so choose. The question we face is whether this statute precludes district court review --",
+      "start": 730.41,
+      "end": 736.88
+    },
+    {
+      "id": "t50",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 736.88,
+      "end": 743.35
+    },
+    {
+      "id": "t51",
+      "speaker": "gorsuch",
+      "text": "-- of a constitutional challenge and channels everything in a different direction.",
+      "start": 743.35,
+      "end": 748.07
+    },
+    {
+      "id": "t52",
+      "speaker": "chen",
+      "text": "Correct. The reason I was -- we were going into what this requires the BVA to decide is just that this is actually a dual provision in that it -- it's not just a preclusion provision. It also imposes a duty on the BVA to decide everything within the scope of that provision.",
+      "start": 748.07,
+      "end": 762.97
+    },
+    {
+      "id": "t53",
+      "speaker": "gorsuch",
+      "text": "They've got to do this. They've got to do this, and when they -- when the stuff they've got to do is channeled away from district court. But I don't see how that necessarily precludes them from, if -- if they should happen to choose to follow the Constitution of the United States, that would be okay.",
+      "start": 762.97,
+      "end": 779.63
+    },
+    {
+      "id": "t54",
+      "speaker": "chen",
+      "text": "Right. Right. I think -- I think that is right. I think what -- our position is just, even if there were some situations where the BVA could decide constitutional challenges to statutes, that -- that's not the issue presented here, I think is what you're saying. The issue presented here is whether the text of Section 511(a) requires the BVA to decide all constitutional challenges to statutes.",
+      "start": 779.63,
+      "end": 804.39
+    },
+    {
+      "id": "t55",
+      "speaker": "kagan",
+      "text": "Well, I think it does, Mr. Chen, or at least I think that there's a pretty clear argument that it does. The Secretary shall decide all questions of law and fact necessary to a secretarial decision under a law affecting the provision of benefits. Now one question that's necessary to that decision by the Secretary is whether the law providing for veterans' benefits is itself constitutional. It's kind of a pre-condition of the Secretary's decision under that law. So this isn't about Justice Alito's back half of the sentence. It's about the front half of the sentence. The Secretary is applying, let's say, a VA law about benefits. But there's been a challenge, a constitutional challenge, raised to that law, and the Secretary can't go merrily along without deciding whether the law itself can be applied. So why isn't that a question of law necessary to the secretarial decision referenced?",
+      "start": 804.39,
+      "end": 862.49
+    },
+    {
+      "id": "t56",
+      "speaker": "chen",
+      "text": "So it's because a decision -- a decision under a law is a decision in accordance with a law. It complies with the law.",
+      "start": 862.49,
+      "end": 871.21
+    },
+    {
+      "id": "t57",
+      "speaker": "kagan",
+      "text": "Yes, it's not the -- it's not the back half of the sentence that's troubling me. You're right, the -- the -- the -- the decision under -- the Secretary's decision under a law affecting benefits is probably like the benefits statute, some VA statute. But, to get to a decision under that law, the Secretary is being presented with a constitutional challenge. So why isn't deciding that constitutional challenge necessary to the Secretary's decision under that law?",
+      "start": 871.21,
+      "end": 901.31
+    },
+    {
+      "id": "t58",
+      "speaker": "chen",
+      "text": "Right. So I think --",
+      "start": 901.31,
+      "end": 902.63
+    },
+    {
+      "id": "t59",
+      "speaker": "kagan",
+      "text": "It's a precondition --",
+      "start": 902.63,
+      "end": 903.23
+    },
+    {
+      "id": "t60",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 903.23,
+      "end": 903.83
+    },
+    {
+      "id": "t61",
+      "speaker": "kagan",
+      "text": "-- of applying that law that you decide the constitutional question. Otherwise, you wouldn't go any further.",
+      "start": 903.83,
+      "end": 911.39
+    },
+    {
+      "id": "t62",
+      "speaker": "chen",
+      "text": "Right. So I think -- so a -- the Secretary -- it is not necessary --as the BVA's longstanding practice shows, it's not logically necessary --",
+      "start": 911.39,
+      "end": 926.01
+    },
+    {
+      "id": "t63",
+      "speaker": "kagan",
+      "text": "Well, forget the -- the longstanding practice because, apparently, the government wants to change that practice. And, apparently, the government wants to bring that practice into compliance with what the words actually say --",
+      "start": 926.01,
+      "end": 931.09
+    },
+    {
+      "id": "t64",
+      "speaker": "chen",
+      "text": "Yeah.",
+      "start": 931.09,
+      "end": 936.17
+    },
+    {
+      "id": "t65",
+      "speaker": "kagan",
+      "text": "-- which is that the Secretary has a duty, you know, has to decide questions of law that are necessary to their decisions about benefits. And what would be more necessary to a decision about benefits than deciding whether the benefits statute itself is constitutional?",
+      "start": 936.17,
+      "end": 953.33
+    },
+    {
+      "id": "t66",
+      "speaker": "chen",
+      "text": "I think what we're saying is that it doesn't -- this statute doesn't say \"necessary to\" -- \"to a decision about benefits.\" The words that they use are \"necessary to a decision under a law.\" So a decision --",
+      "start": 953.33,
+      "end": 963.13
+    },
+    {
+      "id": "t67",
+      "speaker": "kagan",
+      "text": "Yeah, it's necessary to a decision under the veterans' benefits laws.",
+      "start": 963.13,
+      "end": 967.97
+    },
+    {
+      "id": "t68",
+      "speaker": "chen",
+      "text": "Right. So --",
+      "start": 967.97,
+      "end": 968.85
+    },
+    {
+      "id": "t69",
+      "speaker": "kagan",
+      "text": "But -- but the decision to a veterans' benefit law is -- about how much you're entitled to receive in benefits is not going to happen before the Secretary says: Well, first, we have to confront this constitutional claim about whether we can apply this statute at all, whether this statute --or whether we just have to toss this statute out. So that is necessary to the decision of the Secretary under the VA benefits law. It's not its -- the Constitution is different from the law that the Secretary is making the benefits decision under, but the constitutional question is necessary to that decision.",
+      "start": 968.85,
+      "end": 1006.33
+    },
+    {
+      "id": "t70",
+      "speaker": "chen",
+      "text": "If Congress meant to expand the scope of this statute to include constitutional challenges to statutes, then \"necessary to\" is actually the last words that it would have used because --",
+      "start": 1006.33,
+      "end": 1017.87
+    },
+    {
+      "id": "t71",
+      "speaker": "kagan",
+      "text": "Well, you're saying, like, if Congress meant to expand, and I take it that that is referencing, like, what the old statute said and then what Robison said. But I'm just looking at the statute as it exists, and the statute as it exists seems to me to favor the government.",
+      "start": 1017.87,
+      "end": 1034.87
+    },
+    {
+      "id": "t72",
+      "speaker": "chen",
+      "text": "I think that there are many other structural -- construing the statute in that way raises a host of anomalies and problems that you can --",
+      "start": 1034.87,
+      "end": 1047.99
+    },
+    {
+      "id": "t73",
+      "speaker": "jackson",
+      "text": "But, before you get to those problems, can you just respond to her textual point? I mean, I thought your answer was that when you look at the text of this statute, a decision is not just floating out there. The actual phrase is \"a decision by the Secretary under a law.\"",
+      "start": 1047.99,
+      "end": 1056.02
+    },
+    {
+      "id": "t74",
+      "speaker": "chen",
+      "text": "Correct.",
+      "start": 1056.02,
+      "end": 1064.05
+    },
+    {
+      "id": "t75",
+      "speaker": "jackson",
+      "text": "So you begin with: What is that?",
+      "start": 1064.05,
+      "end": 1064.96
+    },
+    {
+      "id": "t76",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 1064.96,
+      "end": 1065.87
+    },
+    {
+      "id": "t77",
+      "speaker": "jackson",
+      "text": "What is a decision by the Secretary under the law? It is --",
+      "start": 1065.87,
+      "end": 1070.03
+    },
+    {
+      "id": "t78",
+      "speaker": "chen",
+      "text": "It is --",
+      "start": 1070.03,
+      "end": 1070.73
+    },
+    {
+      "id": "t79",
+      "speaker": "jackson",
+      "text": "-- the particular interstices of the benefits determination once we've identified this law. I thought your point was that a decision by the Secretary under a law takes the law as a given.",
+      "start": 1070.73,
+      "end": 1085.07
+    },
+    {
+      "id": "t80",
+      "speaker": "chen",
+      "text": "Yes.",
+      "start": 1085.07,
+      "end": 1085.91
+    },
+    {
+      "id": "t81",
+      "speaker": "jackson",
+      "text": "And then we'd say, based on this law as it is, what are the questions and -- of law and fact that are necessary to applying this given law?",
+      "start": 1085.91,
+      "end": 1097.67
+    },
+    {
+      "id": "t82",
+      "speaker": "chen",
+      "text": "That's exactly correct.",
+      "start": 1097.67,
+      "end": 1098.53
+    },
+    {
+      "id": "t83",
+      "speaker": "jackson",
+      "text": "That -- that there is no constitutional question in the framing of the statute in that way --",
+      "start": 1098.53,
+      "end": 1106.79
+    },
+    {
+      "id": "t84",
+      "speaker": "chen",
+      "text": "That's right.",
+      "start": 1106.79,
+      "end": 1107.45
+    },
+    {
+      "id": "t85",
+      "speaker": "jackson",
+      "text": "-- because \"under a law\" just takes whatever the law is, and if there are these other questions about the constitutionality, they might be predecessor questions, but they're not belonging to the Secretary because that's not what this statute says.",
+      "start": 1107.45,
+      "end": 1114.1
+    },
+    {
+      "id": "t86",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 1114.1,
+      "end": 1120.75
+    },
+    {
+      "id": "t87",
+      "speaker": "kagan",
+      "text": "I mean, that's a theory, but it's a theory that does not -- that seems to require adding lots of words to this statute, because we have a decision by the Secretary under the veterans' benefits law, and now we're having to decide what are the questions that are necessary to the Secretary making that decision. And one of those questions is whether there's, like, a first principles precondition that prevents the Secretary from applying that law. And I don't see why that's not, like, not only not -- I mean, that is like the most necessary question to the secretarial decision because he couldn't make the decision in the first place.",
+      "start": 1120.75,
+      "end": 1161.63
+    },
+    {
+      "id": "t88",
+      "speaker": "chen",
+      "text": "So I think what's happening here is there's one way of reading it that is necessary precondition, and there's another way of reading it as a necessary part. And I think our --",
+      "start": 1161.63,
+      "end": 1170.83
+    },
+    {
+      "id": "t89",
+      "speaker": "kagan",
+      "text": "A necessary?",
+      "start": 1170.83,
+      "end": 1171.31
+    },
+    {
+      "id": "t90",
+      "speaker": "chen",
+      "text": "A necessary part of a decision under a law, a necessary part of taking the statute as a given and determining how to apply it. And --",
+      "start": 1171.31,
+      "end": 1178.83
+    },
+    {
+      "id": "t91",
+      "speaker": "jackson",
+      "text": "And so, in resolving that ambiguity, we go to the context, right?",
+      "start": 1178.83,
+      "end": 1180.23
+    },
+    {
+      "id": "t92",
+      "speaker": "chen",
+      "text": "Correct.",
+      "start": 1180.23,
+      "end": 1181.63
+    },
+    {
+      "id": "t93",
+      "speaker": "jackson",
+      "text": "Those were the other points that you made.",
+      "start": 1181.63,
+      "end": 1182.95
+    },
+    {
+      "id": "t94",
+      "speaker": "chen",
+      "text": "Yes. I think that if -- if -- if we have two equally plausible readings of the statute, then I think the context and the structural features that we've raised --",
+      "start": 1182.95,
+      "end": 1191.61
+    },
+    {
+      "id": "t95",
+      "speaker": "kagan",
+      "text": "So -- so now you're -- you're -- you're suggest --you're saying that my version of the statute is at least equally plausible?",
+      "start": 1191.61,
+      "end": 1198.97
+    },
+    {
+      "id": "t96",
+      "speaker": "chen",
+      "text": "I -- we --",
+      "start": 1198.97,
+      "end": 1200.09
+    },
+    {
+      "id": "t97",
+      "speaker": "gorsuch",
+      "text": "Be careful, counsel. (Laughter.)",
+      "start": 1200.09,
+      "end": 1202.53
+    },
+    {
+      "id": "t98",
+      "speaker": "chen",
+      "text": "No, I -- I do not -- I do not think that. I am just saying that if you -- if you -- if you grant that our reading of the -- of the statute is at least equally plausible, then the other --",
+      "start": 1202.53,
+      "end": 1210.91
+    },
+    {
+      "id": "t99",
+      "speaker": "kagan",
+      "text": "Yeah, I'm not --I'm not sure it is.",
+      "start": 1210.91,
+      "end": 1212.73
+    },
+    {
+      "id": "t100",
+      "speaker": "chen",
+      "text": "I -- I -- well, I think that the -- one of the -- construing the statute the way that the government wants would -- first of all, that would be such a drastic departure from the settled understanding of the law at the time this statute was passed. No one -- this Court had repeatedly endorsed the view that administrative -- administrative tribunals like the BVA couldn't decide constitutional challenges to statutes. So, if Congress meant to introduce a sea change in administrative practice, Congress would have spoken much more clearly than this language. And --",
+      "start": 1212.73,
+      "end": 1248.43
+    },
+    {
+      "id": "t101",
+      "speaker": "kagan",
+      "text": "We -- we differ on the use of legislative history, and, usually, I'm a skeptic, but this idea that Congress couldn't have meant that, I mean, the House report says this -- it speaks to this question of why Congress changed the first line of Section 511(a). And the House report says \"the bill as revised,\" the first sentence, \"imposes a duty upon the administrator to resolve all legal and factual questions which are necessary to a decision in a case. Thus, if a veteran alleges that a statute is unconstitutional, the administrator must take a position with respect to such contention if it is necessary to a decision in a case.\" So, I mean, I think what the House report at least thinks that they were doing in changing the first part of that sentence, which is different from the second part of the sentence, which was changed in response to Traynor, but the first part of the sentence was changed, according to the House report, specifically for that reason, to saying we're also talking about -- about things that are necessary to -- to -- to making the decision, which includes these constitutional preconditions as to whether you can apply the veterans' statute.",
+      "start": 1248.43,
+      "end": 1327.85
+    },
+    {
+      "id": "t102",
+      "speaker": "chen",
+      "text": "So, even if you believe that legislative history is a valid tool of statutory interpretation, that there's --",
+      "start": 1327.85,
+      "end": 1333.61
+    },
+    {
+      "id": "t103",
+      "speaker": "kagan",
+      "text": "I am a skeptic usually. I'm a skeptic --",
+      "start": 1333.61,
+      "end": 1335.45
+    },
+    {
+      "id": "t104",
+      "speaker": "chen",
+      "text": "Right. Right.",
+      "start": 1335.45,
+      "end": 1336.59
+    },
+    {
+      "id": "t105",
+      "speaker": "kagan",
+      "text": "-- but it --it -- it just like -- boy, it's just telling you why the first sentence of Section 211 was changed, and it has to do exactly with constitutional questions.",
+      "start": 1336.59,
+      "end": 1346.81
+    },
+    {
+      "id": "t106",
+      "speaker": "chen",
+      "text": "So this -- this legislative history is exactly not the legislative history you would use to construe the statute. That legislative history was attached to a House bill that was not enacted and that, more particularly, would have abolished the BVA altogether. We know that what Congress passed ultimately was a bill about the BVA's duties. So a statute or legislative history about a statute about -- that would have gotten rid of the BVA altogether just doesn't shed light on what Congress ultimately imposed the duty on the BVA to decide. Secondly, even in that which -- the excerpt that you read from, it was talking about the administrator and talking about the administrator announcing the position of the agency. Who are those who can announce the position of the agency? It's not the lower-level inferior officers of the BVA. It's someone with principal officer authority to render decisions on behalf of the executive on whether to disregard acts of Congress.",
+      "start": 1346.81,
+      "end": 1401.79
+    },
+    {
+      "id": "t107",
+      "speaker": "gorsuch",
+      "text": "And let's talk about that for a second. How would it work? The government seems to suppose there's some way for the Board to get an opinion from somebody else in the agency on the constitutional question because it seems to acknowledge the Board itself probably shouldn't be deciding constitutional questions.",
+      "start": 1401.79,
+      "end": 1419.83
+    },
+    {
+      "id": "t108",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 1419.83,
+      "end": 1420.35
+    },
+    {
+      "id": "t109",
+      "speaker": "gorsuch",
+      "text": "So how would that work?",
+      "start": 1420.35,
+      "end": 1422.03
+    },
+    {
+      "id": "t110",
+      "speaker": "chen",
+      "text": "So, candidly, I don't -- I don't think it does work in practice. But I think the -- the solution that they've offered is something like the -- the Secretary or the GC of the VA issuing some precedent -- some prospective precedent opinion or guidance or instruction on the constitutionality of a statute. The problem with that is that in the vast majority of circumstances, there will be no prospective guidance on the constitutionality of a statute. The last precedent opinion of the --of the VA that was issued was in 2019, and that was on any -- that was -- sorry, the last -- go ahead.",
+      "start": 1422.03,
+      "end": 1441.5
+    },
+    {
+      "id": "t111",
+      "speaker": "gorsuch",
+      "text": "2019?",
+      "start": 1441.5,
+      "end": 1460.97
+    },
+    {
+      "id": "t112",
+      "speaker": "chen",
+      "text": "2019, correct.",
+      "start": 1460.97,
+      "end": 1462.19
+    },
+    {
+      "id": "t113",
+      "speaker": "gorsuch",
+      "text": "All right. It's been -- been a minute.",
+      "start": 1462.19,
+      "end": 1462.71
+    },
+    {
+      "id": "t114",
+      "speaker": "chen",
+      "text": "It's been a minute. And the VA -- so the government doesn't cite any examples of where the BVA has followed a instruction of the agency or the Secretary with respect to the constitutionality of a statute. My point here is that --",
+      "start": 1462.71,
+      "end": 1477.31
+    },
+    {
+      "id": "t115",
+      "speaker": "gorsuch",
+      "text": "So it's never happened?",
+      "start": 1477.31,
+      "end": 1478.29
+    },
+    {
+      "id": "t116",
+      "speaker": "chen",
+      "text": "So it doesn't happen. And it's impractical to expect that it would happen in a substantial number of cases because it's impractical to think that the VA is monitoring the tens of thousands of cases that -- that are percolating and figuring out which issues it needs to resolve. It's also impractical to expect the VA to identify all the statutes that could feasibly affect the provision of benefits and then determine the constitutionality or render an opinion on the constitutionality of each one of them, right? So the -- the problem here is that in the vast majority of circumstances, you have the BVA acting -- confronting a constitutional challenge to a statute for which there is no prospective guidance. And then what does it do? We know from experience that what it does is it disclaims jurisdiction to decide that question, and then no one from the agency decides the question. And that's -- that violates even the government's reading of Section 511.",
+      "start": 1478.29,
+      "end": 1503.6
+    },
+    {
+      "id": "t117",
+      "speaker": "gorsuch",
+      "text": "That really is a rabbit hole.",
+      "start": 1503.6,
+      "end": 1528.9
+    },
+    {
+      "id": "t118",
+      "speaker": "chen",
+      "text": "Right. I see my time is up.",
+      "start": 1528.9,
+      "end": 1531.8
+    },
+    {
+      "id": "t119",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. Justice Thomas? Justice Alito?",
+      "start": 1531.8,
+      "end": 1535.98
+    },
+    {
+      "id": "t120",
+      "speaker": "alito",
+      "text": "Suppose the claim is that the -- the Board's prior interpretation of a statutory provision is unconstitutional. Is that a claim that can be raised in --in district court?",
+      "start": 1535.98,
+      "end": 1552.68
+    },
+    {
+      "id": "t121",
+      "speaker": "chen",
+      "text": "I'm sorry, can you repeat the first part?",
+      "start": 1552.68,
+      "end": 1555.16
+    },
+    {
+      "id": "t122",
+      "speaker": "alito",
+      "text": "The claim is that the Board's prior interpretation of a statutory provision is unconstitutional. Is that a claim that can be raised in district court?",
+      "start": 1555.16,
+      "end": 1566.34
+    },
+    {
+      "id": "t123",
+      "speaker": "chen",
+      "text": "If it's the Board's interpretation of a statute, I don't think that that can go in district court, and the reason I'm saying that is because that has to do with the -- an agency action that has to do with the Board's interpretation of the statute. So I -- I think, based on the line that Robison drew, I think the -- the government would have a good argument that that can't proceed in district court.",
+      "start": 1566.34,
+      "end": 1596.1
+    },
+    {
+      "id": "t124",
+      "speaker": "alito",
+      "text": "Suppose the claim is that this provision is not unconstitutional on its face because it's constitutional as applied to, let's say, veterans who are serving a term of life imprisonment without parole, and for them, there isn't the same need for the benefits that is experienced by a veteran who is living in the outside world, but that the provision is unconstitutional as applied to someone who has a sentence of 61 days.",
+      "start": 1596.1,
+      "end": 1613.47
+    },
+    {
+      "id": "t125",
+      "speaker": "chen",
+      "text": "Mm-hmm.",
+      "start": 1613.47,
+      "end": 1630.84
+    },
+    {
+      "id": "t126",
+      "speaker": "alito",
+      "text": "Can that go to -- can that be raised in district court?",
+      "start": 1630.84,
+      "end": 1633.84
+    },
+    {
+      "id": "t127",
+      "speaker": "chen",
+      "text": "I believe so because that attacks the inherent characteristics of the statute. That is the formulation that you, Justice Alito, used in --in the Elgin dissent. But it also is -- it is an attack on statutory validity rather than misused agency discretion. And so I think that goes -- that's -- that is still a challenge to a statute. That is still a challenge to what Congress --a decision that Congress made. And so I think that goes -- that can proceed in federal district court.",
+      "start": 1633.84,
+      "end": 1662.56
+    },
+    {
+      "id": "t128",
+      "speaker": "alito",
+      "text": "Okay. Thank you.",
+      "start": 1662.56,
+      "end": 1664.0
+    },
+    {
+      "id": "t129",
+      "speaker": "roberts",
+      "text": "Justice Sotomayor?",
+      "start": 1664.0,
+      "end": 1664.66
+    },
+    {
+      "id": "t130",
+      "speaker": "sotomayor",
+      "text": "Going back -- going back to what Justice Kagan was referring to, that House report, was creating a totally different, new system, correct?",
+      "start": 1664.66,
+      "end": 1674.88
+    },
+    {
+      "id": "t131",
+      "speaker": "chen",
+      "text": "Yes. Correct.",
+      "start": 1674.88,
+      "end": 1675.8
+    },
+    {
+      "id": "t132",
+      "speaker": "sotomayor",
+      "text": "It was creating a court of veterans appeal?",
+      "start": 1675.8,
+      "end": 1679.14
+    },
+    {
+      "id": "t133",
+      "speaker": "chen",
+      "text": "Yes.",
+      "start": 1679.14,
+      "end": 1679.92
+    },
+    {
+      "id": "t134",
+      "speaker": "sotomayor",
+      "text": "And that court was going to operate like a regular court?",
+      "start": 1679.92,
+      "end": 1683.76
+    },
+    {
+      "id": "t135",
+      "speaker": "chen",
+      "text": "I believe so. It would have been much more expanded than what it is now.",
+      "start": 1683.76,
+      "end": 1685.96
+    },
+    {
+      "id": "t136",
+      "speaker": "sotomayor",
+      "text": "So the administrator would make his or her decision and they have to go to that court to litigate things. So it made much more sense.",
+      "start": 1685.96,
+      "end": 1692.98
+    },
+    {
+      "id": "t137",
+      "speaker": "chen",
+      "text": "I think that's right, yes.",
+      "start": 1692.98,
+      "end": 1694.14
+    },
+    {
+      "id": "t138",
+      "speaker": "sotomayor",
+      "text": "All right. With respect to this system, there's a regulation in place that says the BVA cannot address constitutional questions and, if the BVA did, could the government appeal? If it said -- the BVA said something was unconstitutional --",
+      "start": 1694.14,
+      "end": 1704.32
+    },
+    {
+      "id": "t139",
+      "speaker": "chen",
+      "text": "Mm-hmm.",
+      "start": 1704.32,
+      "end": 1714.5
+    },
+    {
+      "id": "t140",
+      "speaker": "sotomayor",
+      "text": "-- could the government appeal?",
+      "start": 1714.5,
+      "end": 1716.0
+    },
+    {
+      "id": "t141",
+      "speaker": "chen",
+      "text": "It could not. Seven -- Section 7252 precludes the government.",
+      "start": 1716.0,
+      "end": 1719.82
+    },
+    {
+      "id": "t142",
+      "speaker": "sotomayor",
+      "text": "So we have to take the system as it exists?",
+      "start": 1719.82,
+      "end": 1721.28
+    },
+    {
+      "id": "t143",
+      "speaker": "chen",
+      "text": "Right.",
+      "start": 1721.28,
+      "end": 1722.74
+    },
+    {
+      "id": "t144",
+      "speaker": "sotomayor",
+      "text": "And that's a very odd system, isn't it?",
+      "start": 1722.74,
+      "end": 1725.4
+    },
+    {
+      "id": "t145",
+      "speaker": "chen",
+      "text": "That is not just odd. That is -- that raises very serious questions under Article II and -- and the Appointments Clause.",
+      "start": 1725.4,
+      "end": 1730.92
+    },
+    {
+      "id": "t146",
+      "speaker": "sotomayor",
+      "text": "It leads to the -- your conclusion, which is keep what Robison said --",
+      "start": 1730.92,
+      "end": 1733.83
+    },
+    {
+      "id": "t147",
+      "speaker": "chen",
+      "text": "Yes.",
+      "start": 1733.83,
+      "end": 1736.74
+    },
+    {
+      "id": "t148",
+      "speaker": "sotomayor",
+      "text": "-- which is let constitutional questions go to the court because that's where the government would have a right to defend the law, correct?",
+      "start": 1736.74,
+      "end": 1744.96
+    },
+    {
+      "id": "t149",
+      "speaker": "chen",
+      "text": "That's exactly right.",
+      "start": 1744.96,
+      "end": 1747.5
+    },
+    {
+      "id": "t150",
+      "speaker": "roberts",
+      "text": "Justice Kagan? Justice Gorsuch? Justice Kavanaugh?",
+      "start": 1747.5,
+      "end": 1751.3
+    },
+    {
+      "id": "t151",
+      "speaker": "kavanaugh",
+      "text": "Just -- just one. In thinking about the precedent, our precedent from 1974, what's the relevance of the Federal Circuit now being part of the process in the statute that's passed subsequently?",
+      "start": 1751.3,
+      "end": 1764.8
+    },
+    {
+      "id": "t152",
+      "speaker": "chen",
+      "text": "Yeah. So the relevance is that the Federal Circuit and --and the CAVC, right now, our position is that the -- the veteran has basically a choice. We -- we think that 511(a) does not strip district courts of jurisdiction to decide these challenges, but if the veteran wants to, for example, if the veteran has something more than just a standalone constitutional challenge to a statute, it can bring it within the VJRA scheme. The BVA disclaims jurisdiction, but then the CAVC and the Federal Circuit get to decide it. And I think the -- the relevance is that that language of the Federal --I think it's 7292 that expressly allows the Federal Circuit to decide these questions is just making clear that even though the BVA doesn't decide it, the Federal Circuit can. And, in fact, you know, Congress's creation of this scheme actually, I think, confirms that Section 511(a) does not include constitutional challenges to statutes because Congress, in creating the scheme, was very -- used very specific words to delineate the scope of review at each level of the scheme. So, in 7292, it explicitly directed the Federal Circuit to decide any challenge to the validity of any statute. That's very explicit text. In Section 7261, Congress directed the CAVC to set aside BVA decisions that are contrary to constitutional right, so not as explicit as 7292 but still mentions the Constitution at least. Congress included no similar language in Section 511(a), which is the only provision that could strip district courts of jurisdiction. And so, when Congress uses particular language in some sections of the statute but not others, we presume that to be intentional.",
+      "start": 1764.8,
+      "end": 1862.88
+    },
+    {
+      "id": "t153",
+      "speaker": "kavanaugh",
+      "text": "One might think that the problem undergirding the decision in 1974 was the lack of any meaningful judicial review and that was solved by the Federal Circuit. But I take your response. Thank you.",
+      "start": 1862.88,
+      "end": 1868.94
+    },
+    {
+      "id": "t154",
+      "speaker": "chen",
+      "text": "Yeah.",
+      "start": 1868.94,
+      "end": 1875.0
+    },
+    {
+      "id": "t155",
+      "speaker": "barrett",
+      "text": "I just want to be sure I understand how this might work. Let's imagine that your client filed a claim for benefits, didn't know about the statute, and then was denied the benefits because of being in jail.",
+      "start": 1875.0,
+      "end": 1880.99
+    },
+    {
+      "id": "t156",
+      "speaker": "chen",
+      "text": "Mm-hmm.",
+      "start": 1880.99,
+      "end": 1886.98
+    },
+    {
+      "id": "t157",
+      "speaker": "barrett",
+      "text": "In that circumstance then, could he then later up the chain, say, before the Federal Circuit, press his constitutional claim even though it's facial, inherent in the statute itself, whatever we want to say?",
+      "start": 1886.98,
+      "end": 1898.24
+    },
+    {
+      "id": "t158",
+      "speaker": "chen",
+      "text": "Yes. We -- we believe so. Yes. It could raise it in the CAVC first probably and then the Federal Circuit.",
+      "start": 1898.24,
+      "end": 1904.0
+    },
+    {
+      "id": "t159",
+      "speaker": "barrett",
+      "text": "So he has a route?",
+      "start": 1904.0,
+      "end": 1905.44
+    },
+    {
+      "id": "t160",
+      "speaker": "chen",
+      "text": "He -- he has a route. It's just that that route doesn't -- the BVA will not decide it. But then subsequent --",
+      "start": 1905.44,
+      "end": 1910.72
+    },
+    {
+      "id": "t161",
+      "speaker": "barrett",
+      "text": "Okay. But he has a route. He still has a way of pressing the constitutional claim?",
+      "start": 1910.72,
+      "end": 1914.74
+    },
+    {
+      "id": "t162",
+      "speaker": "chen",
+      "text": "If he wanted to, yes.",
+      "start": 1914.74,
+      "end": 1916.06
+    },
+    {
+      "id": "t163",
+      "speaker": "barrett",
+      "text": "Yes.",
+      "start": 1916.06,
+      "end": 1917.2
+    },
+    {
+      "id": "t164",
+      "speaker": "chen",
+      "text": "Yes.",
+      "start": 1917.2,
+      "end": 1918.34
+    },
+    {
+      "id": "t165",
+      "speaker": "roberts",
+      "text": "Justice Jackson?",
+      "start": 1918.34,
+      "end": 1918.84
+    },
+    {
+      "id": "t166",
+      "speaker": "jackson",
+      "text": "He has a way of pressing it, but just to be clear, as Justice Sotomayor mentioned, the government, if it lost, could not appeal, right?",
+      "start": 1918.84,
+      "end": 1926.38
+    },
+    {
+      "id": "t167",
+      "speaker": "chen",
+      "text": "Correct. If the government lost at the BVA, 7252 prohibits or precludes the government from appealing that decision.",
+      "start": 1926.38,
+      "end": 1933.42
+    },
+    {
+      "id": "t168",
+      "speaker": "jackson",
+      "text": "And can you just give us the quick version of your response to the argument that Robison applied to a different statute and that it was a constitutional avoidance decision? Why isn't that right?",
+      "start": 1933.42,
+      "end": 1949.63
+    },
+    {
+      "id": "t169",
+      "speaker": "chen",
+      "text": "So I think, even if Robison relied in part on constitutional avoidance, it still rendered a judicial construction of the very phrase that Congress chose to reenact, which is decisions under a law. So there is at least still a presumption that Congress also adopted Robison's construction of that phrase. And I think our other point is just that even -- even if -- again, even if Robison had relied in part on constitutional avoidance, it's not like constitutional avoidance isn't relevant here. This -- the government's reading presents a constitutional problem of its own. It's different from the one in Robison, but it is still very serious under the Article II -- under Article II and the Appointments Clause.",
+      "start": 1949.63,
+      "end": 1993.34
+    },
+    {
+      "id": "t170",
+      "speaker": "jackson",
+      "text": "Thank you.",
+      "start": 1993.34,
+      "end": 1994.58
+    },
+    {
+      "id": "t171",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. Mr. Barber.",
+      "start": 1994.58,
+      "end": 2001.38
+    },
+    {
+      "id": "t172",
+      "speaker": "barber",
+      "text": "Mr. Chief Justice, and may it please the Court: The law entitles Petitioner to judicial review, just not in district court. Under Section 511(a), Petitioner's challenge to the validity of Section 5313 is a question of law that is necessary to a decision under the benefits laws because the answer to that question dictates whether his benefits under Section 1131 must be reduced. 511(a) therefore channels his claim to the Veterans Court and the Federal Circuit. Indeed, those courts have already decided the very same constitutional claims. If Petitioner concedes that as-applied claims are covered by 511(a), then there's no basis for treating facial claims differently. Petitioner resists that straightforward analysis with two main theories. The first is that the VJRA incorporated this Court's holding in Johnson against Robison, but the VJRA fundamentally changed the statutory scheme. It amended 511(a) to establish that the relevant question of law need not arise under a benefits statute to be covered. And it enacted Chapter 72, which obviates Robison's constitutional concerns and explicitly contemplates that challenges to VA benefit statutes are channeled into the exclusive review scheme. It's the current statute that matters. The second theory is that the VA can't decide constitutional challenges to statutes, so 511(a) can't apply to such claims. But the premise is mistaken. True, the Board of Veterans Appeals in the past has been inconsistent on its authority, sometimes deciding such claims and sometimes not. But, as we see it, the Board can and must decide veterans' constitutional claims subject to the supervision of agency leadership. Petitioner's contrary view would conflict with the statutory text and deprive veterans of their ability to bring such claims to the agency. It would even compel the VA to enforce a hypothetical benefits statute that was blatantly unconstitutional. The judgment of the court of appeals should be affirmed. I welcome the Court's questions.",
+      "start": 2001.38,
+      "end": 2112.62
+    },
+    {
+      "id": "t173",
+      "speaker": "thomas",
+      "text": "How would you respond to Petitioner's point that if the government lost a constitutional claim before the Board, it had no right to appeal it?",
+      "start": 2112.62,
+      "end": 2122.5
+    },
+    {
+      "id": "t174",
+      "speaker": "barber",
+      "text": "So that would be a very easy situation to deal with. We wouldn't need to appeal to the Veterans Court. First of all, the Board makes the Secretary's decision, so it is the VA's decision. I think we're in a world in which a member of the Board sort of goes rogue and declares a federal statute unconstitutional in a scenario where the agency leadership disagrees with that. That would be easily dealt with through the reconsideration process. The Board's chairman has plenary authority to order reconsideration of cases before the Board. By the time that step was taken, the VA leadership could have used the mechanisms that my friend, Mr. Chen, was discussing to dictate the Board's resolution of that constitutional claim, so instructions of the Secretary, a precedential legal opinion of the agency's GC. This is a very hypothetical scenario because the Board, although it has decided facial constitutional challenges to statutes on numerous occasions, it has never struck down a federal --",
+      "start": 2122.5,
+      "end": 2178.9
+    },
+    {
+      "id": "t175",
+      "speaker": "kavanaugh",
+      "text": "If it -- if it --",
+      "start": 2178.9,
+      "end": 2179.25
+    },
+    {
+      "id": "t176",
+      "speaker": "barber",
+      "text": "-- benefits statute.",
+      "start": 2179.15,
+      "end": 2179.5
+    },
+    {
+      "id": "t177",
+      "speaker": "kavanaugh",
+      "text": "-- did, the -- the suit would be a government agency against a government agency, correct?",
+      "start": 2179.2,
+      "end": 2185.3
+    },
+    {
+      "id": "t178",
+      "speaker": "barber",
+      "text": "No, because there wouldn't be this appeal. If there were theoretically an appeal by the VA of the VA's own decision, that would be very strange, but that wouldn't --",
+      "start": 2185.3,
+      "end": 2192.24
+    },
+    {
+      "id": "t179",
+      "speaker": "kavanaugh",
+      "text": "Because that would be government against government?",
+      "start": 2192.24,
+      "end": 2193.7
+    },
+    {
+      "id": "t180",
+      "speaker": "barber",
+      "text": "Yes. That would be absurd.",
+      "start": 2193.7,
+      "end": 2194.8
+    },
+    {
+      "id": "t181",
+      "speaker": "kavanaugh",
+      "text": "And I, at least in the old days, I said that should be tossed. Figure it out yourselves. (Laughter.)",
+      "start": 2194.8,
+      "end": 2200.62
+    },
+    {
+      "id": "t182",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2200.62,
+      "end": 2201.62
+    },
+    {
+      "id": "t183",
+      "speaker": "barrett",
+      "text": "But, you know --",
+      "start": 2201.62,
+      "end": 2203.04
+    },
+    {
+      "id": "t184",
+      "speaker": "sotomayor",
+      "text": "In the sense of independence of an agency decision of a BVA decision, and that's what you're suggesting. Tell me something. Robinson -- are you challenging whether Robinson was correctly decided?",
+      "start": 2203.04,
+      "end": 2219.58
+    },
+    {
+      "id": "t185",
+      "speaker": "barber",
+      "text": "No.",
+      "start": 2219.58,
+      "end": 2220.68
+    },
+    {
+      "id": "t186",
+      "speaker": "sotomayor",
+      "text": "All right. So you accept it as the law at the time?",
+      "start": 2220.68,
+      "end": 2223.12
+    },
+    {
+      "id": "t187",
+      "speaker": "barber",
+      "text": "Yes, under a different statute.",
+      "start": 2223.12,
+      "end": 2224.6
+    },
+    {
+      "id": "t188",
+      "speaker": "sotomayor",
+      "text": "And so, when Congress was amending or creating 511, that was the state of the law, correct?",
+      "start": 2224.6,
+      "end": 2231.68
+    },
+    {
+      "id": "t189",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2231.68,
+      "end": 2232.9
+    },
+    {
+      "id": "t190",
+      "speaker": "sotomayor",
+      "text": "It's very clear that when Congress wants to include constitutional law issues within agency consideration, it's very clear about it. It did it with the Court of Appeals for Veterans Claims and said there that -- that VA actions that are, \"contrary to constitutional right, power, privilege, or immunity,\" that that court could decide that, correct?",
+      "start": 2232.9,
+      "end": 2262.88
+    },
+    {
+      "id": "t191",
+      "speaker": "barber",
+      "text": "Yes. I mean, this is one of the real oddities with Petitioner's position because Chapter 72, 7261, 7292, make crystal-clear in their text that among the issues that the Veterans Court and the Federal Circuit must decide are constitutional challenges to statutes.",
+      "start": 2262.88,
+      "end": 2280.44
+    },
+    {
+      "id": "t192",
+      "speaker": "sotomayor",
+      "text": "But that's a very different independent consideration than what the BVA looks at because, by regulation, the BVA does not consider --",
+      "start": 2280.44,
+      "end": 2284.54
+    },
+    {
+      "id": "t193",
+      "speaker": "barber",
+      "text": "Well, first of all, I --",
+      "start": 2284.54,
+      "end": 2288.64
+    },
+    {
+      "id": "t194",
+      "speaker": "sotomayor",
+      "text": "-- constitutional questions, correct?",
+      "start": 2288.64,
+      "end": 2292.0
+    },
+    {
+      "id": "t195",
+      "speaker": "barber",
+      "text": "My -- my point was just that it would be very strange to have those statutory provisions in Chapter 72 when --",
+      "start": 2292.0,
+      "end": 2296.68
+    },
+    {
+      "id": "t196",
+      "speaker": "sotomayor",
+      "text": "Why?",
+      "start": 2296.68,
+      "end": 2297.03
+    },
+    {
+      "id": "t197",
+      "speaker": "barber",
+      "text": "-- when --",
+      "start": 2296.93,
+      "end": 2297.28
+    },
+    {
+      "id": "t198",
+      "speaker": "sotomayor",
+      "text": "Congress is always solicitous of veterans to make sure that they get full rights in whatever avenue they pursue, correct? And so, if they pursue a claim through the system and fail, they can still present it to the V -- to the -- to the court of appeals for veterans, but that doesn't preclude them from challenging it under Robinson in a district court as well.",
+      "start": 2297.04,
+      "end": 2326.06
+    },
+    {
+      "id": "t199",
+      "speaker": "barber",
+      "text": "It does by virtue of 511(a). The point I was going to make is it would be very strange if the Veterans Court and the Federal Circuit explicitly could and had to decide these questions, and yet those questions were not channeled to those courts by 511(a). That would be very strange. We think Congress did show solicitude for veterans by commanding the VA to decide their constitutional challenges.",
+      "start": 2326.06,
+      "end": 2345.5
+    },
+    {
+      "id": "t200",
+      "speaker": "gorsuch",
+      "text": "Just a few questions on that --",
+      "start": 2345.5,
+      "end": 2346.96
+    },
+    {
+      "id": "t201",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2346.96,
+      "end": 2347.31
+    },
+    {
+      "id": "t202",
+      "speaker": "gorsuch",
+      "text": "-- just so I understand the state of play as -- on the ground. You tell us on page 33 of your brief that the Veterans Court opinion is that the Board can but is not required to address constitutional questions. You understand that to be the present state of play in the Veterans Court, right?",
+      "start": 2347.26,
+      "end": 2364.88
+    },
+    {
+      "id": "t203",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2364.88,
+      "end": 2365.64
+    },
+    {
+      "id": "t204",
+      "speaker": "gorsuch",
+      "text": "Okay. And a year ago, in Pereida, the government took the position that even the Veterans Court couldn't consider constitutional questions, right?",
+      "start": 2365.64,
+      "end": 2376.46
+    },
+    {
+      "id": "t205",
+      "speaker": "barber",
+      "text": "That was erroneous, but, yes, we did say that in our brief.",
+      "start": 2376.46,
+      "end": 2377.4
+    },
+    {
+      "id": "t206",
+      "speaker": "gorsuch",
+      "text": "Yes, you did.",
+      "start": 2377.4,
+      "end": 2378.34
+    },
+    {
+      "id": "t207",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2378.34,
+      "end": 2379.28
+    },
+    {
+      "id": "t208",
+      "speaker": "gorsuch",
+      "text": "Okay. And then just to be clear about the Thunder Basin point, you acknowledged that when dealing with an express provision like we have here, this Court generally determines the scope of preclusion simply by interpreting the words Congress has chosen, right?",
+      "start": 2379.28,
+      "end": 2396.84
+    },
+    {
+      "id": "t209",
+      "speaker": "barber",
+      "text": "Yes.",
+      "start": 2396.84,
+      "end": 2397.58
+    },
+    {
+      "id": "t210",
+      "speaker": "gorsuch",
+      "text": "Thank you.",
+      "start": 2397.58,
+      "end": 2399.16
+    },
+    {
+      "id": "t211",
+      "speaker": "barrett",
+      "text": "Mr. Barber, do you want to address the Article II problem that your friend on the other side says that your interpretation poses?",
+      "start": 2399.16,
+      "end": 2405.58
+    },
+    {
+      "id": "t212",
+      "speaker": "barber",
+      "text": "Yes. So, as a general matter, we know from Arthrex, page 20 of that decision, that the veterans' general scheme complies with the Appointments Clause. Arthrex did not address this issue of the VA's inability to appeal decisions from the VA itself to the Veterans Court. We think that makes sense given the statutory structure and all the mechanisms that I was discussing earlier for the VA leadership to control the decisions of the Board. I think the upshot of Petitioner's position would have to be that this supposed constitutional problem means that the Board is entirely unconstitutional because it wouldn't just be Board decisions on constitutional questions that would be problematic under his view. It would be the Board issuing final decisions about individual veterans' entitlements to benefits that would be the problem. So we don't think that there is any sort of constitutional avoidance basis for reading out just these facial constitutional claims from the statutory scheme. That broader constitutional theory is not presented in this case, and I don't think you need to go down that road. I think you can just apply the text of Section 511(a) as it's written. And as Justice Kagan was interpreting it earlier, we agree with that interpretation. The other thing I wanted to just mention before I forget, Justice Sotomayor, you suggested that there's a regulation prohibiting the Board of Veterans Appeals from deciding these kinds of claims. That's not correct. The regulation refers to the Board being bound by applicable statutes. We don't think that an unconstitutional statute could be deemed applicable. And we don't think that in the four decisions that we've cited at page 33 of our brief, where the Board did decide facial constitutional challenges -- I could have cited 12 more -- we don't think in those cases that the Board was violating that regulation, and we also don't think that the Board was somehow exceeding its jurisdiction under Section 511(a). The other thing I wanted to circle back to, Justice Gorsuch suggested that the Board could decline to enforce or apply a blatantly unconstitutional statute even if it wasn't channeled, even if that claim was not channeled, to --",
+      "start": 2405.58,
+      "end": 2529.26
+    },
+    {
+      "id": "t213",
+      "speaker": "gorsuch",
+      "text": "Well, isn't that -- isn't that your position, that it can, but it doesn't have to decide constitutional questions?",
+      "start": 2529.26,
+      "end": 2533.78
+    },
+    {
+      "id": "t214",
+      "speaker": "barber",
+      "text": "No. We think that --",
+      "start": 2533.78,
+      "end": 2534.32
+    },
+    {
+      "id": "t215",
+      "speaker": "gorsuch",
+      "text": "Well, I thought that's exactly what I read to you earlier.",
+      "start": 2534.32,
+      "end": 2534.86
+    },
+    {
+      "id": "t216",
+      "speaker": "barber",
+      "text": "-- it only can if it must. I'm sorry.",
+      "start": 2534.86,
+      "end": 2537.76
+    },
+    {
+      "id": "t217",
+      "speaker": "gorsuch",
+      "text": "I thought -- I thought that's exactly what I read earlier, was that the Board -- the Veterans Court has stated the Board can but is not required to decide constitutional questions.",
+      "start": 2537.76,
+      "end": 2546.24
+    },
+    {
+      "id": "t218",
+      "speaker": "barber",
+      "text": "We -- we disagree with the Veterans Court.",
+      "start": 2546.24,
+      "end": 2548.08
+    },
+    {
+      "id": "t219",
+      "speaker": "gorsuch",
+      "text": "You disagree with the Veterans Court as well?",
+      "start": 2548.08,
+      "end": 2549.92
+    },
+    {
+      "id": "t220",
+      "speaker": "barber",
+      "text": "Insofar as it suggested --",
+      "start": 2549.92,
+      "end": 2551.3
+    },
+    {
+      "id": "t221",
+      "speaker": "gorsuch",
+      "text": "So you disagree with what you said last year and you disagree with the Veterans Court?",
+      "start": 2551.3,
+      "end": 2554.5
+    },
+    {
+      "id": "t222",
+      "speaker": "barber",
+      "text": "We disagree with an aspect of that decades-old precedent of the Veterans Court. We think that the Board can and must decide these constitutional claims. If that were not the case, under the text of 511(a), I don't see how the Board could decline to enforce a blatantly unconstitutional benefits statute. That would be the final decision of the agency, and so then all veterans would have to go to the Veterans Court and the Federal Circuit to get relief on those kinds of claims. We don't think that's the scheme that Congress designed. Again, going back to what Justice Sotomayor was discussing about Robison --",
+      "start": 2554.5,
+      "end": 2585.6
+    },
+    {
+      "id": "t223",
+      "speaker": "gorsuch",
+      "text": "How is it supposed to do that? The Board doesn't have much competence in questions of constitutional -- or it tells us in a lot of cases, and I could cite you a dozen of those. And you say, well, we've got maybe some process we can create with the General Counsel. But we're told the last time the General Counsel came up with a binding prospective opinion was -- was 2019, which was a minute ago. And many of these constitutional questions won't even be sufficiently obvious that there's prospective guidance available to give the Board. So it does seem like a bit of a rabbit hole.",
+      "start": 2585.6,
+      "end": 2622.72
+    },
+    {
+      "id": "t224",
+      "speaker": "barber",
+      "text": "Well, first of all, I think --",
+      "start": 2622.72,
+      "end": 2624.02
+    },
+    {
+      "id": "t225",
+      "speaker": "gorsuch",
+      "text": "Plus, this will decide constitutional questions even though the court that reviews the Board says they can't, and -- and we don't know what the issues are, and we're not going to provide any guidance. So isn't it really saying -- isn't the upshot of the government's position is the Board's never going to decide a constitutional question?",
+      "start": 2624.02,
+      "end": 2641.7
+    },
+    {
+      "id": "t226",
+      "speaker": "barber",
+      "text": "The Board has done so. Again --",
+      "start": 2641.7,
+      "end": 2643.52
+    },
+    {
+      "id": "t227",
+      "speaker": "gorsuch",
+      "text": "Oh, yeah, no, it'll -- it'll do so once in a while, and God bless it when it does. I mean, it's great when somebody follows the Constitution. But just as often and more likely than not, the veteran is likely to find a decision saying, ah, yeah, it's a nice constitutional argument you have here; I don't know anything about that; I see nothing, I know nothing, I hear nothing.",
+      "start": 2643.52,
+      "end": 2660.78
+    },
+    {
+      "id": "t228",
+      "speaker": "barber",
+      "text": "I think, Justice Gorsuch, particularly if this Court agrees with us on the proper interpretation of 511(a), the Board is going to take very seriously its obligation to decide these claims going forward. There has been uncertainty in the past, I think probably as a result of this notion that administrative agencies are often thought not to have jurisdiction to decide these claims.",
+      "start": 2660.78,
+      "end": 2679.64
+    },
+    {
+      "id": "t229",
+      "speaker": "gorsuch",
+      "text": "Why can't they just continue to do what they've always done, which is say we can, but -- sometimes, and -- and -- and we won't most of the time?",
+      "start": 2679.64,
+      "end": 2687.14
+    },
+    {
+      "id": "t230",
+      "speaker": "barber",
+      "text": "That would be --",
+      "start": 2687.14,
+      "end": 2687.58
+    },
+    {
+      "id": "t231",
+      "speaker": "gorsuch",
+      "text": "What's to stop them from doing that?",
+      "start": 2687.58,
+      "end": 2688.9
+    },
+    {
+      "id": "t232",
+      "speaker": "barber",
+      "text": "That would be a violation of their statutory duty, which they take very seriously, and we do too.",
+      "start": 2688.9,
+      "end": 2693.8
+    },
+    {
+      "id": "t233",
+      "speaker": "jackson",
+      "text": "Well, but only if --",
+      "start": 2693.8,
+      "end": 2694.15
+    },
+    {
+      "id": "t234",
+      "speaker": "gorsuch",
+      "text": "Well, except for you've never done it.",
+      "start": 2694.1,
+      "end": 2695.76
+    },
+    {
+      "id": "t235",
+      "speaker": "jackson",
+      "text": "Only if we interpret it that way. I mean, is it -- is it your position that this case could actually be monumental in this regard? Because, as I take your argument, we would be holding that it would be necessary for the Board to address constitutional questions as a precursor to its determination, so then we pretty much are saying that, in every case, even though the Board has previously disclaimed this responsibility, they would have to from now on.",
+      "start": 2695.76,
+      "end": 2725.56
+    },
+    {
+      "id": "t236",
+      "speaker": "barber",
+      "text": "Yes. Absolutely. But I don't think --",
+      "start": 2725.56,
+      "end": 2727.12
+    },
+    {
+      "id": "t237",
+      "speaker": "jackson",
+      "text": "So it's a big case. I mean, that's a big deal. They have not been doing this for decades.",
+      "start": 2727.12,
+      "end": 2732.02
+    },
+    {
+      "id": "t238",
+      "speaker": "barber",
+      "text": "Well, they -- they have on numerous occasions, which we've discussed, and then they haven't done it on other occasions. And so what this Court would be saying is the Board was right in the first set of cases and not the second.",
+      "start": 2732.02,
+      "end": 2741.32
+    },
+    {
+      "id": "t239",
+      "speaker": "jackson",
+      "text": "Is there a regulation --",
+      "start": 2741.32,
+      "end": 2741.67
+    },
+    {
+      "id": "t240",
+      "speaker": "sotomayor",
+      "text": "But what's the -- I'm sorry.",
+      "start": 2741.66,
+      "end": 2744.36
+    },
+    {
+      "id": "t241",
+      "speaker": "jackson",
+      "text": "I -- I thought there was a -- is there a regulation where they say they're not going to do it or they --this is just as a matter of practice?",
+      "start": 2744.36,
+      "end": 2750.02
+    },
+    {
+      "id": "t242",
+      "speaker": "barber",
+      "text": "That's the regulation I was discussing with Justice Sotomayor. We don't think that that prohibits the Board at all from deciding constitutional challenges. It basically just means that in cases particularly where there's no colorable constitutional challenge at all, the Board does need to attend to the statutory requirements for benefits. By referring to applicable statutes, that regulation makes quite clear that the Board is not duty-bound to apply, say, the base -- the blatantly unconstitutional benefits statute that Justice Alito was mentioning.",
+      "start": 2750.02,
+      "end": 2780.0
+    },
+    {
+      "id": "t243",
+      "speaker": "jackson",
+      "text": "I understand, but I guess I'm just trying to reconcile the position you -- going forward, that the government is taking, with what has been happening. We have many cases in which the Board has said we don't have particular competency in this area; we are not going to answer this constitutional question. They bracket it and they deal with the application in terms of just figuring out the benefits, which is what they understand their duties, or have traditionally understood their duties, to be. So is it the government's position that, from now on, under your view, as a result of this case, the -- the Board can no longer do that? They would have to answer the constitutional question?",
+      "start": 2780.0,
+      "end": 2820.18
+    },
+    {
+      "id": "t244",
+      "speaker": "barber",
+      "text": "They do. And I don't see why that's so strange when everybody agrees they have to decide the as-applied --",
+      "start": 2820.18,
+      "end": 2822.17
+    },
+    {
+      "id": "t245",
+      "speaker": "gorsuch",
+      "text": "Well, here's -- here's what's strange about it.",
+      "start": 2822.17,
+      "end": 2824.17
+    },
+    {
+      "id": "t246",
+      "speaker": "jackson",
+      "text": "Well, the -- the strangeness, I --",
+      "start": 2824.17,
+      "end": 2826.16
+    },
+    {
+      "id": "t247",
+      "speaker": "gorsuch",
+      "text": "Here's what's strange about it. I'm sorry.",
+      "start": 2826.16,
+      "end": 2829.12
+    },
+    {
+      "id": "t248",
+      "speaker": "jackson",
+      "text": "That's okay. Go ahead.",
+      "start": 2829.12,
+      "end": 2830.5
+    },
+    {
+      "id": "t249",
+      "speaker": "gorsuch",
+      "text": "What's strange is we normally interpret statutes as they were understood by the public, ordinary readers, at the time they were enacted. And at the time this statute was enacted, we had Robison, and the understanding was, hey, these guys in the Board, they're technical experts, they know a lot about veterans' benefit laws and all the intricacies, and we leave that to them. But the Constitution of the United States is different, and that goes to federal district court and -- where the competent experts reside, we hope, right? And that's how everybody worked. Now you can point me to some examples where the Board may have, in its good graces, decided to do otherwise. But the dominant practice from the time this statute was enacted, before it was enacted, up until, oh, today, because a year ago the government had the opposite position about how all this worked, the understanding, the dominant understanding of the public meaning of this statute was these are experts who decide things that are necessary under the statute, not under the Constitution. What's wrong with that?",
+      "start": 2830.5,
+      "end": 2896.54
+    },
+    {
+      "id": "t250",
+      "speaker": "barber",
+      "text": "I think, with respect, it glosses over the fundamental changes to the statutory scheme that Congress made in the VJRA. It edited the text of 511(a) in a pretty significant way, making clear that the question of law does not need to arise under a benefits statute to be covered. And then it created Chapter 72, and it made clear that those courts, the Veterans Court and the Federal Circuit, are going to decide constitutional challenges to the validity of statutes. What sense would it make to make the Federal Circuit the exclusive circuit --",
+      "start": 2896.54,
+      "end": 2910.56
+    },
+    {
+      "id": "t251",
+      "speaker": "gorsuch",
+      "text": "It's a perfect --",
+      "start": 2910.56,
+      "end": 2924.58
+    },
+    {
+      "id": "t252",
+      "speaker": "barber",
+      "text": "-- under 7292(c)?",
+      "start": 2924.58,
+      "end": 2925.94
+    },
+    {
+      "id": "t253",
+      "speaker": "gorsuch",
+      "text": "-- it's a perfectly sensible reading except for the government itself hasn't understood the law that way --",
+      "start": 2925.94,
+      "end": 2928.73
+    },
+    {
+      "id": "t254",
+      "speaker": "barber",
+      "text": "Well --",
+      "start": 2928.73,
+      "end": 2931.52
+    },
+    {
+      "id": "t255",
+      "speaker": "gorsuch",
+      "text": "-- up until today.",
+      "start": 2931.52,
+      "end": 2932.74
+    },
+    {
+      "id": "t256",
+      "speaker": "barber",
+      "text": "-- there is a line about wisdom coming too late --",
+      "start": 2932.74,
+      "end": 2934.96
+    },
+    {
+      "id": "t257",
+      "speaker": "gorsuch",
+      "text": "Yeah, maybe it is too late.",
+      "start": 2934.96,
+      "end": 2936.4
+    },
+    {
+      "id": "t258",
+      "speaker": "barber",
+      "text": "-- that's escaping me right now. But I don't think it is too late in this case. I think the Court could accept everything.",
+      "start": 2936.4,
+      "end": 2940.92
+    },
+    {
+      "id": "t259",
+      "speaker": "sotomayor",
+      "text": "What sense is there in your system? This is a pure challenge to -- constitutional challenge to a -- a provision. The veteran has to go through this elaborate administrative process where, now you're saying the Board has to look at it, but before, he didn't understand that. He had to go through that and wait to have the constitutional challenge decided. Why?",
+      "start": 2940.92,
+      "end": 2973.28
+    },
+    {
+      "id": "t260",
+      "speaker": "barber",
+      "text": "Well, under the view we're advancing today, that shouldn't be the case. He should be able to get a decision by the Board of Veterans' Appeals and then --",
+      "start": 2973.28,
+      "end": 2980.22
+    },
+    {
+      "id": "t261",
+      "speaker": "sotomayor",
+      "text": "Well, you're -- you're trying to go and change what the understanding had been at the time of the law to create a new understanding. We have to go there with you. But even assuming, what's the sense of it?",
+      "start": 2980.22,
+      "end": 2995.56
+    },
+    {
+      "id": "t262",
+      "speaker": "barber",
+      "text": "Well, one important point I want to make, Justice Sotomayor, is that one of the impressions that Petitioner has left is that you can have kind of a standalone constitutional claim that doesn't have any other issues accompanying it. That will never be the case. Every veteran's benefits dispute involves case-specific, fact-specific determinations that need to be made. Is the person a veteran? Do they have a disability? Is the disability related to their service? So you're always going to have, under his view, dual-track litigation going on both in the VA and then in federal district courts around the country. It makes a lot more sense, and I think Congress agreed with us when it enacted the VJRA, to consolidate all of those issues together and to send them to the Federal Circuit. If Petitioner is right --",
+      "start": 2995.56,
+      "end": 3036.44
+    },
+    {
+      "id": "t263",
+      "speaker": "sotomayor",
+      "text": "Well, you're still not -- because you're -- those -- all of the issues you're talking about are as-applied challenges. We're talking about a pure, he's saying, only pure facial challenge. It doesn't matter how extensive the disability is. Those questions are all going to be decided by the Board. This is a pure constitutional question.",
+      "start": 3036.44,
+      "end": 3058.98
+    },
+    {
+      "id": "t264",
+      "speaker": "barber",
+      "text": "Yet another problem with Petitioner's view is that it's not always going to be clear, the nature of the claim. So, if you look at the complaint --",
+      "start": 3058.98,
+      "end": 3061.71
+    },
+    {
+      "id": "t265",
+      "speaker": "sotomayor",
+      "text": "Well, that --",
+      "start": 3061.71,
+      "end": 3064.44
+    },
+    {
+      "id": "t266",
+      "speaker": "barber",
+      "text": "-- that was filed in this case --",
+      "start": 3064.44,
+      "end": 3065.42
+    },
+    {
+      "id": "t267",
+      "speaker": "sotomayor",
+      "text": "-- that -- you run -- you always run that risk anyway in as-applied or facial challenges.",
+      "start": 3065.42,
+      "end": 3071.22
+    },
+    {
+      "id": "t268",
+      "speaker": "barber",
+      "text": "Well, right. But I think it's pretty important that the jurisdictional analysis here would hinge on facial versus as-applied. If you look at the complaint that Petitioner filed when he was pro se, as many veterans will be, there's nothing about facial versus as-applied. It just says: 5313 is unconstitutional. I want my full benefits. That's the relief I'm demanding. So --",
+      "start": 3071.22,
+      "end": 3080.82
+    },
+    {
+      "id": "t269",
+      "speaker": "kavanaugh",
+      "text": "Can I --",
+      "start": 3080.82,
+      "end": 3090.42
+    },
+    {
+      "id": "t270",
+      "speaker": "alito",
+      "text": "Well, let me ask you a -- what would be, from your perspective, a damage-control question. Suppose the Court were to hold that a claim that does not implicate any -- does not seriously implicate any factual issues can be brought in district court. Is there a way to draw a distinction between that kind of constitutional claim and other constitutional claims? For example, one that challenges the constitutionality of the interpretation of the statute or some other -- or an as-applied challenge?",
+      "start": 3090.42,
+      "end": 3132.64
+    },
+    {
+      "id": "t271",
+      "speaker": "barber",
+      "text": "I think that approach --",
+      "start": 3132.64,
+      "end": 3133.72
+    },
+    {
+      "id": "t272",
+      "speaker": "alito",
+      "text": "Is there a way for us to write an opinion that does that?",
+      "start": 3133.72,
+      "end": 3137.06
+    },
+    {
+      "id": "t273",
+      "speaker": "barber",
+      "text": "I think you could certainly write an opinion like that in theory. I think it would break down very quickly in practice. This is why the Court said in Elgin that the distinction between facial and as-applied claims are very amorphous, hard to get your hands around. And so it's a bad basis to distinguish between claims that must be channeled through an administrative and judicial review scheme and claims that should not be. So we don't think that that is tenable. And we also just don't think that there is any basis in the text or structure of Section 511(a) to distinguish these kinds of claims. A facial claim is certainly necessary to a decision in just the same way that an as-applied claim would be. And, frankly, we think that the kind of uniformity concerns that Congress often has in mind when it enacts a channeling provision are even more serious for facial claims because, if you have as-applied claims turning on the particular circumstances of individual veterans, maybe it's not as big a deal that you're going to have district -- different district courts around the country issuing different types of decisions on that basis --",
+      "start": 3137.06,
+      "end": 3165.61
+    },
+    {
+      "id": "t274",
+      "speaker": "kavanaugh",
+      "text": "Can I --",
+      "start": 3165.61,
+      "end": 3194.16
+    },
+    {
+      "id": "t275",
+      "speaker": "barber",
+      "text": "-- with respect to the facial validity.",
+      "start": 3194.16,
+      "end": 3196.02
+    },
+    {
+      "id": "t276",
+      "speaker": "alito",
+      "text": "All right. Well, you know, thank you. Perhaps Mr. Chen will choose to take another shot at answering that question in rebuttal.",
+      "start": 3196.02,
+      "end": 3204.78
+    },
+    {
+      "id": "t277",
+      "speaker": "kavanaugh",
+      "text": "Can I ask, following up on Justice Gorsuch's questions, if it's a close call in the statutory interpretation, why upset the longstanding practice?",
+      "start": 3204.78,
+      "end": 3215.62
+    },
+    {
+      "id": "t278",
+      "speaker": "barber",
+      "text": "Well, first of all, there is no consistent longstanding practice. As I've said multiple times, the Board has repeatedly decided these kinds of claims, and so we're going to have consistency one way or another going forward. We think that the statutory --",
+      "start": 3215.62,
+      "end": 3228.02
+    },
+    {
+      "id": "t279",
+      "speaker": "kavanaugh",
+      "text": "They haven't had to decide them, right?",
+      "start": 3228.02,
+      "end": 3230.82
+    },
+    {
+      "id": "t280",
+      "speaker": "barber",
+      "text": "We think that they do have to decide them, yes. And I don't think there's anything anomalous about that. I mean, if you imagine a Board of Veterans' Appeals decision in this case if the Board had been given an opportunity to do so, it's not that hard to have a section at the end of the opinion saying: There's an equal protection challenge, we've overturned your challenge, it's rejected for these reasons.",
+      "start": 3230.82,
+      "end": 3247.64
+    },
+    {
+      "id": "t281",
+      "speaker": "kavanaugh",
+      "text": "And then what's the harm the government -- from the current state of play?",
+      "start": 3247.64,
+      "end": 3254.68
+    },
+    {
+      "id": "t282",
+      "speaker": "barber",
+      "text": "I think it's a few different fronts from our --",
+      "start": 3254.68,
+      "end": 3258.78
+    },
+    {
+      "id": "t283",
+      "speaker": "kavanaugh",
+      "text": "Other than you want to get the law right. I get that one, but is there --",
+      "start": 3258.78,
+      "end": 3260.92
+    },
+    {
+      "id": "t284",
+      "speaker": "barber",
+      "text": "Obviously, we want to get the law right.",
+      "start": 3260.92,
+      "end": 3262.4
+    },
+    {
+      "id": "t285",
+      "speaker": "kavanaugh",
+      "text": "But, apart from that, is there something going on that's problematic from the government's perspective?",
+      "start": 3262.4,
+      "end": 3267.02
+    },
+    {
+      "id": "t286",
+      "speaker": "barber",
+      "text": "Well, it would definitely be problematic to make the VA start litigating these kinds of claims all around the country. The VA is incredibly burdened as it is, and I think that would be a significant problem. As I said before, you would have dual-track litigation going on in every single case because the veteran always needs to have a claim with the VA, and that's always going to raise some fact-and case-specific matters. So you're always going to have a process that needs to go on at the VA. You have the disuniformity concerns, but I really do think the main thing is the litigation burden. At the time of Robison, the Court said that, you know, these kinds of constitutional challenges to statutes are pretty uncommon, it's not a big deal to make the VA have to litigate them all around the country.",
+      "start": 3267.02,
+      "end": 3304.2
+    },
+    {
+      "id": "t287",
+      "speaker": "kavanaugh",
+      "text": "So how common are they now?",
+      "start": 3304.2,
+      "end": 3305.48
+    },
+    {
+      "id": "t288",
+      "speaker": "barber",
+      "text": "They are much more common. I think that --",
+      "start": 3305.48,
+      "end": 3307.08
+    },
+    {
+      "id": "t289",
+      "speaker": "kavanaugh",
+      "text": "How successful are they?",
+      "start": 3307.08,
+      "end": 3309.16
+    },
+    {
+      "id": "t290",
+      "speaker": "barber",
+      "text": "They are never successful. I'm not aware of a benefits statute ever having been held unconstitutional since, like, Hayburn's Case maybe.",
+      "start": 3309.16,
+      "end": 3315.32
+    },
+    {
+      "id": "t291",
+      "speaker": "jackson",
+      "text": "So then why is there a burden? I'm so confused. I'm trying to understand what you mean, the litigation burden. You -- you -- you also seem to say these are easily disposed of, that you want to channel them into the veterans' scheme precisely because you can get a higher-up to come and say, oh, this was a rogue --a -- a -- a Board of Veterans' Appeals person who thought it might be unconstitutional, but we're going to squelch that. So what is the litigation burden?",
+      "start": 3315.32,
+      "end": 3342.08
+    },
+    {
+      "id": "t292",
+      "speaker": "barber",
+      "text": "Having to defend against meritless claims is still a great burden on the agency, particularly if -- if they have to do it all around the country from district courts and then up to all the regional courts of appeals. A point I wanted to just tie off that I was going to make earlier was that Section 7292(c) goes out of its way to say the Federal Circuit shall have exclusive jurisdiction to decide challenges to the validity of statutes. If Petitioner is correct, then that is essentially a nullity because anybody can go to any district court around the country and then take that claim up to any court of appeals.",
+      "start": 3342.08,
+      "end": 3371.9
+    },
+    {
+      "id": "t293",
+      "speaker": "barrett",
+      "text": "Is that what they're doing now?",
+      "start": 3371.9,
+      "end": 3372.96
+    },
+    {
+      "id": "t294",
+      "speaker": "barber",
+      "text": "That's what --",
+      "start": 3372.96,
+      "end": 3374.02
+    },
+    {
+      "id": "t295",
+      "speaker": "barrett",
+      "text": "I mean, since this has been the prevailing system and you told Justice Kavanaugh that the problem for the government is the litigation burden of being all around the country, but given the government's position to this point, is that what's happening now?",
+      "start": 3374.02,
+      "end": 3385.84
+    },
+    {
+      "id": "t296",
+      "speaker": "barber",
+      "text": "Well, it hasn't been a huge deal yet because there are only two circuits, I think, that have adopted Petitioner's view.",
+      "start": 3385.84,
+      "end": 3391.52
+    },
+    {
+      "id": "t297",
+      "speaker": "gorsuch",
+      "text": "It wasn't a problem up until last year when you took the opposite position in Pereida, right?",
+      "start": 3391.52,
+      "end": 3396.18
+    },
+    {
+      "id": "t298",
+      "speaker": "barber",
+      "text": "If -- if the Court --",
+      "start": 3396.18,
+      "end": 3397.04
+    },
+    {
+      "id": "t299",
+      "speaker": "gorsuch",
+      "text": "It's a real new problem.",
+      "start": 3397.04,
+      "end": 3398.44
+    },
+    {
+      "id": "t300",
+      "speaker": "barber",
+      "text": "-- if the Court were to adopt Petitioner's view and open the doors of all the district courts around the country to these claims, we think it would be a serious problem because, again, as the Board decisions that we've cited in the briefs addressing these kinds of facial constitutional challenges show, these claims are a lot more common than they were back in the '70s when Robison was decided. So we don't think that that concern can be dismissed. We're totally in policy land at this point. We think that the statutory text resolves this case completely. These claims are --",
+      "start": 3398.44,
+      "end": 3427.74
+    },
+    {
+      "id": "t301",
+      "speaker": "kagan",
+      "text": "On that, Mr. Barber, I mean, I suggested before that if all I do is look at 511 alone, I think you have the better of the argument. But Mr. Chen was right to point out that 511 is kind of Version 2 of the statute, and Version 1 went his way. And then you look at the differences. I think that those -- the differences in terminology, you know, point your way, no doubt. But, on the other hand, a -- a -- a court that was -- a Congress that was really set on reversing the Robison rule, it seems very strange that it would do that by virtue of making the changes in that sentence.",
+      "start": 3427.74,
+      "end": 3472.32
+    },
+    {
+      "id": "t302",
+      "speaker": "barber",
+      "text": "I respectfully disagree with that. And I think a good example of this is the Traynor versus Turnage angle because Petitioner accepts that one of Congress's purposes in enacting the VJRA was to abrogate this Court's decision in Traynor. It also did that in a relatively subtle way. It changed that second clause --",
+      "start": 3472.32,
+      "end": 3490.98
+    },
+    {
+      "id": "t303",
+      "speaker": "kagan",
+      "text": "I mean, subtle --",
+      "start": 3490.98,
+      "end": 3491.33
+    },
+    {
+      "id": "t304",
+      "speaker": "barber",
+      "text": "-- of the first sentence --",
+      "start": 3491.32,
+      "end": 3491.67
+    },
+    {
+      "id": "t305",
+      "speaker": "kagan",
+      "text": "-- but pretty darn clear.",
+      "start": 3491.66,
+      "end": 3493.16
+    },
+    {
+      "id": "t306",
+      "speaker": "barber",
+      "text": "Well, we --",
+      "start": 3493.16,
+      "end": 3493.51
+    },
+    {
+      "id": "t307",
+      "speaker": "kagan",
+      "text": "I think that the first part of the sentence, you know, you -- you -- you have to struggle a good deal more to understand how that changes the issue.",
+      "start": 3493.48,
+      "end": 3502.56
+    },
+    {
+      "id": "t308",
+      "speaker": "barber",
+      "text": "We think this is also pretty darn clear moving that \"question of law\" clause away from the \"under any law affecting the provision of benefits\" clause. We think that's clear. And that's just looking at 511(a) in isolation, which you would never do. You would also want to look at Chapter 72. And we think that that statutory context really eliminates any doubt. Another case I would point you to is Weinberger. It was decided the year after Robison. That case had an express preclusion clause referring to claims arising under Title II of the Social Security Act. You said that that clause applied to constitutional challenges to the Act even though it's pretty unnatural to say that such a claim arises under the Act. If that clause covered constitutional claims, we don't see how this one couldn't.",
+      "start": 3502.56,
+      "end": 3548.0
+    },
+    {
+      "id": "t309",
+      "speaker": "kavanaugh",
+      "text": "If it goes to district courts, where does the appeal go? Do all the appeals go to the Federal Circuit still?",
+      "start": 3548.0,
+      "end": 3554.3
+    },
+    {
+      "id": "t310",
+      "speaker": "barber",
+      "text": "No. No, we don't think that would work that way at all, which is why the 7292(c) --",
+      "start": 3554.3,
+      "end": 3556.47
+    },
+    {
+      "id": "t311",
+      "speaker": "kavanaugh",
+      "text": "Well, that's --",
+      "start": 3556.47,
+      "end": 3558.64
+    },
+    {
+      "id": "t312",
+      "speaker": "barber",
+      "text": "-- would be defeated.",
+      "start": 3558.64,
+      "end": 3559.0
+    },
+    {
+      "id": "t313",
+      "speaker": "kavanaugh",
+      "text": "-- what do we do with -- this is, I guess, a helpful question for you. That says exclusive jurisdiction. So what do we do with that?",
+      "start": 3559.0,
+      "end": 3565.84
+    },
+    {
+      "id": "t314",
+      "speaker": "barber",
+      "text": "It says exclusive jurisdiction in cases brought under this section, I think. And so what that means is that you can't go from the Veterans Court to any court of appeals besides the Federal Circuit.",
+      "start": 3565.84,
+      "end": 3571.89
+    },
+    {
+      "id": "t315",
+      "speaker": "kavanaugh",
+      "text": "Mm-hmm.",
+      "start": 3571.89,
+      "end": 3577.94
+    },
+    {
+      "id": "t316",
+      "speaker": "barber",
+      "text": "But, by its terms, that provision would not prevent you, assuming you could file these claims in district court --",
+      "start": 3577.94,
+      "end": 3582.58
+    },
+    {
+      "id": "t317",
+      "speaker": "kavanaugh",
+      "text": "It says, \"exclusive jurisdiction to decide any challenge to the validity of any statute or regulation.\" I guess you're saying brought under this section. I was wondering, you know.",
+      "start": 3582.58,
+      "end": 3591.88
+    },
+    {
+      "id": "t318",
+      "speaker": "barber",
+      "text": "Yeah. It's the \"under this section\" language that is problematic.",
+      "start": 3591.88,
+      "end": 3593.98
+    },
+    {
+      "id": "t319",
+      "speaker": "kavanaugh",
+      "text": "Yeah. Got it. Thank you.",
+      "start": 3593.98,
+      "end": 3595.72
+    },
+    {
+      "id": "t320",
+      "speaker": "jackson",
+      "text": "Let me go back to your exchange with -- with Justice Kagan. I -- I -- I guess one might expect for Congress, if it was targeting Robison, to say all questions of law and fact, including constitutional issues or something, given that this Court had said questions of law and fact under a law does not include constitutional questions. So can you say a little bit more about why you think that, looking at 511 after 211, the changes are enough to indicate Congress's intent to move away from Robison?",
+      "start": 3595.72,
+      "end": 3634.98
+    },
+    {
+      "id": "t321",
+      "speaker": "barber",
+      "text": "Sure. I mean, I think we have to look at the actual statutory text, not hypothetically hyper-clear statutory text. We think that the statutory text is quite clear here, particularly in conjunction with Chapter 72, which --",
+      "start": 3634.98,
+      "end": 3646.84
+    },
+    {
+      "id": "t322",
+      "speaker": "jackson",
+      "text": "How is -- how is 211 different than 511 in a way that matters?",
+      "start": 3646.84,
+      "end": 3651.46
+    },
+    {
+      "id": "t323",
+      "speaker": "barber",
+      "text": "I think the key difference in this case is separating --so the \"question of law\" clause from the \"under a law\" clause. The previous version of the statute said decisions of the administrator on any question of law or fact under any law administered by the VA. That was at least plausibly read, particularly in light of the Court's constitutional concerns in Robison, as referring to questions of law arising under the statute itself relating to its interpretation or application. By saying \"all questions of law and fact necessary to a decision by the Secretary,\" that naturally invites the inclusion of constitutional challenges to the statute because, as Justice Kagan was explaining, it's obviously necessary to a decision under or in accordance with the statute if you define it that way to determine whether the statute is constitutional in the first place.",
+      "start": 3651.46,
+      "end": 3697.14
+    },
+    {
+      "id": "t324",
+      "speaker": "jackson",
+      "text": "Okay. I'm going to have to look because I'm looking at 211 that says, \"the administrator shall decide all questions of law and fact necessary to a decision by the administrator under a law,\" which seems like it's the same --",
+      "start": 3697.14,
+      "end": 3708.72
+    },
+    {
+      "id": "t325",
+      "speaker": "barber",
+      "text": "That's the current version.",
+      "start": 3708.72,
+      "end": 3710.3
+    },
+    {
+      "id": "t326",
+      "speaker": "jackson",
+      "text": "That's the current version? Okay.",
+      "start": 3710.3,
+      "end": 3711.72
+    },
+    {
+      "id": "t327",
+      "speaker": "barber",
+      "text": "Yeah. That's not the Robison version.",
+      "start": 3711.72,
+      "end": 3712.94
+    },
+    {
+      "id": "t328",
+      "speaker": "jackson",
+      "text": "All right. Got it. Thank you.",
+      "start": 3712.94,
+      "end": 3715.48
+    },
+    {
+      "id": "t329",
+      "speaker": "barber",
+      "text": "Yep. I don't have anything more to add, so we can proceed to seriatim.",
+      "start": 3715.48,
+      "end": 3723.08
+    },
+    {
+      "id": "t330",
+      "speaker": "roberts",
+      "text": "Okay. Justice Thomas? Justice Alito? Justice Gorsuch? Justice Kagan? I can't quite see you there. Justice Barrett, anything further? Justice Kavanaugh, anything further? Thank you, counsel.",
+      "start": 3723.08,
+      "end": 3728.46
+    },
+    {
+      "id": "t331",
+      "speaker": "barber",
+      "text": "Thank you.",
+      "start": 3728.46,
+      "end": 3733.84
+    },
+    {
+      "id": "t332",
+      "speaker": "roberts",
+      "text": "Rebuttal, Mr. Chen?",
+      "start": 3733.84,
+      "end": 3739.22
+    },
+    {
+      "id": "t333",
+      "speaker": "chen",
+      "text": "Thank you, Mr. Chief Justice. So, on the distinction between attacks on statutes on one hand, which, in this context, has been called facial, versus attacks on agency action, that line is -- has proven to be quite -- lower courts have at least been able to -- have been able to draw that line perfectly adequately. We have decades of experience from Robison, from 1974, where lower courts have developed these simple tests to figure out whether a challenge is actually to a statute versus whether it's -- whether it attacks the inherent characteristics of a statute versus whether it attacks agency action. And we also know that this is both before and after the VJRA was passed in 1988, because, after 1988, most lower courts have -- most lower courts have adhered to the line that Robison drew. Not only that, the BVA has continued to draw that line perfectly adequately. They have to identify -- they consistently identify what challenges they can and cannot decide. So I want to talk about this idea of -- so I want to address the government's other proposed solutions to this Article II problem. The government says that the Secretary could order reconsideration of a BVA's -- the BVA's decisions. That's not right. The -- the Secretary can't do that. The -- only the BVA chairman can order reconsideration of a BVA proceeding. But even if, even if the government was correct that the Secretary could order the BVA to keep on ordering reconsiderations until the Secretary's outcome -- preferred outcome was reached, that is the exact kind of back-channel jury-rigging that this court in Arthrex held was insufficient for purposes of the Appointments Clause. So, even -- even -- even granting the government all those things, it still doesn't work under the Appointments Clause. I think the government also alluded to this sort of instruction power about how somehow the government, the Secretary could dictate the outcomes of individual BVA proceedings using its instruction powers retrospectively or -- I think that not even -- not even the VA has construed the instruction power that broadly because it is quite startling. And the reason it's startling is because Congress was very detailed in setting out the BVA's procedures. Congress made -- directed that the BVA has to make the agency's final decisions on all 511(a) matters. It precluded the Secretary from appealing them. It said that only the BVA chairman can order reconsideration. And there is no provision that establishes direct review by the Secretary of the BVA's decisions. All of those provisions would be meaningless if the -- the -- if the Secretary could, whenever it wanted to, retrospectively -- retrospectively dictate the outcome of individual BVA proceedings. And, in fact, the VA, in its own GC opinion from 1992, says that the instruction power is just a term of art that refers to guidance documents published for newly enacted -- or guiding newly enacted legislation prior to the issuance of reg -- issuance of regulations. And so not even the government thinks that the instruction power is --is as broad as they are saying right now. I want to talk about the asymmetric review provision. The bottom line is that any problems -- any constitutional problem that arises out of the asymmetric review provision is so much more serious on the government's reading of the statute because only the government's reading of the statute opens the category of unreviewable BVA decisions to include decisions about whether to disregard an Act of Congress. And that is a particularly weighty and significant exercise of -- of executive power. And then one thing I'd like to address is the -- my -- my friend directed you to the case Weinberger, which did have --did consider language about \"claim arising under\" the statute. But what he didn't tell you is that Weinberger explicitly distinguished Robison and said that the language in Robison, the decision -- the \"decision under the law\" language in Robison was \"quite different\" from the \"claim arising under\" -- \"under a statute\" language such that only the latter includes -- can include constitutional challenges to statutes. I think that is all I have or want to address. So I don't want to keep us from lunch and --",
+      "start": 3739.22,
+      "end": 4012.32
+    },
+    {
+      "id": "t334",
+      "speaker": "roberts",
+      "text": "Thank you, counsel. The case is submitted. (Whereupon, at 1:02 p.m., the case was submitted.)",
+      "start": 4012.32,
+      "end": 4014.04
+    }
+  ],
+  "friction": {
+    "title": "Friction",
+    "lede": "Where a legal theory meets resistance it cannot easily overcome.",
+    "kinds": [
+      {
+        "id": "confrontation",
+        "label": "Confrontation",
+        "definition": "A justice keeps pressing an advocate, and does not take the first answer."
+      },
+      {
+        "id": "revelation",
+        "label": "Revelation",
+        "definition": "A quiet question draws a concession that could decide the case."
+      },
+      {
+        "id": "collision",
+        "label": "Collision",
+        "definition": "Two readings of the law meet, sometimes between the justices."
+      }
+    ],
+    "moments": [
+      {
+        "id": "alito-text",
+        "kind": "confrontation",
+        "start": 373.41,
+        "end": 683.59,
+        "title": "Squared with the text",
+        "who": "Justice Alito",
+        "quote": "I don't understand how your argument can be squared with the text of 511(a).",
+        "note": "He does not let the facial and as-applied line go. If the Constitution is a law that affects benefits in one setting, he asks why the text treats it differently in the other. He then asks whether the Board could refuse to apply a statute that cut off benefits for criticizing the Commander in Chief.",
+        "draft": true
+      },
+      {
+        "id": "gorsuch-today",
+        "kind": "confrontation",
+        "start": 2551.3,
+        "end": 2940.92,
+        "title": "Up until today",
+        "who": "Justice Gorsuch",
+        "quote": "So you disagree with what you said last year and you disagree with the Veterans Court?",
+        "note": "Gorsuch presses Barber on a job the Board has not been doing. The government now says the Board must decide constitutional questions. He says that was not the government's position a year ago, in Pereida, and not the dominant reading since the statute was enacted.",
+        "draft": true
+      },
+      {
+        "id": "chen-practice",
+        "kind": "revelation",
+        "start": 1401.79,
+        "end": 1503.6,
+        "title": "It doesn't happen",
+        "who": "Mr. Chen",
+        "quote": "So, candidly, I don't think it does work in practice.",
+        "note": "Gorsuch asks how the Board would get a constitutional answer from the agency. Chen says the VA's last precedent opinion was in 2019, that this path does not happen, and that no one at the agency then decides the question.",
+        "draft": true
+      },
+      {
+        "id": "barber-theory",
+        "kind": "revelation",
+        "start": 3090.42,
+        "end": 3204.78,
+        "title": "In theory",
+        "who": "Mr. Barber",
+        "quote": "I think you could certainly write an opinion like that in theory. I think it would break down very quickly in practice.",
+        "note": "Alito calls it a damage-control question: could the Court keep fact-light constitutional claims in district court and channel the rest? Barber says an opinion could draw that line, then says the line will not hold.",
+        "draft": true
+      },
+      {
+        "id": "jackson-kagan",
+        "kind": "collision",
+        "start": 1047.99,
+        "end": 1212.73,
+        "title": "Be careful, counsel",
+        "who": "Justices Jackson, Kagan, and Gorsuch",
+        "quote": "Be careful, counsel.",
+        "note": "Jackson offers Chen a reading: a decision under a law takes the statute as given, so the constitutional question is not the Secretary's to decide. Kagan says that reading adds words, and that the constitutional question is the most necessary one. Asked whether her reading is at least equally plausible, Gorsuch warns counsel. Kagan says she is not sure the two readings are equal.",
+        "draft": true
+      },
+      {
+        "id": "kagan-version",
+        "kind": "collision",
+        "start": 3427.74,
+        "end": 3723.08,
+        "title": "Version 2 of the statute",
+        "who": "Justices Kagan and Jackson",
+        "quote": "If all I do is look at 511 alone, I think you have the better of the argument.",
+        "note": "Kagan tells Barber the text of § 511 favors the government, and that the way Congress rewrote the older statute makes a silent reversal of Johnson v. Robison harder to see. Jackson asks why those changes are enough to leave Robison behind.",
+        "draft": true
+      }
+    ]
+  },
+  "highlights": [
+    {
+      "id": "thomas-applied",
+      "speaker": "thomas",
+      "turnId": "t3",
+      "start": 136.65,
+      "title": "As-applied, or not that word",
+      "note": "Thomas’s first question is whether as-applied constitutional challenges can be heard under § 511. Chen treats the facial / as-applied labels as a red herring and draws the line he says Robison drew: challenges to statutes on one side, challenges to agency action on the other.",
+      "quote": "Can applied constitutional challenges be considered under 511?",
+      "draft": true
+    },
+    {
+      "id": "jackson-slice",
+      "speaker": "jackson",
+      "turnId": "t7",
+      "start": 234.51,
+      "title": "A weird way to slice it",
+      "note": "Jackson calls that cut strange. She asks why a due process challenge, which Chen would send to the Board, is inside § 511 when a challenge to the statute is not.",
+      "quote": "But what a weird -- what a weird --",
+      "draft": true
+    },
+    {
+      "id": "alito-literal",
+      "speaker": "alito",
+      "turnId": "t23",
+      "start": 373.41,
+      "title": "The text, read literally",
+      "note": "Alito says he does not see how Chen’s line fits § 511(a). In a literal sense, he says, the Constitution is a law that affects the provision of benefits.",
+      "quote": "Well, I don't understand how your argument can be squared with the -- with the text of 511(a).",
+      "draft": true
+    },
+    {
+      "id": "gorsuch-hole",
+      "speaker": "gorsuch",
+      "turnId": "t41",
+      "start": 683.59,
+      "title": "Why go down that rabbit hole",
+      "note": "Gorsuch separates two questions: whether the Board may follow the Constitution, and whether § 511 keeps a constitutional challenge to a statute out of district court.",
+      "quote": "Well, counsel, why do we need to go down that rabbit hole? Now maybe we do, and I'll follow you down it if I have to.",
+      "draft": true
+    },
+    {
+      "id": "kagan-necessary",
+      "speaker": "kagan",
+      "turnId": "t65",
+      "start": 936.17,
+      "title": "What could be more necessary",
+      "note": "Kagan says a constitutional challenge to the benefits statute is a question of law the Secretary has to decide before applying that statute. That is the front half of § 511(a), not a side issue.",
+      "quote": "And what would be more necessary to a decision about benefits than deciding whether the benefits statute itself is constitutional?",
+      "draft": true
+    },
+    {
+      "id": "barber-channel",
+      "speaker": "barber",
+      "turnId": "t172",
+      "start": 2001.38,
+      "title": "Review, but not in district court",
+      "note": "Barber’s opening for the United States Congress: Johnson is entitled to judicial review, in the veterans courts. Whether § 5313 is valid decides whether his benefits must be reduced, so § 511(a) channels the claim.",
+      "quote": "Chief Justice, and may it please the Court: The law entitles Petitioner to judicial review, just not in district court.",
+      "draft": true
+    }
+  ]
+}

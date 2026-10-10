@@ -312,9 +312,15 @@ p {
   color: #fff;
 }
 
-.badge-status {
+.badge-status,
+.badge-upcoming {
   background: rgba(184, 134, 11, 0.15);
   color: #7a5a00;
+}
+
+.badge-decided {
+  background: rgba(30, 58, 95, 0.1);
+  color: var(--color-accent);
 }
 
 .tag-row {
@@ -403,6 +409,78 @@ p {
 
 .hero-panel li + li {
   margin-top: 0.5rem;
+}
+
+.chamber-band {
+  padding: 0 0 1rem;
+}
+
+.chamber-card {
+  display: block;
+  padding: 2rem 2.1rem;
+  text-decoration: none;
+  color: #f4efe6;
+  background:
+    radial-gradient(500px 180px at 100% 0%, rgba(228, 194, 122, 0.18), transparent 60%),
+    #121816;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+.chamber-card h2 {
+  color: #f7f3ea;
+  margin-bottom: 0.5rem;
+}
+
+.chamber-card p {
+  max-width: 40rem;
+  margin: 0;
+  color: #d9d2c5;
+}
+
+.chamber-card:hover {
+  color: #f4efe6;
+}
+
+.chamber-meta {
+  margin: 0 0 0.75rem;
+  color: #e4c27a;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.chamber-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.35rem;
+}
+
+.chamber-card .btn-primary {
+  background: #e4c27a;
+  color: #1a1408;
+}
+
+.chamber-card .btn-primary:hover {
+  background: #f0d7a4;
+  color: #1a1408;
+}
+
+.chamber-friction {
+  background: transparent;
+  color: #f7f3ea;
+  border-color: rgba(244, 239, 230, 0.35);
+}
+
+.chamber-friction:hover {
+  background: rgba(244, 239, 230, 0.08);
+  color: #f7f3ea;
+}
+
+.argument-list {
+  display: grid;
+  gap: 1.25rem;
 }
 
 /* Mission */
@@ -554,6 +632,22 @@ p {
   gap: 1.5rem;
 }
 
+.case-group {
+  grid-column: 1 / -1;
+}
+
+.case-group:not(:first-child) {
+  margin-top: 0.75rem;
+}
+
+.case-group .section-label {
+  margin-bottom: 0;
+}
+
+.case-card[data-stage='upcoming'] {
+  grid-column: 1 / -1;
+}
+
 .case-card-header {
   display: flex;
   gap: 0.5rem;
@@ -605,13 +699,19 @@ p {
 .case-footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
   margin-top: 1.25rem;
   padding-top: 1.25rem;
   border-top: 1px solid var(--color-border);
   font-size: 0.8125rem;
   color: var(--color-ink-soft);
+}
+
+.case-footer a {
+  margin-left: auto;
+  white-space: nowrap;
 }
 
 /* About page */

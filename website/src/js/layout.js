@@ -2,6 +2,7 @@ import { site } from '../data/site.js';
 
 const navLinks = [
   { href: '/index.html', label: 'Home', match: (path) => path.endsWith('/') || path.endsWith('/index.html') || path.endsWith('inside-black-boxes/website') },
+  { href: '/arguments/index.html', label: 'Listen', match: (path) => path.includes('/arguments/') },
   { href: '/episodes.html', label: 'Episodes', match: (path) => path.includes('episodes.html') || path.includes('/episodes/') },
   { href: '/about.html', label: 'About', match: (path) => path.includes('about.html') },
 ];
@@ -22,7 +23,7 @@ export function renderHeader() {
           <span class="logo-mark" aria-hidden="true"></span>
           <span class="logo-text">
             <span class="logo-name">${site.name}</span>
-            <span class="logo-tagline">Supreme Court · Immigration · Admin Law · AI</span>
+            <span class="logo-tagline">The Supreme Court and the future of law</span>
           </span>
         </a>
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
@@ -35,7 +36,7 @@ export function renderHeader() {
                 `<a href="${link.href}" class="nav-link${isActive(link) ? ' is-active' : ''}">${link.label}</a>`
             )
             .join('')}
-          <a class="btn btn-primary btn-sm nav-cta" href="/episodes.html#tracked">Cases Tracked</a>
+          <a class="btn btn-primary btn-sm nav-cta" href="/episodes.html#tracked">Docket</a>
         </nav>
       </div>
     </header>
@@ -63,8 +64,9 @@ export function renderFooter() {
         </div>
         <div class="footer-links">
           <p class="footer-heading">Explore</p>
+          <a href="/arguments/index.html">Listen</a>
           <a href="/episodes.html">Episode archive</a>
-          <a href="/episodes.html#tracked">Cases tracked</a>
+          <a href="/episodes.html#tracked">The docket</a>
           <a href="/about.html">About the host</a>
         </div>
         <div class="footer-links">

@@ -9,6 +9,8 @@ export default defineConfig({
         episodes: resolve(__dirname, 'episodes.html'),
         about: resolve(__dirname, 'about.html'),
         episodeDetail: resolve(__dirname, 'episodes/urias-orellana.html'),
+        argumentsIndex: resolve(__dirname, 'arguments/index.html'),
+        johnson: resolve(__dirname, 'arguments/johnson.html'),
       },
     },
   },

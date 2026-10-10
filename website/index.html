@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Inside Black Boxes — Supreme Court decisions on immigration, administrative law, and AI, explained for lawyers, academics, and policymakers."
+      content="Inside Black Boxes follows the Supreme Court for lawyers, academics, and policymakers thinking about the future of law."
     />
-    <title>Inside Black Boxes — Supreme Court · Immigration · Admin Law · AI</title>
+    <title>Inside Black Boxes — The Supreme Court and the future of law</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
     <link rel="stylesheet" href="/src/styles/main.css" />
   </head>
@@ -18,41 +18,46 @@
       <section class="hero">
         <div class="container hero-grid">
           <div class="hero-content">
-            <p class="hero-eyebrow">A podcast for practitioners</p>
+            <p class="hero-eyebrow">The Court, and the future it is writing</p>
             <h1>Open the <em>black boxes</em> that shape American law</h1>
             <p class="hero-lede">
-              Timely analysis of Supreme Court decisions in immigration and administrative law —
-              plus the AI governance questions courts and agencies haven't fully answered yet.
+              The Supreme Court is deciding what the law will be, and what that means for the people
+              who live under it — immigration, the power of agencies, and the questions technology
+              is putting in front of judges.
             </p>
             <div class="hero-actions">
-              <a class="btn btn-primary" href="#featured">Featured episode</a>
-              <a class="btn btn-secondary" href="/episodes.html#tracked">Cases we're tracking</a>
+              <a class="btn btn-primary" href="/arguments/johnson.html">Listen to an argument</a>
+              <a class="btn btn-secondary" href="#docket">The docket</a>
             </div>
           </div>
           <aside class="hero-panel" aria-label="Podcast mission">
             <h2>What we cover</h2>
             <p>
-              When the Court issues an opinion, practitioners need more than a headline.
-              Inside Black Boxes translates holdings into Monday-morning guidance.
+              The Court’s work is public. The reasoning is harder to see.
+              Inside Black Boxes follows what a decision does to the law, and to the people living with it.
             </p>
             <ul>
               <li>Supreme Court opinions and oral arguments</li>
-              <li>Immigration and nationality law</li>
-              <li>Administrative procedure and judicial review</li>
-              <li>Generative AI and enterprise legal technology</li>
+              <li>Immigration and the power of agencies</li>
+              <li>How a holding reaches ordinary life</li>
+              <li>Courts, technology, and the rules still being written</li>
             </ul>
           </aside>
         </div>
+      </section>
+
+      <section class="chamber-band">
+        <div class="container" id="argument-cards"></div>
       </section>
 
       <section class="section" id="mission">
         <div class="container">
           <div class="section-header">
             <span class="section-label">Mission</span>
-            <h2>Clarity for lawyers, academics, and policymakers</h2>
+            <h2>For lawyers, academics, and policymakers</h2>
             <p class="section-desc">
-              The institutions that decide immigration cases and govern agency action are often opaque.
-              This podcast makes their outputs legible — with accuracy first, speed second, and hot takes never.
+              The institutions that decide cases and govern agencies are often opaque.
+              This show makes their reasoning legible — accuracy first, and hot takes never.
             </p>
           </div>
           <div class="mission-grid">
@@ -60,58 +65,58 @@
               <div class="mission-icon" aria-hidden="true">§</div>
               <h3>Holdings you can rely on</h3>
               <p>
-                Every episode is built from official slip opinions and verified by an immigration
-                and administrative law attorney before publication.
+                Holdings and quotes are checked against the official opinion or the Court’s own
+                recording, and an attorney reviews them before they are published.
               </p>
             </article>
             <article class="mission-card card">
               <div class="mission-icon" aria-hidden="true">⚖</div>
-              <h3>Practitioner-first framing</h3>
+              <h3>The shape of the law</h3>
               <p>
-                We focus on standards of review, remand issues, and client-impact checklists —
-                not punditry or political scorekeeping.
+                What a decision does to doctrine, to institutions, and to the people on the
+                other side of it.
               </p>
             </article>
             <article class="mission-card card">
               <div class="mission-icon" aria-hidden="true">◈</div>
               <h3>Law meets emerging tech</h3>
               <p>
-                As courts and firms adopt AI, we track the legal questions that follow:
-                disclosure, governance, and the limits of automation in high-stakes practice.
+                Courts and agencies are being asked to govern systems that will shape ordinary life:
+                disclosure, responsibility, and the limits of automation.
               </p>
             </article>
           </div>
         </div>
       </section>
 
-      <section class="section" id="featured" style="background: var(--color-bg-alt);">
-        <div class="container">
-          <div class="section-header">
-            <span class="section-label">Featured</span>
-            <h2>Latest episode</h2>
-            <p class="section-desc">
-              Our most recent analysis — starting with a dry run of the opinion-drop workflow
-              on a March 2026 asylum decision.
-            </p>
-          </div>
-          <div id="featured-episode"></div>
-        </div>
-      </section>
-
-      <section class="section" id="tracked-preview">
+      <section class="section" id="docket">
         <div class="container">
           <div class="section-header">
             <span class="section-label">On the docket</span>
-            <h2>Cases we're tracking</h2>
+            <h2>What the Court is doing</h2>
             <p class="section-desc">
-              Three major immigration decisions expected before the October 2025 Term ends.
-              Episodes publish upon release of the slip opinion.
+              The immigration argument already on the calendar, and three decisions from the end of last term.
+              A case moves when the Court grants review, hears argument, or issues an opinion.
             </p>
           </div>
           <div id="tracked-cases-preview" class="cases-grid"></div>
           <p style="margin-top: 2rem; text-align: center;">
-            <a class="btn btn-secondary" href="/episodes.html#tracked">View full case tracker</a>
+            <a class="btn btn-secondary" href="/episodes.html#tracked">View the full docket</a>
           </p>
+        </div>
+      </section>
+
+      <section class="section" id="archive" style="background: var(--color-bg-alt);">
+        <div class="container">
+          <div class="section-header">
+            <span class="section-label">Archive</span>
+            <h2>An earlier walkthrough</h2>
+            <p class="section-desc">
+              Urias-Orellana v. Bondi, decided March 4, 2026. A draft walkthrough of a unanimous
+              asylum decision, from before this term’s arguments.
+            </p>
+          </div>
+          <div id="featured-episode"></div>
         </div>
       </section>
 
@@ -119,8 +124,8 @@
         <div class="container">
           <h2>Follow the Court. Skip the noise.</h2>
           <p>
-            Subscribe for episode drops when major immigration and administrative law
-            decisions land — plus oral argument coverage when the new Term begins.
+            Arguments as they are heard, and decisions when they land — immigration,
+            agency power, and the future those choices are writing.
           </p>
           <a class="btn btn-primary" href="/about.html">Meet the host</a>
         </div>
@@ -131,9 +136,10 @@
 
     <script type="module">
       import { initLayout } from '/src/js/layout.js';
-      import { renderFeaturedEpisode, renderTrackedCases } from '/src/js/render.js';
+      import { renderFeaturedArguments, renderFeaturedEpisode, renderTrackedCases } from '/src/js/render.js';
 
       initLayout();
+      renderFeaturedArguments(document.getElementById('argument-cards'));
       renderFeaturedEpisode(document.getElementById('featured-episode'));
       renderTrackedCases(document.getElementById('tracked-cases-preview'));
     </script>

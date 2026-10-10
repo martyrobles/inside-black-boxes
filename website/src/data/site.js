@@ -1,19 +1,33 @@
 export const site = {
   name: 'Inside Black Boxes',
-  tagline: 'Supreme Court decisions, explained for practitioners.',
+  tagline: 'How the Supreme Court is shaping the law, and the lives under it.',
   description:
-    'Inside Black Boxes is a podcast for immigration lawyers, administrative law practitioners, academics, and policymakers who need clear, timely analysis of Supreme Court decisions — without the noise.',
+    'Inside Black Boxes follows the Supreme Court for lawyers, academics, and policymakers thinking about the future of law — how a decision moves doctrine, institutions, and ordinary life.',
   email: 'hello@insideblackboxes.com',
 };
+
+export const featuredArguments = [
+  {
+    slug: 'johnson',
+    name: 'Johnson v. United States Congress',
+    docket: '25-735',
+    argued: 'October 5, 2026',
+    status: 'No opinion yet',
+    href: '/arguments/johnson.html',
+    friction: true,
+    summary:
+      'The Court’s recording, the transcript beside it, and a jump to each justice. Playback runs from the Court’s pace up to 2.5×. Friction is the confrontations, the revelations, and the collisions.',
+  },
+];
 
 export const episodes = [
   {
     slug: 'urias-orellana',
     title: 'Substantial Evidence and Asylum: Urias-Orellana v. Bondi',
-    subtitle: 'Workflow dry run · Standard of review for BIA persecution determinations',
+    subtitle: 'Draft walkthrough · Substantial-evidence review of a BIA persecution finding',
     type: 'Opinion drop',
     status: 'Draft',
-    featured: true,
+    featured: false,
     date: '2026-03-04',
     runtime: '12 min',
     episodeNumber: 'TEST-001',
@@ -31,43 +45,62 @@ export const episodes = [
 
 export const trackedCases = [
   {
+    name: 'Department of Homeland Security v. D.V.D.',
+    docket: '26-426',
+    stage: 'upcoming',
+    status: 'Argument set',
+    topic: 'Third-country removal',
+    question:
+      'Whether the district court had jurisdiction, whether it could grant classwide relief and set the guidance aside under 8 U.S.C. § 1252(f)(1), and whether the government’s third-country-removal guidance is unlawful.',
+    argument: 'December 9, 2026',
+    docketUrl: 'https://www.supremecourt.gov/docket/docketfiles/html/public/26-426.html',
+    description:
+      'The Court will hear whether the government can remove someone to a country that is not their own, and whether a district court can stop that guidance. A stay of the lower-court order is already in place. Justices Sotomayor, Kagan, and Jackson would have denied the stay.',
+  },
+  {
     name: 'Trump v. Barbara',
     docket: '25-365',
-    status: 'Pending — decision expected',
-    priority: 'P1',
-    topic: 'Birthright Citizenship',
-    question:
-      'Whether Executive Order No. 14,160 complies with the Citizenship Clause of the Fourteenth Amendment and 8 U.S.C. § 1401(a).',
+    stage: 'decided',
+    status: 'Decided',
+    topic: 'Birthright citizenship',
+    holding:
+      'Children born in the United States to parents unlawfully or temporarily present are citizens at birth under the Fourteenth Amendment’s Citizenship Clause.',
+    disposition: 'Affirmed, 6–3',
+    decided: 'June 30, 2026',
     argued: 'April 1, 2026',
-    scotusblog: 'https://www.scotusblog.com/cases/trump-v-barbara/',
+    opinionUrl: 'https://www.supremecourt.gov/opinions/25pdf/25-365_new_5if6.pdf',
     description:
-      'Challenge to the executive order barring citizenship for children born in the U.S. when parents entered illegally or hold temporary lawful status. Every lower court to review the order has blocked it as unconstitutional.',
+      'An executive order would have denied citizenship to children born here when their parents were unlawfully or temporarily present. The Court held that the Citizenship Clause still covers those children.',
   },
   {
     name: 'Mullin v. Doe / Trump v. Miot',
     docket: '25-1083 / 25-1084',
-    status: 'Pending — decision expected',
-    priority: 'P2',
-    topic: 'Temporary Protected Status',
-    question:
-      'Whether DHS may terminate TPS designations for Haiti and Syria, and whether those decisions are subject to judicial review under the APA.',
+    stage: 'decided',
+    status: 'Decided',
+    topic: 'Temporary protected status',
+    holding:
+      'The TPS statute bars judicial review of non-constitutional challenges to a designation, extension, or termination. The orders pausing the Haiti and Syria terminations are reversed.',
+    disposition: 'Reversed and remanded',
+    decided: 'June 25, 2026',
     argued: 'April 29, 2026',
-    scotusblog: 'https://www.scotusblog.com/cases/noem-v-doe-3/',
+    opinionUrl: 'https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf',
     description:
-      'Consolidated challenges to termination of TPS for roughly 300,000 Haitian nationals and approximately 3,800 Syrian nationals — testing the future of a program every prior administration has used for 36 years.',
+      'The Secretary moved to end temporary protected status for Haiti and Syria. The Court held that most challenges to that choice cannot be reviewed, and it lifted the interim orders that had kept the terminations on hold.',
   },
   {
     name: 'Blanche v. Lau',
     docket: '25-429',
-    status: 'Pending — decision expected',
-    priority: 'P3',
-    topic: 'Returning Lawful Permanent Residents',
-    question:
-      'Whether DHS must possess clear and convincing evidence of a § 1182(a)(2) offense at the time of an LPR\'s last reentry to treat them as an applicant for admission.',
+    stage: 'decided',
+    status: 'Decided',
+    topic: 'Returning lawful permanent residents',
+    holding:
+      'Border officers need not have clear and convincing evidence at reentry before treating a returning lawful permanent resident as an applicant for admission.',
+    disposition: 'Vacated and remanded, 6–3',
+    decided: 'June 23, 2026',
     argued: 'April 22, 2026',
-    scotusblog: 'https://www.scotusblog.com/cases/bondi-v-lau/',
+    opinionUrl: 'https://www.supremecourt.gov/opinions/25pdf/25-429_h3ci.pdf',
     description:
-      'The sleeper case immigration lawyers are watching: when must the government have proof of a disqualifying offense — at the border, or can it develop evidence later in removal proceedings?',
+      'The government can develop the proof later, in removal proceedings. The Court left open whether Lau’s offense was a crime involving moral turpitude.',
   },
 ];
 
@@ -77,7 +110,7 @@ export const host = {
   bio: [
     'Marty Robles-Avila is an immigration and administrative law attorney who practices at the intersection of federal courts, agency action, and emerging technology.',
     'He created Inside Black Boxes to open the institutional black boxes that shape American law — Supreme Court decision-making, immigration enforcement, administrative procedure, and the rapid adoption of generative AI in legal and enterprise settings.',
-    'The podcast is built for practitioners who need to know what a decision means Monday morning, academics tracking doctrinal shifts, and policymakers evaluating the downstream effects of court rulings and AI governance.',
+    'The show is for lawyers, academics, and policymakers thinking about where the law is going — how a Supreme Court decision moves doctrine, institutions, and the people living with the result.',
   ],
   focus: [
     'Supreme Court oral arguments and published opinions',

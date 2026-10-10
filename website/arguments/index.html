@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Oral arguments on Inside Black Boxes. Every argument we feature has Friction: confrontations, revelations, and collisions you can jump to."
+    />
+    <title>Listen — Inside Black Boxes</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main>
+      <section class="page-hero">
+        <div class="container">
+          <span class="section-label">Listen</span>
+          <h1>Arguments</h1>
+          <p class="lede">
+            Every argument we feature carries the Court’s recording, the transcript, and Friction —
+            the confrontations, revelations, and collisions. Hit Friction to land on those moments.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container argument-list" id="argument-cards"></div>
+      </section>
+    </main>
+
+    <div id="site-footer"></div>
+
+    <script type="module">
+      import { initLayout } from '/src/js/layout.js';
+      import { renderFeaturedArguments } from '/src/js/render.js';
+
+      initLayout();
+      renderFeaturedArguments(document.getElementById('argument-cards'), { kicker: 'Oral argument' });
+    </script>
+  </body>
+</html>

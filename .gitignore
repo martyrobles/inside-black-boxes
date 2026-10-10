@@ -2,6 +2,7 @@
 node_modules/
 website/node_modules/
 website/dist/
+website/.cache/
 apps/lab/node_modules/
 apps/lab/.next/
 apps/lab/.env.local

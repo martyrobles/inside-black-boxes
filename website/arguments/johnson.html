@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Listen to Johnson v. United States Congress, No. 25-735. Official argument audio, the Court's transcript, a jump to each justice, and the moments of friction."
+    />
+    <title>Johnson v. United States Congress — Inside Black Boxes</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231e3a5f' width='100' height='100' rx='16'/><rect fill='none' stroke='%23fff' stroke-width='6' x='22' y='22' width='56' height='56' rx='6'/></svg>" />
+    <link rel="stylesheet" href="/src/styles/main.css" />
+    <link rel="stylesheet" href="/src/styles/listen.css" />
+  </head>
+  <body class="page-listen">
+    <div id="site-header"></div>
+
+    <main class="listen">
+      <header class="listen-hero">
+        <div class="container">
+          <p class="listen-kicker">Oral argument · October 5, 2026</p>
+          <h1>Johnson v. <em>United States Congress</em></h1>
+          <p class="listen-question" id="listen-question"></p>
+          <dl class="listen-facts">
+            <div><dt>Docket</dt><dd>No. 25-735</dd></div>
+            <div><dt>Argued</dt><dd>October 5, 2026</dd></div>
+            <div><dt>Opinion</dt><dd>Not yet issued</dd></div>
+            <div><dt>For the petitioner</dt><dd>Jeffrey W. Chen</dd></div>
+            <div><dt>For the respondent</dt><dd>Kevin J. Barber</dd></div>
+          </dl>
+        </div>
+      </header>
+
+      <div class="container listen-body">
+        <div class="bench-bar">
+          <div class="bench-label-row">
+            <p class="bench-label" id="bench-label">The bench</p>
+            <div class="bench-actions">
+              <a class="friction-jump" id="friction-jump" href="#friction" hidden>Friction</a>
+              <button type="button" class="sequence-btn" id="sequence-btn" hidden>Play in sequence</button>
+            </div>
+          </div>
+          <div class="bench" id="bench" role="toolbar" aria-label="Jump to a speaker"></div>
+        </div>
+
+        <section class="friction" id="friction" aria-labelledby="friction-heading" hidden>
+          <div class="friction-head">
+            <div>
+              <h2 id="friction-heading">Friction</h2>
+              <p class="friction-lede" id="friction-lede"></p>
+            </div>
+            <span class="draft-pill">Draft</span>
+          </div>
+          <div class="friction-kinds" id="friction-kinds" role="toolbar" aria-label="Kinds of friction"></div>
+          <p class="friction-definition" id="friction-definition" hidden></p>
+          <div class="friction-row" id="friction-row"></div>
+        </section>
+
+        <div class="listen-grid">
+          <section class="transcript-panel" aria-labelledby="transcript-heading">
+            <div class="panel-head">
+              <h2 id="transcript-heading">Transcript</h2>
+              <button type="button" class="follow-btn" id="follow-btn" hidden>Follow the audio</button>
+            </div>
+            <p class="now-line" id="now-line" hidden></p>
+            <div id="transcript" class="transcript"></div>
+          </section>
+
+          <aside class="highlight-panel" aria-labelledby="highlight-heading">
+            <section class="listen-summary" aria-labelledby="summary-heading">
+              <div class="listen-summary-top">
+                <h2 id="summary-heading">Summary</h2>
+                <span class="draft-pill">Draft</span>
+              </div>
+              <p id="listen-summary"></p>
+              <p class="listen-sources">
+                <a id="source-audio" href="https://www.supremecourt.gov/oral_arguments/audio/2026/25-735">Court recording</a>
+                <a id="source-transcript" href="https://www.supremecourt.gov/oral_arguments/argument_transcripts/2026/25-735_ca7d.pdf">Court transcript</a>
+              </p>
+            </section>
+            <div class="panel-head">
+              <h2 id="highlight-heading">Highlights</h2>
+              <span class="draft-pill">Draft</span>
+            </div>
+            <div id="highlights" class="highlights"></div>
+            <p class="listen-note">
+              Draft notes for your review. The recording and the transcript words are the Supreme Court’s.
+              Turn times were aligned to that recording. Not legal advice. AI tools assisted with the timing and these notes.
+            </p>
+          </aside>
+        </div>
+      </div>
+    </main>
+
+    <div class="player-dock" id="player-dock">
+      <div class="container dock-inner">
+        <div class="dock-top">
+          <button type="button" class="play-btn" id="play-btn" aria-label="Play argument">
+            <span id="play-icon" aria-hidden="true">▶</span>
+          </button>
+          <div class="dock-meta">
+            <p class="dock-title">Johnson v. United States Congress</p>
+            <p class="dock-time"><span id="time-now">0:00</span> <span class="dock-dur">/ <span id="time-dur">66:55</span></span></p>
+          </div>
+        </div>
+        <label class="scrub-label">
+          <span class="visually-hidden">Seek</span>
+          <input id="scrub" type="range" min="0" max="4015" value="0" step="0.1" />
+        </label>
+        <div class="speed-row">
+          <span class="speed-label" id="speed-label">Speed</span>
+          <div class="speed-options" id="speed-options" role="radiogroup" aria-labelledby="speed-label"></div>
+        </div>
+        <p class="player-error" id="player-error" hidden>The Court’s recording didn’t load. Open it from the link above and try the player again.</p>
+      </div>
+    </div>
+
+    <div id="site-footer"></div>
+
+    <script type="module">
+      import { initLayout } from '/src/js/layout.js';
+      import { initListener } from '/src/js/listen.js';
+      import johnson from '/src/data/johnson.json';
+
+      initLayout();
+      initListener(johnson);
+    </script>
+  </body>
+</html>
